@@ -2,7 +2,7 @@ import pickle
 import math
 import copy
 
-f = open('combined_biotext.txt','r');
+f = open('PS01162.txt','r');
 text =  f.readline();
 #text = text.replace('_','');
 f.close();
@@ -12,7 +12,7 @@ print X
 
 DLG_stored = []
 freq = dict()
-f = open('bio_ngram_1','rb')
+f = open('PS01162_ngram','rb')
 freq = pickle.load(f)
 f.close()
 
@@ -108,7 +108,7 @@ def DLG(s):
 	total =0
 	for key,value in freq.iteritems():
 		csx = occurrences(s,key)
-        #print '{} occurs {} times in {}'.format(key,csx,s)
+        	#print '{} occurs {} times in {}'.format(key,csx,s)
 		cx = value - cs*csx + csx
 		#print 'cs '+str(cs)+ ' value ' +str(value)+' cx '+str(cx)+' csx '+str(csx)+' n '+str(n)
 		total += cx * (math.log((cx/(1.0*n)),2))
@@ -125,8 +125,8 @@ DLG_stored = []
 DL = corpusDL()
 print DL
 
-#test =text
-test="MFKVYGYDSNIHKCVYCDNAKRLLTVKKQPFEFINIMPEKGVFDDEKIAELLTKLGRDTQIGLTMPQVFAPDGSHIGGFDQLREYFK" 
+test =text
+#test="MVKIVTVKTKAYPDQKPGTSGLRKRVKVFQSSTNYAENFIQSIISTVEPAQRQEATLVVGGDGRFYMKEAIQLIVRIAAANGIGRLVIGQNGILSTPAVSCIIRKIKAIGGIILTASHNPGGPNGDFGIKFNISNGGPAPEAITDKIFQISKTIEEYAICPDLKVDLGVLGKQQFDLENKFKPFTVEIVDSVEAYATMLRNIFDFNALKELLSGPNRLKIRIDAMHGVVGPYVKKILCEELGAPANSAVNCVPLEDFGGHHPDPNLTYAADLVETMKSGEHDFGAAFDGDGDRNMILGKHGFFVNPSDSVAVIAANIFSIPYFQQTGVRGFARSMPTSGALDRVANATKIALYETPTGWKFFGNLMDASKLSLCGEESFGTGSDHIREKDGLWAVLAWLSILATRKQSVEDILKDHWHKFGRNFFTRYDYEEVEAEGATKMMKDLEALMFDRSFVGKQFSANDKVYTVEKADNFEYHDPVDGSVSKNQGLRLIFADGSRIIFRLSGTGSAGATIRLYIDSYEKDNAKINQDPQVMLAPLISIALKVSQLQERTGRTAPTVIT" 
 
 output = OpSeg(test)
 print output
