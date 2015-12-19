@@ -2,7 +2,7 @@ import pickle
 import math
 import copy
 
-f = open('PS01162.txt','r');
+f = open('PS01162_1.txt','r');
 text =  f.readline();
 #text = text.replace('_','');
 f.close();
@@ -108,9 +108,9 @@ def DLG(s):
 	total =0
 	for key,value in freq.iteritems():
 		csx = occurrences(s,key)
-        	print '{} occurs {} times in {}'.format(key,csx,s)
+        	#print '{} occurs {} times in {}'.format(key,csx,s)
 		cx = value - cs*csx + csx
-		print 'cs '+str(cs)+ ' value ' +str(value)+' cx '+str(cx)+' csx '+str(csx)+' n '+str(n)
+		#print 'cs '+str(cs)+ ' value ' +str(value)+' cx '+str(cx)+' csx '+str(csx)+' n '+str(n)
 		total += cx * (math.log((cx/(1.0*n)),2))
 		
 	total += cs* (math.log(cs,2) - math.log(n,2))
