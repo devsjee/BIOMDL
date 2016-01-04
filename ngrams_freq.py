@@ -2,13 +2,22 @@ import pickle
 import copy
 
 data = ''
+FNAME = 'PS01199_867'
 
-with open ('PS01162.txt','r') as f:
+with open('./'+FNAME+'/'+FNAME+'.fasta','r') as f:
 	temp =  f.readline()
 	while len(temp)>0:
+		if temp[0] == '>':
+			print '>'
+			temp =  f.readline()
+			continue
 		temp = temp.strip()
 		data = data+temp
 		temp =  f.readline()
+
+f=open('./'+FNAME+'/'+FNAME+'.txt','w')
+f.writelines(data)
+f.close()
 
 
 n = 1
@@ -22,7 +31,7 @@ for j in range(len(data) - n + 1):
 
 print ngrams_dict
 print len(ngrams_dict)
-f=open('PS01162_ngram_'+str(n),'wb')
+f=open('./'+FNAME+'/'+FNAME.split('_')[0]+'_ngram_'+str(n),'wb')
 pickle.dump(ngrams_dict,f)
 f.close()
 

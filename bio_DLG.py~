@@ -2,7 +2,9 @@ import pickle
 import math
 import copy
 
-f = open('PS01162_1.txt','r');
+FNAME = 'PS00571_631'
+
+f = open('./'+FNAME+'/'+FNAME+'.txt','r');
 text =  f.readline();
 #text = text.replace('_','');
 f.close();
@@ -12,7 +14,7 @@ print X
 
 DLG_stored = []
 freq = dict()
-f = open('PS01162_ngram','rb')
+f = open('./'+FNAME+'/'+FNAME.split('_')[0]+'_ngram_1','rb')
 freq = pickle.load(f)
 f.close()
 
