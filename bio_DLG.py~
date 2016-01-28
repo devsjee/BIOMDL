@@ -2,7 +2,7 @@ import pickle
 import math
 import copy
 
-FNAME = 'PS00571_631'
+FNAME = 'PS51372_39'
 
 f = open('./'+FNAME+'/'+FNAME+'.txt','r');
 text =  f.readline();
@@ -132,7 +132,7 @@ test =text
 
 output = OpSeg(test)
 print output
-with open('output.txt','w') as f:
+with open('./'+FNAME+'/output.txt','w') as f:
     for i in range(len(output)):
 	#f.write("[")
         f.write(output[i]+ ', ')
@@ -143,7 +143,7 @@ for i in range(len(output)):
     count = unique.get(output[i],0)+1
     unique[output[i]] = count
 
-with open('output2.txt','w') as f:
+with open('./'+FNAME+'/output2.txt','w') as f:
     for i in range(len(unique)):
         f.write(str(unique.keys()[i]) + '\t' +str(unique.values()[i])+ '\n')
 
