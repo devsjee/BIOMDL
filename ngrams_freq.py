@@ -2,7 +2,7 @@ import pickle
 import copy
 
 data = ''
-FNAME = 'PS51482_80'
+FNAME = 'PS51202_310'
 
 with open('./'+FNAME+'/'+FNAME+'.fasta','r') as f:
 	temp =  f.readline()

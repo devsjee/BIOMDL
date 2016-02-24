@@ -2,7 +2,7 @@ import pickle
 import math
 import copy
 
-FNAME = 'PS51372_39'
+FNAME = 'PS51202_310'
 
 f = open('./'+FNAME+'/'+FNAME+'.txt','r');
 text =  f.readline();

@@ -1,7 +1,7 @@
 #This report will compare the output2 files in the given folders and print a report
 #of the common and disjoint parts within it.
 
-folders={'PS51527_43','PS51482_80'}
+folders={'PS00571_631','PS01199_867'}
 
 common = {}
 
@@ -26,9 +26,16 @@ common.sort(key=lambda x:len(x[0]))
 with open('common.txt','w') as f:
 	for item in common:
 		if len(item[1]) > 1:
-			f.write(item[0]+'\t')
-			print item[1]
-			for num in item[1]:
-				f.write(str(num)+' ')
-			f.write('\n')
+			flag = True
+			for freq in item[1]:
+				if int(freq) < 1:
+					flag = False
+					print False
+					break
+			if flag == True:
+				f.write(item[0]+'\t')
+				print item[1]
+				for num in item[1]:
+					f.write(str(num)+' ')
+				f.write('\n')
 	
