@@ -2,17 +2,24 @@ import pickle
 import math
 import copy
 
-FOLDER = 'd.122.1_supfam'
-TEST_FNAME ='d.122.1_test'
-FAM_NAMES = ['d.122.1.0','d.122.1.1','d.122.1.2','d.122.1.3','d.122.1.4']
+FOLDER = './b.47.1_supfam/'
+TEST_FNAME ='b.47.1_test'
+FAM_NAMES = ['b.47.1.0','b.47.1.1','b.47.1.2','b.47.1.3','b.47.1.4']
+
 
 DLG_stored = []
 freq = dict()
+corpus = ''
+test = ''
+X = 0
 
-for family in FAM_NAMES:
-	fname = './'+FOLDER+'/'+family+'.txt'
+def load_data(family,test):
+	global freq,corpus,X
+
+	fname = FOLDER+family+'.txt'
 	f = open(fname,'r');
 	data =  f.readline();
+	data+= test
 	f.close();
 	n = 1
 	ngrams_dict = dict()
@@ -23,9 +30,9 @@ for family in FAM_NAMES:
 		else:
 			ngrams_dict[temp] =1
 
-	f = open( './'+FOLDER+'/'+family+'_ngram_1','wb')
-	pickle.dump(ngrams_dict,f)
-	f.close()
+	freq = copy.deepcopy(ngrams_dict)
+	corpus = copy.deepcopy(data)
+	X = len(corpus)
 
 def corpusDL():
     global freq
@@ -51,10 +58,10 @@ def occurrences(sentence,substring):
     return sentence.count(substring)
 
 def DLG(s):
-	global freq,text,X
+	global freq,corpus,X
 
 	suffix = len(s)
-	cs = occurrences(text,s)
+	cs = occurrences(corpus,s)
 	n = X - cs*suffix + cs + suffix + 1
 	total =0
 	for key,value in freq.iteritems():
@@ -73,7 +80,7 @@ def DLG(s):
 	return dlg  
 
 def OpSeg(U):
-	global text
+	global corpus
 	n = len(U)
 	OS = []
 	for k in range(0,n):
@@ -102,12 +109,12 @@ def OpSeg(U):
 	        		break
 			ngram = U[j:k+1]
             #print ngram
-			if occurrences(text,ngram)<2:
+			if occurrences(corpus,ngram)<2:
             #print 'breaking\n'
 				break
 			if len(ngram) == 1 :
 				dlgain = DLG_stored[j-1]
-			elif j>0:
+			if j>0:
 				dlgain = DLG_stored[j-1] + DLG(ngram)
 			else:
 				dlgain = DLG(ngram)
@@ -135,7 +142,7 @@ def OpSeg(U):
 
 
 def process_test(TEST_FNAME):
-	f=open( './'+FOLDER+'/'+TEST_FNAME,'r')
+	f=open( FOLDER+TEST_FNAME,'r')
 	data=f.readlines()
 	f.close()
 
@@ -150,10 +157,10 @@ def process_test(TEST_FNAME):
 		       		fam = words[1]
 				continue
 			else:
-					test.append([fam,text])
-					text = ''
-					words = line.split(' ')
-        				fam = words[1]
+				test.append([fam,text])
+				text = ''
+				words = line.split(' ')
+        			fam = words[1]
 		
 		else:
 			text+=line.strip()
@@ -163,45 +170,51 @@ def process_test(TEST_FNAME):
 	#print test
 	return test
 
-test = process_test(TEST_FNAME)
-print len(test)
 
-for item in test:
+
+test_list = process_test(TEST_FNAME)
+print len(test_list)
+
+correct = 0
+total = 0
+
+for item in test_list:
 	test_case = item[0]
-	text = item[1]
+	test = item[1]
 	max_compression = -1000
-	label = ''
+	label = []
+	total +=1
 	for family in FAM_NAMES:
-		fname = './'+FOLDER+'/'+ family+'.txt'
-		f = open(fname,'r');
-		corpus =  f.readline();
-		f.close();
+		
+		load_data(family,test)
+		
+		#print 'len of corpus ',family,' ',str(X)
 
-		X = len(corpus)
-		print 'len of corpus ',fname,' ',str(X)
-
-		f = open('./'+FOLDER+'/'+ family+'_ngram_1','rb')
-		freq = pickle.load(f)
-		f.close()
 		DL = corpusDL()
-		print 'DL is ',str(DL)
+		#print 'DL is ',str(DL)
 
-		output,compression = OpSeg(text)
-		print output
-		with open( './'+FOLDER+'/OUTPUTS/'+family+'_output.txt','w') as f:
+		output,compression = OpSeg(test)
+		#print output
+		with open( FOLDER+'OUTPUTS/'+family+'_output.txt','w') as f:
 		    for i in range(len(output)):
 			#f.write("[")
 		        f.write(output[i]+ ', ')
 			#f.write("] ")
-
-		if compression >= max_compression:
+		print 'family ',str(family),'  compression ',str(compression)
+		if compression > max_compression:
 			max_compression = compression
 			label = family
+		
 	
 		DLG_stored = []
 		freq = {}
-	print 'compression ',str(compression)
-	print '\nPredicted : '+label+'	Actual : '+test_case
+	
+	print '\nPredicted : '+str(label)+'	Actual : '+test_case
+	print  test_case == label
+	if test_case == label:
+		correct+=1.0
+
+print 'Precision is ',str((correct/total)*100)
 
 
 

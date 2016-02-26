@@ -12,8 +12,14 @@ for line in data:
             fam[supfam][words[1]]=count+1
 
 
+for item in fam:
+	f.write(item+'\n')
+	for temp in fam[item]:
+		f.write(temp+' '+str(fam[item][temp])+'\t')
+	f.write('\n')
 
-FAM_ID='d.122.1'
+
+FAM_ID='b.1.1'
 f=open(FAM_ID,'r')
 data=f.readlines()
 f.close()

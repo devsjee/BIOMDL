@@ -13,7 +13,7 @@ for line in data:
 
 
 
-FAM_ID='d.122.1'
+FAM_ID='b.1.1'
 f=open(FAM_ID,'r')
 data=f.readlines()
 f.close()
@@ -39,4 +39,5 @@ for line in data:
 		text+=line.strip()
 
 
+f.write(text)
 f.close()
