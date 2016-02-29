@@ -184,6 +184,7 @@ for item in test_list:
 	max_compression = -1000
 	label = []
 	total +=1
+	print '\ntest case ',str(total)
 	for family in FAM_NAMES:
 		
 		load_data(family,test)
@@ -209,7 +210,7 @@ for item in test_list:
 		DLG_stored = []
 		freq = {}
 	
-	print '\nPredicted : '+str(label)+'	Actual : '+test_case
+	print 'Predicted : '+str(label)+'	Actual : '+test_case
 	print  test_case == label
 	if test_case == label:
 		correct+=1.0

@@ -1,0 +1,227 @@
+25
+
+test case  1
+family  b.1.1.0   compression  67.1543570617
+family  b.1.1.1   compression  201.620459817
+family  b.1.1.2   compression  4.91180780494
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  0.234978621938
+Predicted : b.1.1.1	Actual : b.1.1.1
+True
+
+test case  2
+family  b.1.1.0   compression  90.8544462922
+family  b.1.1.1   compression  261.200478176
+family  b.1.1.2   compression  7.89913246742
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  0
+Predicted : b.1.1.1	Actual : b.1.1.1
+True
+
+test case  3
+family  b.1.1.0   compression  7.28138746333
+family  b.1.1.1   compression  8.54759751315
+family  b.1.1.2   compression  240.558243851
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  4.50795657759
+Predicted : b.1.1.2	Actual : b.1.1.2
+True
+
+test case  4
+family  b.1.1.0   compression  10.9491315741
+family  b.1.1.1   compression  10.3901206677
+family  b.1.1.2   compression  234.750826763
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  3.88978548226
+Predicted : b.1.1.2	Actual : b.1.1.2
+True
+
+test case  5
+family  b.1.1.0   compression  7.07026012902
+family  b.1.1.1   compression  7.45973230277
+family  b.1.1.2   compression  260.096078881
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  0.948177589101
+Predicted : b.1.1.2	Actual : b.1.1.2
+True
+
+test case  6
+family  b.1.1.0   compression  8.52899916653
+family  b.1.1.1   compression  5.82779398162
+family  b.1.1.2   compression  267.798556069
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  4.51692628658
+Predicted : b.1.1.2	Actual : b.1.1.2
+True
+
+test case  7
+family  b.1.1.0   compression  4.75322530072
+family  b.1.1.1   compression  5.06672575284
+family  b.1.1.2   compression  198.677973193
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  0.637083870224
+Predicted : b.1.1.2	Actual : b.1.1.2
+True
+
+test case  8
+family  b.1.1.0   compression  5.03146524456
+family  b.1.1.1   compression  12.0727212935
+family  b.1.1.2   compression  3.16362218423
+family  b.1.1.3   compression  3.64367646274
+family  b.1.1.4   compression  2.79971419048
+Predicted : b.1.1.1	Actual : b.1.1.3
+False
+
+test case  9
+family  b.1.1.0   compression  7.4835412202
+family  b.1.1.1   compression  12.1127408473
+family  b.1.1.2   compression  1.85587203089
+family  b.1.1.3   compression  2.83397490719
+family  b.1.1.4   compression  2.81059812104
+Predicted : b.1.1.1	Actual : b.1.1.3
+False
+
+test case  10
+family  b.1.1.0   compression  3.90935249284
+family  b.1.1.1   compression  11.1306425651
+family  b.1.1.2   compression  8.02714712421
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  7.05018155802
+Predicted : b.1.1.1	Actual : b.1.1.4
+False
+
+test case  11
+family  b.1.1.0   compression  11.5986350651
+family  b.1.1.1   compression  18.7594118335
+family  b.1.1.2   compression  9.83922751135
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  1.08490839011
+Predicted : b.1.1.1	Actual : b.1.1.4
+False
+
+test case  12
+family  b.1.1.0   compression  6.9275608205
+family  b.1.1.1   compression  10.1692869359
+family  b.1.1.2   compression  3.22051200558
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  4.1271482864
+Predicted : b.1.1.1	Actual : b.1.1.4
+False
+
+test case  13
+family  b.1.1.0   compression  6.42269695081
+family  b.1.1.1   compression  6.50793468759
+family  b.1.1.2   compression  8.28355242197
+family  b.1.1.3   compression  0.426815139682
+family  b.1.1.4   compression  2.7269691217
+Predicted : b.1.1.2	Actual : b.1.1.4
+False
+
+test case  14
+family  b.1.1.0   compression  10.4720453989
+family  b.1.1.1   compression  7.36960534903
+family  b.1.1.2   compression  2.80259802386
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  3.31089779661
+Predicted : b.1.1.0	Actual : b.1.1.4
+False
+
+test case  15
+family  b.1.1.0   compression  13.877957567
+family  b.1.1.1   compression  13.2250867732
+family  b.1.1.2   compression  6.5548911103
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  0
+Predicted : b.1.1.0	Actual : b.1.1.4
+False
+
+test case  16
+family  b.1.1.0   compression  17.0483803239
+family  b.1.1.1   compression  16.2338462145
+family  b.1.1.2   compression  17.409726409
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  3.35362425695
+Predicted : b.1.1.2	Actual : b.1.1.4
+False
+
+test case  17
+family  b.1.1.0   compression  93.8512701935
+family  b.1.1.1   compression  5.34205392524
+family  b.1.1.2   compression  7.67575798598
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  0
+Predicted : b.1.1.0	Actual : b.1.1.0
+True
+
+test case  18
+family  b.1.1.0   compression  145.822653823
+family  b.1.1.1   compression  12.9491652329
+family  b.1.1.2   compression  2.41971265669
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  2.73910275115
+Predicted : b.1.1.0	Actual : b.1.1.0
+True
+
+test case  19
+family  b.1.1.0   compression  8.23664334432
+family  b.1.1.1   compression  9.65085788448
+family  b.1.1.2   compression  13.1159641346
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  2.01834306243
+Predicted : b.1.1.2	Actual : b.1.1.0
+False
+
+test case  20
+family  b.1.1.0   compression  12.6653766343
+family  b.1.1.1   compression  13.328230731
+family  b.1.1.2   compression  10.498968467
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  3.33120072183
+Predicted : b.1.1.1	Actual : b.1.1.0
+False
+
+test case  21
+family  b.1.1.0   compression  89.7022588692
+family  b.1.1.1   compression  68.1111626485
+family  b.1.1.2   compression  11.7141414126
+family  b.1.1.3   compression  0.08557754045
+family  b.1.1.4   compression  0.761847548075
+Predicted : b.1.1.0	Actual : b.1.1.0
+True
+
+test case  22
+family  b.1.1.0   compression  142.693184805
+family  b.1.1.1   compression  117.769992839
+family  b.1.1.2   compression  8.15272823552
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  1.68388977442
+Predicted : b.1.1.0	Actual : b.1.1.0
+True
+
+test case  23
+family  b.1.1.0   compression  8.48786607497
+family  b.1.1.1   compression  10.2009988499
+family  b.1.1.2   compression  18.6041336895
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  0
+Predicted : b.1.1.2	Actual : b.1.1.0
+False
+
+test case  24
+family  b.1.1.0   compression  38.5325960432
+family  b.1.1.1   compression  15.174950153
+family  b.1.1.2   compression  18.4542503195
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  3.81860695649
+Predicted : b.1.1.0	Actual : b.1.1.0
+True
+
+test case  25
+family  b.1.1.0   compression  267.819932825
+family  b.1.1.1   compression  258.677311965
+family  b.1.1.2   compression  5.91601578186
+family  b.1.1.3   compression  0
+family  b.1.1.4   compression  0.49165419268
+Predicted : b.1.1.0	Actual : b.1.1.0
+True
+Precision is  52.0
