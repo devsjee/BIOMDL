@@ -1,0 +1,77 @@
+>d1rjca1 b.1.1.1 (A:2-127) Camelid IG heavy chain variable domain, VHh {Camel (Camelus dromedarius) [TaxId: 9838]}
+vqlqasgggsvqagqslrlscatsgatsssncmgwfrqapgkeregvavidtgrgntaya
+dsvqgrltisldnakntlylqmnslkpedtamyycaadtstwyrgycgtnpnyfsywgqg
+tqvtvs
+>d1xfpa_ b.1.1.1 (A:) Camelid IG heavy chain variable domain, VHh {Camel (Camelus dromedarius) [TaxId: 9838]}
+vqlqasgggsvqaggslrlscaasgytigpycmgwfrqapgkeregvaainsgggstyya
+dsvkgrftisqdnakntvyllmnslepedtaiyycaadstiyasyyecghglstggygyd
+swgqgtqvtvs
+>d1rmfh2 b.1.1.2 (H:120-216) Immunoglobulin heavy chain gamma constant domain 1, CH1-gamma {Mouse (Mus musculus) [TaxId: 10090]}
+akttapsvtplapvcgdttgssvtlgvlvkgyfpepvtltwnsgslssgvhtfpavlqsd
+lytlsssvtvtsstwpsqsitcnvahpasstkvdkki
+>d1nldh2 b.1.1.2 (H:113-215) Immunoglobulin heavy chain gamma constant domain 1, CH1-gamma {Mouse (Mus musculus) [TaxId: 10090]}
+sasttapsvyplapvsgdqtnssvtlgclvkgyfpepvtltwnsgslssgvhtfpavlqs
+dlytlsssvtvtsspwpsetitcnvahpasstkvdkkieprgc
+>d1kcrh2 b.1.1.2 (H:117-218) Immunoglobulin heavy chain gamma constant domain 1, CH1-gamma {Mouse (Mus musculus) [TaxId: 10090]}
+aattppsvyplapgsaaaaaamvtlgclvkgyfpepvtvtwnsgslssgvhtfpavlqsa
+lytlsssvtvpssprpsatvtcnvahpasstkvdkkivprdc
+>d1pg7x2 b.1.1.2 (X:114-213) Immunoglobulin heavy chain gamma constant domain 1, CH1-gamma {Mouse (Mus musculus) [TaxId: 10090]}
+akttppsvyplapvcgdttgssvtlgclvkgyfpepvtltwnsgslssgvhtfpavlqsd
+lytlsssvtvtsstwpsqsvtcnvahpasstkvdkkivpk
+>d2j88h1 b.1.1.2 (H:113-180) Immunoglobulin heavy chain gamma constant domain 1, CH1-gamma {Mouse (Mus musculus) [TaxId: 10090]}
+akttppsvyplapgsaaqtnsmvtlgclvkgyfpepvtvtwnsgslssgvhtfpavlqsd
+lytlsssv
+>d1hnfa2 b.1.1.3 (A:105-182) CD2, second domain {Human (Homo sapiens) [TaxId: 9606]}
+rvskpkiswtcinttltcevmngtdpelnlyqdgkhlklsqrvithkwttslsakfkcta
+gnkvskessvepvscpek
+>d1ccza2 b.1.1.3 (A:94-171) CD2-binding domain of CD58, second domain {Human (Homo sapiens) [TaxId: 9606]}
+emvskpmiywecsnatltcevlegtdvelklyqgkehlrslrqktmsyqwtnlrapfkck
+avnrvsqesemevvncpe
+>d1wwca_ b.1.1.4 (A:) NT3 binding domain of trkC receptor {Human (Homo sapiens) [TaxId: 9606]}
+tvyypprvvsleepelrlehciefvvrgnppptlhwlhngqplreskiihveyyqegeis
+egcllfnkpthynngnytliaknplgtanqtinghflkepfpvde
+>d1gl4b_ b.1.1.4 (B:) Perlecan Ig3 domain {Mouse (Mus musculus) [TaxId: 10090]}
+pimvtveeqrsqsvrpgadvtfictakskspaytlvwtrlhngklpsramdfngiltirn
+vqpsdagtyvctgsnmfamdqgtatlhvq
+>d2c9aa1 b.1.1.4 (A:184-279) Receptor-type tyrosine-protein phosphatase mu {Human (Homo sapiens) [TaxId: 9606]}
+rtphflriqnvevnagqfatfqcsaigrtvagdrlwlqgidvrdaplkeikvtssrrfia
+sfnvvnttkrdagkyrcmirteggvgisnyaelvvk
+>d1fltx_ b.1.1.4 (X:) Second domain of the Flt-1 receptor {Human (Homo sapiens) [TaxId: 9606]}
+grpfvemyseipeiihmtegrelvipcrvtspnitvtlkkfpldtlipdgkriiwdsrkg
+fiisnatykeiglltceatvnghlyktnylthrqt
+>d1olza1 b.1.1.4 (A:537-628) Semaphorin 4d Ig-like domain {Human (Homo sapiens) [TaxId: 9606]}
+kgsyrqhffkhggtaelkcsqksnlarvfwkfqngvlkaespkyglmgrknllifnlseg
+dsgvyqclseervknktvfqvvakhvlevkvv
+>d2cqva1 b.1.1.4 (A:8-108) Telokin {Human (Homo sapiens) [TaxId: 9606]}
+pqiiqfpedqkvragesvelfgkvtgtqpitctwmkfrkqiqesehmkvensengsklti
+laarqehcgcytllvenklgsrqaqvnltvvdkpdppagtp
+>d1fhga_ b.1.1.4 (A:) Telokin {Turkey (Meleagris gallopavo) [TaxId: 9103]}
+aeekphvkpyftktildmevvegsaarfdckvegypdpevmwfkddnpvkesrhfqidyd
+eegncsltisevcgdddakytckavnslgeatctaellvetm
+>d2yd4a1 b.1.1.0 (A:29-122) automated matches {Chicken (Gallus gallus) [TaxId: 9031]}
+esppvfikkpvdqigvsggvasfvcqatgdpkprvtwnkkgkkvnsqrfetiefdesaga
+vlriqplrtprdeniyecvaqnphgevtvhaklt
+>d2yd4a2 b.1.1.0 (A:123-231) automated matches {Chicken (Gallus gallus) [TaxId: 9031]}
+vlredqlppgfpnidmgpqlkvvertrtatmlcaasgnpdpeitwfkdflpvdpstsngr
+ikqlrsgglqiesseetdqgkyecvasnsagvrysspanlyvrvgtkhh
+>d2w59a1 b.1.1.0 (A:349-451) automated matches {Chicken (Gallus gallus) [TaxId: 9031]}
+piqlyaippspgelyisldaklrclvvnlpsdsslsvtwtreksgnlrpdpmvlqehfng
+tysassavpvstqdwlsgerftctvqheelplplsksvyrntg
+>d2w59a2 b.1.1.0 (A:452-566) automated matches {Chicken (Gallus gallus) [TaxId: 9031]}
+pttppliypfaphpeelslsrvtlsclvrgfrprdieirwlrdhravpatefvttavlpe
+ertangaggdgdtffvyskmsvetakwnggtvfacmavhealpmrfsqrtlqkqa
+>d4ouoa1 b.1.1.0 (A:-2-107) automated matches {Chicken (Gallus gallus) [TaxId: 9031]}
+sftqaaltqpssvsanpgetvkitcsgggsssnygwfqqkspgsapvtviynnnnrpsdi
+psrfsgsksgstatltitgvqaddeavyfcggrdstyagmfgagttltvl
+>d4ouoa2 b.1.1.0 (A:115-231) automated matches {Chicken (Gallus gallus) [TaxId: 9031]}
+avtldesggglqtpggalslvckasgftfsvydmmwvrqapskglewvagigitgstyya
+savkgratisrdngqstvrlqlnnlraedtgtyycarggaysinkldtwgqgteviv
+>d3dbxa2 b.1.1.0 (A:188-285) automated matches {Chicken (Gallus gallus) [TaxId: 9031]}
+rvppmavvfartagqvqlllvcrvtsfyprpiavtwlrdgrevppspalstgtvlpnadl
+tyqlrstllvspqdghgyacrvqhcslgdrsllvpwhh
+>d2yf1a2 b.1.1.0 (A:178-270) automated matches {Chicken (Gallus gallus) [TaxId: 9031]}
+rrerpevrvwgkeadgiltlscrahgfyprpivvswlkdgavrgqdaqsggivpngdgty
+htwvtidaqpgdgdkyqcrvehaslpqpglysw
+>d3uc0l1 b.1.1.0 (L:2-108) automated matches {Chimpanzee (Pan troglodytes) [TaxId: 9598]}
+elqmtqspsslsasvgdrvtitcrasqdisirlnwyqqkpgkapklliydastlesgvps
+rfsgsgsgtdftltisslqpedfatyycqqfnsypltfgggtkveik

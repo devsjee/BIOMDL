@@ -1,0 +1,27 @@
+f=open('astral-scope2.05.fa.txt','r')
+data = f.readlines()
+f.close()
+
+curr_class = ''
+cls=''
+f=open(cls+'.txt','w')
+text = ''
+
+for line in data:
+	if line[0] =='>':
+		words = line.split(' ')
+        	fam = words[1]
+		if fam == curr_fam:
+			continue
+		else:
+			curr_fam = fam
+			f.write(text)
+			f.close()
+			text = ''
+			f=open(fam+'.txt','w')
+	else:
+		text+=line.strip()
+
+
+f.write(text)
+f.close()
