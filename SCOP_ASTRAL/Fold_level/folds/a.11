@@ -1,0 +1,58 @@
+>d1hb6a_ a.11.1.1 (A:) Acyl-CoA binding protein {Cow (Bos taurus) [TaxId: 9913]}
+sqaefdkaaeevkhlktkpadeemlfiyshykqatvgdinterpgmldfkgkakwdawne
+lkgtskedamkayidkveelkkkygi
+>d1hbka_ a.11.1.1 (A:) Acyl-CoA binding protein {Malaria parasite (Plasmodium falciparum) [TaxId: 5833]}
+hmaqvfeecvsfinglprtinlpnelkldlykyykqstigncnikepsahkyidrkkyea
+wksvenlnredaqkryvdivseifpywqd
+>d2cb8a_ a.11.1.1 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+sqaefekaaeevrhlktkpsdeemlfiyghykqatvgdinterpgmldftgkakwdawne
+lkgtskedamkayinkveelkkkygi
+>d3epya_ a.11.1.1 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+malqadfdraaedvrklkarpddgelkelyglykqaivgdiniacpgmldlkgkakweaw
+nlkkglstedatsayiskakeliekygi
+>d2lbba_ a.11.1.0 (A:) automated matches {Babesia bovis [TaxId: 5865]}
+msaddfdaavkyvsntttmmasnddklcfykyykqatvgdcnkpkpgmlqlqekykweaw
+nalrgmstesakeayvklldtlapswrn
+>d1st7a_ a.11.1.0 (A:) automated matches {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+vsqlfeekakavnelptkpstdellelyalykqatvgdndkekpgifnmkdrykweawen
+lkgksqedaekeyialvdqliakyss
+>d3flva_ a.11.1.0 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+smhetrfeaavkviqslpkngsfqptnemmlkfysfykqategpcklsrpgfwdpigryk
+wdawsslgdmtkeeamiayveemkkiietmpm
+>d2wh5a_ a.11.1.0 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+qkqfqaavsviqnlpkngsyrpsyeemlrfysyykqatmgpclvprpgfwdpigrykwda
+wnslgkmsreeamsayitemklvaqkvidt
+>d3fp5a_ a.11.1.0 (A:) automated matches {Moniliophthora perniciosa [TaxId: 153609]}
+shmskakfdkaveivqslpkdgpikptqdeqlyfykyfkqatvgdvnisrpglmdftgka
+kwdawksvegtskevayqkyveklleilkkadteeskkyiaeieaa
+>d2al6a1 a.11.2.1 (A:131-253) Focal adhesion kinase 1 {Chicken (Gallus gallus) [TaxId: 9031]}
+kgflnqftedkptlnffyqqvkndymleiadqvdqeialklgcleirrsygemrgnalek
+ksnyevlekdvglrrffpkslldsvkaktlrkliqqtfrqfanlnreesilkffeilspv
+yrf
+>d1h4ra1 a.11.2.1 (A:104-214) Merlin {Human (Homo sapiens) [TaxId: 9606]}
+naeeelvqeitqhlfflqvkkqildekiycppeasvllasyavqakygdydpsvhkrgfl
+aqeellpkrvinlyqmtpemweeritawyaehrgrardeaemeylkiaqdl
+>d1ef1a1 a.11.2.1 (A:88-198) Moesin {Human (Homo sapiens) [TaxId: 9606]}
+dvseeliqditqrlfflqvkegilnddiycppetavllasyavqskygdfnkevhksgyl
+agdkllpqrvleqhklnkdqweeriqvwheehrgmlredavleylkiaqdl
+>d2zpya1 a.11.2.1 (A:88-198) Radixin {Mouse (Mus musculus) [TaxId: 10090]}
+dvseeliqeitqrlfflqvkeailndeiycppetavllasyavqakygdynkeihkpgyl
+andrllpqrvleqhkltkeqweeriqnwheehrgmlredsmmeylkiaqdl
+>d1mixa1 a.11.2.1 (A:195-308) Talin {Chicken (Gallus gallus) [TaxId: 9031]}
+mkffysdqnvdsrdpvqlnllyvqarddilngshpvsfdkacefagyqcqiqfgphneqk
+hkpgflelkdflpkeyikqkgerkifmahkncgnmseieakvryvklarslkty
+>d1mk7b1 a.11.2.1 (B:209-308) Talin {Chicken (Gallus gallus) [TaxId: 9031]}
+pvqlnllyvqarddilngshpvsfdkacefagyqcqiqfgphneqkhkpgflelkdflpk
+eyikqkgerkifmahkncgnmseieakvryvklarslkty
+>d4f7ga1 a.11.2.1 (A:209-308) Talin {Mouse (Mus musculus) [TaxId: 10090]}
+pvqlnllyvqarddilngshpvsfdkacefagfqcqiqfgphneqkhkagfldlkdflpk
+eyvkqkgerkifqahkncgqmseieakvryvklarslkty
+>d3g9wa1 a.11.2.1 (A:192-311) automated matches {Mouse (Mus musculus) [TaxId: 10090]}
+gidpftkffysdqnvdsrdpvqlnllyvqarddilngshpvsfekacefggfqaqiqfgp
+hvehkhkpgfldlkeflpkeyikqrgaekrifqehkncgemseieakvkyvklarslrty
+>d3g9wb1 a.11.2.1 (B:205-311) automated matches {Mouse (Mus musculus) [TaxId: 10090]}
+nvdsrdpvqlnllyvqarddilngshpvsfekacefggfqaqiqfgphvehkhkpgfldl
+keflpkeyikqrgaekrifqehkncgemseieakvkyvklarslrty
+>d2he7a2 a.11.2.0 (A:191-296) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+pdpaqlseditryylclqlrddivsgrlpcsfvtlallgsytvqselgdydpdecgsdyi
+sefrfapnhtkeledkvielhkshrgmtpaeaemhflenakklsmy

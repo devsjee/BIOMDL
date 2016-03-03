@@ -1,0 +1,313 @@
+>d1g2qa_ c.61.1.1 (A:) Adenine PRTase {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+mpiasyaqelklalhqypnfpsegilfedflpifrnpglfqklidafklhleeafpevki
+dyivglesrgflfgptlalalgvgfvpvrkagklpgecfkatyekeygsdlfeiqknaip
+agsnviivddiiatggsaaaagelveqleanlleynfvmeldflkgrsklnapvftll
+>d1l1qa_ c.61.1.1 (A:) Adenine PRTase {Giardia intestinalis [TaxId: 5741]}
+tmsvadahaliktipdfptkgiafkdlsdilstpaaldavrkevtahykdvpitkvvgie
+srgfilggivanslgvgfvalrkagklpgdvckctfdmeyqkgvtievqkrqlgphdvvl
+lhddvlatggtllaaielcetagvkpeniyinvlyeiealkgrekvgqkctrlfsvireh
+h
+>d1zn8a_ c.61.1.1 (A:) Adenine PRTase {Human (Homo sapiens) [TaxId: 9606]}
+dselqlveqrirsfpdfptpgvvfrdispvlkdpasfraaigllarhlkathggridyia
+gldsrgflfgpslaqelglgcvlirkrgklpgptlwasysleygkaeleiqkdalepgqr
+vvvvddllatggtmnaacellgrlqaevlecvslveltslkgreklapvpffsllqye
+>d1qb7a_ c.61.1.1 (A:) Adenine PRTase {Leishmania donovani [TaxId: 5661]}
+pfkevspnsfllddshalsqllkksyrwyspvfsprnvprfadvssitespetlkairdf
+lvqryramspapthilgfdargflfgpmiaveleipfvlmrkadknagllirsepyekey
+keaapevmtirygsigkgsrvvliddvlatggtalsglqlveasdavvvemvsilsipfl
+kaaekihstansrykdikfisllsddalteencgdsknytgprvlscgdvlaehph
+>d1mzva_ c.61.1.1 (A:) Adenine PRTase {Leishmania tarentolae [TaxId: 5689]}
+slkeigpnsllledshslsqllkknyrwyspifsprnvprfadvssitespetlkairdf
+lveryrtmspapthilgfdargflfgpmiavelgipfvlmrkadknagllirsepyekey
+keaapevmtirhgsigknsrvvliddvlatggtalsglqlveasgaevvemvsiltipfl
+kaaerihstaggryknvrfigllsedvlteancgdl
+>d1ao0a1 c.61.1.1 (A:235-459) Glutamine PRPP amidotransferase, C-terminal domain {Bacillus subtilis [TaxId: 1423]}
+icsmeyiyfsrpdsnidginvhsarknlgkmlaqesaveadvvtgvpdssisaaigyaea
+tgipyelgliknryvgrtfiqpsqalreqgvrmklsavrgvvegkrvvmvddsivrgtts
+rrivtmlreagatevhvkissppiahpcfygidtstheeliasshsveeirqeigadtls
+flsvegllkgigrkyddsncgqclacftgkypteiyqdtvlphvk
+>d1ecfa1 c.61.1.1 (A:250-492) Glutamine PRPP amidotransferase, C-terminal domain {Escherichia coli [TaxId: 562]}
+npclfeyvyfarpdsfidkisvysarvnmgtklgekiarewedldidvvipipetscdia
+leiarilgkpyrqgfvknryvgrtfimpgqqlrrksvrrklnanraefrdknvllvddsi
+vrgttseqiiemareagakkvylasaapeirfpnvygidmpsateliahgrevdeirqii
+gadglifqdlndlidavraenpdiqqfecsvfngvyvtkdvdqgyldfldtlrnddakav
+qrq
+>d1dqna_ c.61.1.1 (A:) Guanine PRTase {Giardia intestinalis [TaxId: 5741]}
+micsvtgkpvkdvlstffkdrndvlesevkkfhllatfeeckalaadtarrmneyykdva
+epvtlvalltgaylyaslltvhltfpytlhfvkvssykgtrqesvvfdeedlkqlkekre
+vvlideyvdsghtifsiqeqikhakicscfvkdvdaikkhsaladtkmfygytpmpkgsw
+ligfglddnglrrgwahlfdinlsesevtefrrrltehikglningvnry
+>d1g9sa_ c.61.1.1 (A:) Hypoxanthine PRTase {Escherichia coli [TaxId: 562]}
+mkhtvevmipeaeikariaelgrqiterykdsgsdmvlvgllrgsfmfmadlcrevqvsh
+evdfmtassygsgmsttrdlkilkdldedirgkdvlivediidsgntlskvreilslrep
+kslaictlldkpsrrevnvpvefigfsipdefvvgygidyaqryrhlpyigkvilld
+>d1tc1a_ c.61.1.1 (A:) Hypoxanthine PRTase {Trypanosoma cruzi [TaxId: 5693]}
+yefaekilfteeeirtrikevakriaddykgkglrpyvnplvlisvlkgsfmftadlcra
+lcdfnvpvrmeficvssygegltssgqvrmlldtrhsieghhvlivedivdtaltlnyly
+hmyftrrpaslktvvlldkregrrvpfsadyvvanipnafvigygldyddtyrelrdivv
+lrpe
+>d1p17b_ c.61.1.1 (B:) Hypoxanthine PRTase {Trypanosoma cruzi [TaxId: 5693]}
+preyefaekilfteeeirtrikevakriaddykgkglrpyvnplvlisvlrgsfmftadl
+cralcdfnvpvrmeficvssygegltssgqvrmlldtrhsieghhvlivedivdtaltln
+ylyhmyftrrpaslktvvlldkregrrvpfsadyvvanipnafvigygldyddtyrelrd
+ivvlrpevyaereaarqkkqraigsadtdr
+>d1z7ga_ c.61.1.1 (A:) Hypoxanthine-guanine PRTase (HGPRTase) {Human (Homo sapiens) [TaxId: 9606]}
+spgvvisddepgydldlfcipnhyaedlervfiphglimdrterlardvmkemgghhiva
+lcvlkggykffadlldyikalnrnsdrsipmtvdfirlksycndqstgdikviggddlst
+ltgknvlivediidtgktmqtllslvrqynpkmvkvasllvkrtprsvgykpdfvgfeip
+dkfvvgyaldyneyfrdlnhvcvisetgkakyka
+>d1pzma_ c.61.1.1 (A:) Hypoxanthine-guanine-xanthine PRTase {Leishmania tarentolae [TaxId: 5689]}
+ypmsartlvtqeqvwaatakcakkiaadykdfhltadnplyllcvlkgsfiftadlarfl
+adegvpvkveficassygsgvetsgqvrmlldvrdsvenrhimlvedivdsaitlqylmr
+fmlakkpaslktvvlldkpsgrkvdvlvdypvitiprafvigygmdfaesyrelrdicvl
+kke
+>d1fsga_ c.61.1.1 (A:) Hypoxanthine-guanine-xanthine PRTase {Toxoplasma gondii [TaxId: 5811]}
+gshmaskpiedygkgkgriepmyipdntfynaddflvpphckpyidkillpgglvkdrve
+klaydihrtyfgeelhiicilkgsrgffnllidylatiqkysgressvppffehyvrlks
+yqndnstgqltvlsddlsifrdkhvlivedivdtgftltefgerlkavgpksmriatlve
+krtdrsnslkgdfvgfsiedvwivgccydfnemfrdfdhvavlsdaarkkfek
+>d1hgxa_ c.61.1.1 (A:) Hypoxanthine-guanine-xanthine PRTase {Tritrichomonas foetus [TaxId: 5724]}
+mddlervlynqddiqkrirelaaeltefyedknpvmicvltgavffytdllkhldfqlep
+dyiicssysgtkstgnltiskdlktniegrhvlvvediidtgltmyqllnnlqmrkpasl
+kvctlcdkdigkkaydvpidycgfvvenryiigygfdfhnkyrnlpvigilke
+>d1lh0a_ c.61.1.1 (A:) Orotate PRTase {Salmonella typhimurium [TaxId: 90371]}
+mkpyqrqfiefalnkqvlkfgeftlksgrkspyffnaglfntgrdlallgrfyaealvds
+giefdllfgpaykgipiatttavalaehhdkdlpycfnrkeakdhgeggslvgsalqgrv
+mlvddvitagtairesmeiiqahgatlagvlisldrqergrgeisaiqeverdygckvis
+iitlkdliayleekpdmaehlaavrayreefgv
+>d2aeea1 c.61.1.1 (A:1-208) Orotate PRTase {Streptococcus pyogenes [TaxId: 1314]}
+mtlasqiatqlldikavylkpedpftwasgikspiytdnrvtlsypktrdliengfveti
+kahfpeveviagtatagiphgaiiadkmtlpfayirskpkdhgagnqiegrvlkgqkmvi
+iedlistggsvldaaaaasregadvlgvvaiftyelpkasqnfkeagiklitlsnyteli
+avaklqgyitndglhllkkfkedqvnwq
+>d1vdma1 c.61.1.1 (A:1-153) Pprobable purine phosphoribosyltransferase PH0095 {Pyrococcus horikoshii [TaxId: 53953]}
+mdkvyltwwqvdraifalaeklreykpdviigvargglipavrlshilgdiplkvidvkf
+ykgidergekpvitipihgdlkdkrvvivddvsdtgktlevvieevkklgakeikiacla
+mkpwtsvvpdyyvfrtekwivfpweefpvieke
+>d1wd5a_ c.61.1.1 (A:) Putative phosphoribosyltransferase TT1426 (TTHA1462) {Thermus thermophilus [TaxId: 274]}
+mrfrdrrhagallaealaplgleapvvlglprggvvvadevarrlggeldvvlvrkvgap
+gnpefalgavgeggelvlmpyalryadqsylereaarqrdvlrkraeryrrvrpkaarkg
+rdvvlvddgvatgasmeaalsvvfqegprrvvvavpvaspeaverlkaraevvalsvpqd
+faavgayyldfgevtdedveaillewag
+>d1vcha1 c.61.1.1 (A:2-175) Putative phosphoribosyltransferase TTHA1613 {Thermus thermophilus [TaxId: 274]}
+etypitvggvtrhvplieplpgrriplveflgdpeftraaaealrplvpkeaeilfttet
+spiplthvlaealglpyvvarrrrrpymedpiiqevqtltlgvgevlwldrrfaekllnq
+rvvlvsdvvasgetmramekmvlragghvvarlavfrqgtpglavdtvaelpvl
+>d2igba_ c.61.1.1 (A:) Pyrimidine operon regulator PyrR {Bacillus caldolyticus [TaxId: 1394]}
+mqkavvmdeqairraltriaheiiernkgidgcvlvgiktrgiylarrlaerieqiegas
+vpvgelditlyrddltvktddheplvkgtnvpfpvternvilvddvlftgrtvraamdav
+mdlgrpariqlavlvdrghrelpiradfvgknvptsrselivvelsevdgidqvsihek
+>d1w30a_ c.61.1.1 (A:) Pyrimidine operon regulator PyrR {Mycobacterium tuberculosis [TaxId: 1773]}
+esrelmsaanvgrtisriahqiiektalddpvgpdaprvvllgiptrgvtlanrlagnit
+eysgihvghgalditlyrddlmikpprplastsipaggiddalvilvddvlysgrsvrsa
+ldalrdvgrpravqlavlvdrghrelplradyvgknvptsrsesvhvrlrehdgrdgvvi
+sr
+>d1ufra_ c.61.1.1 (A:) Pyrimidine operon regulator PyrR {Thermus thermophilus [TaxId: 274]}
+mrfkaelmnapemrralyriaheiveankgteglalvgihtrgiplahriarfiaefegk
+evpvgvlditlyrddlteigyrpqvretripfdltgkaivlvddvlytgrtaraaldali
+dlgrprriylavlvdrghrelpiradfvgknvptsrsevvkvkveevdgedrvelwer
+>d1i5ea_ c.61.1.1 (A:) Uracil PRTase, Upp {Bacillus caldolyticus [TaxId: 1394]}
+gkvyvfdhpliqhkltyirdkntgtkefrelvdevatlmafeitrdlpleeveietpvsk
+arakviagkklgvipilragigmvdgilklipaakvghiglyrdpqtlkpveyyvklpsd
+veerdfiivdpmlatggsavaaidalkkrgaksikfmcliaapegvkavetahpdvdiyi
+aalderlndhgyivpglgdagdrlfgtk
+>d1xtta1 c.61.1.1 (A:2-216) Uracil PRTase, Upp {Sulfolobus solfataricus [TaxId: 2287]}
+plyvidkpitlhiltqlrdkytdqinfrknlvrlgrilgyeisntldyeivevetplgvk
+tkgvditdlnniviinilraavplvegllkafpkarqgvigasrvevdgkevpkdmdvyi
+yykkipdirakvdnviiadpmiatastmlkvleevvkanpkriyivsiisseygvnkils
+kypfiylftvaidpelnnkgyilpglgdagdrafg
+>d1o5oa_ c.61.1.1 (A:) Uracil PRTase, Upp {Thermotoga maritima [TaxId: 2336]}
+hmknlvvvdhplikhkltimrdkntgpkefrellreitlllayeatrhlkceevevetpi
+tktigyrindkdivvvpilraglvmadgilellpnasvghigiyrdpetlqaveyyaklp
+plnddkevflldpmlatgvssikaieilkengakkitlvaliaapegveavekkyedvki
+yvaalderlndhgyiipglgdagdrlfrtk
+>d1v9sa1 c.61.1.1 (A:1-208) Uracil PRTase, Upp {Thermus thermophilus [TaxId: 274]}
+mritlvdhplvqhklahlrdkrtgpkdfrelaeevamlmayeamrdleleettvetpiap
+arvkvlsgkklalvailraglvmvegilklvpharvghiglyrdpeslnpvqyyiklppd
+iaerraflldpmlatggsaslalsllkergatgvklmailaapegleriakdhpdtevvv
+aaiderlndhgyivpglgdagdriygtk
+>d1y0ba1 c.61.1.1 (A:1-191) Xanthine phosphoribosyltransferase {Bacillus subtilis [TaxId: 1423]}
+mealkrkieeegvvlsdqvlkvdsflnhqidpllmqrigdefasrfakdgitkivtiess
+giapavmtglklgvpvvfarkhksltltdnlltasvysftkqtesqiavsgthlsdqdhv
+liiddflangqaahglvsivkqagasiagigivieksfqpgrdelvklgyrveslariqs
+leegkvsfvqe
+>d1nula_ c.61.1.1 (A:) Xanthine-guanine PRTase (XPRTase) {Escherichia coli [TaxId: 562]}
+ekyivtwdmlqiharklasrlmpseqwkgiiavsrgglvpgallarelgirhvdtvciss
+ydhdnqrelkvlkraegdgegfividdlvdtggtavairemypkahfvtifakpagrplv
+ddyvvdipqdtwieqpwdmgvvfvppisgr
+>d4p82a_ c.61.1.1 (A:) automated matches {Bacillus subtilis [TaxId: 224308]}
+snqkavildeqairraltriahemiernkgmnncilvgiktrgiylakrlaerieqiegn
+pvtvgeiditlyrddlskktsndeplvkgadipvditdqkvilvddvlytgrtvragmda
+lvdvgrpssiqlavlvdrghrelpiradyigkniptsksekvmvqldevdqndlvaiyen
+>d3dmpa_ c.61.1.1 (A:) automated matches {Burkholderia pseudomallei [TaxId: 28450]}
+smkqdsrfpnlfildhpliqhklthmrdkdtstrtfrellreitllmgyeitrnlpittk
+rvetplveidapviagkklaivpvlragvgmsdgllelipsarvghigvyraddhrpvey
+lvrlpdledrifilcdpmvatgysaahaidvlkrrgvpgerlmflalvaapegvqvfqda
+hpdvklyvasldshlddhayivpglgdagdrlfg
+>d2jbha_ c.61.1.1 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+eapdygrgvvimddwpgydlnlftypqhyygdleyvliphgiivdrierlakdimkdigy
+sdimvlcvlkggykfcadlvehlknisrnsdrfvsmkvdfirlksyrndqsmgemqiigg
+ddlstlagknvlivedvvgtgrtmkallsniekykpnmikvasllvkrtsrsdgfrpdya
+gfeipnlfvvgyaldyneyfrdlnhicvinehgkekyrv
+>d2vfaa_ c.61.1.1 (A:) automated matches {Malaria parasite (Plasmodium falciparum) [TaxId: 5833]}
+dpvfvkdddgydldsfmipahykkyltkvlvpngviknrieklardvmkemgghhivalc
+vlkggykffadlldyikalnrnsdrsipmtvdfirlksycndqstgdikviggddlstlt
+gknvlivediidtgktmqtllslvrqynpkmvkvaclfikrtplwngfkadfvgfsipdh
+fvvgysldyneifrdldhcclvndegkkk
+>d2geba_ c.61.1.1 (A:) automated matches {Thermoanaerobacter tengcongensis [TaxId: 119072]}
+rgshmpspmedieeiliteeqlkakvkelgemitrdyegkdlvligvlkgaimfmsglsr
+aidlplsidflavssygsstkssgivkiikdhdidiegkdvlivediidsgltlaylret
+llgrkprslkictildkperreadvkvdycgfkipdkfvvgygidyaekyrnlpfigvlk
+pely
+>d3ohpa_ c.61.1.1 (A:) automated matches {Vibrio cholerae [TaxId: 666]}
+khtvevmiseqevaqrirelgqqitehyqgssdlvlvgllrgsfvfmadlarqihlthqv
+dfmtassygnsmqssrdvrilkdldddikgkdvllvediidtgntlnkvkeilalrepks
+irictlldkptrrevdvevnwvgfeipdefvvgvgidyaqkyrhlpyigkvvpla
+>d1dkra1 c.61.1.2 (A:8-166) Phosphoribosylpyrophosphate synthetase {Bacillus subtilis [TaxId: 1423]}
+nlkifslnsnpelakeiadivgvqlgkcsvtrfsdgevqinieesirgcdcyiiqstsdp
+vnehimellimvdalkrasaktinivipyygyarqdrkarsrepitaklfanlletagat
+rvialdlhapqiqgffdipidhlmgvpilgeyfegknle
+>d1u9ya1 c.61.1.2 (A:1-155) Phosphoribosylpyrophosphate synthetase {Methanocaldococcus jannaschii [TaxId: 2190]}
+mivvsgsqsqnlafkvakllntkltrveykrfpdneiyvrivdeinddeaviintqknqn
+daivetillcdalrdegvkkitlvapylayarqdkkfnpgeaisiralakiysnivdkli
+tinphethikdfftipfiygdavpklaeyvkdkln
+>d1u9ya2 c.61.1.2 (A:156-284) Phosphoribosylpyrophosphate synthetase {Methanocaldococcus jannaschii [TaxId: 2190]}
+dpivlapdkgalefaktaskilnaeydylektrlspteiqiapktldakdrdvfivddii
+stggtmatavkllkeqgakkiiaacvhpvligdalnklysagveevvgtdtylsevskvs
+vaevivdll
+>d2c4ka1 c.61.1.2 (A:7-166) PRPP synthetase-associated protein 1 {Human (Homo sapiens) [TaxId: 9606]}
+gyrvfsanstaactelakriterlgaelgksvvyqetngetrveikesvrgqdifiiqti
+prdvntavmellimayalktacarniigvipyfpyskqskmrkrgsivckllasmlakag
+lthiitmdlhqkeiqgffsfpvdnlraspfllqyiqeeip
+>d2c4ka2 c.61.1.2 (A:167-350) PRPP synthetase-associated protein 1 {Human (Homo sapiens) [TaxId: 9606]}
+nyrnavivakspdaakraqsyaerlrlglavihgeaqcteldmddgrhsppmvknatvhp
+glelplmmakekppitvvgdvggriaiivddiiddvesfvaaaeilkergaykiyvmath
+gilsaeaprlieessvdevvvtntvphevqklqcpkiktvdislilseairrihngesma
+ylfr
+>d2e55a_ c.61.1.0 (A:) automated matches {Aquifex aeolicus [TaxId: 63363]}
+mivelshplikhkvntariqdtsaeklrktlkelgfmlvyealkdilleekevrtwignk
+rfnylneeeivfvpilraglsflegalqvvpnakvgflgikrneetleshiyysrlpelk
+gkivvildpmlatggtlevalreilkhsplkvksvhaiaapeglkrieekfkeveifvgn
+vderlndkgyiipglgdigdrlyavsvy
+>d3m3ha_ c.61.1.0 (A:) automated matches {Bacillus anthracis [TaxId: 261594]}
+qsnamkkeiashlleigavflqpndpftwssgmkspiycdnrltlsypkvrqtiaaglee
+likehfptveviagtatagiahaawvsdrmdlpmcyvrskakghgkgnqiegkaekgqkv
+vvvedlistggsaitcvealreagcevlgivsiftyeleagkekleaanvasyslsdysa
+ltevaaekgiigqaetkklqewrknpadeawita
+>d3o7ma_ c.61.1.0 (A:) automated matches {Bacillus anthracis [TaxId: 261594]}
+nieikdtliseeqlqekvkelalqierdfegeeivviavlkgsfvfaadlirhikndvti
+dfisassygnqtettgkvkllkdidvnitgknvivvediidsgltlhflkdhffmhkpka
+lkfctlldkperrkvdltaeyvgfqipdefivgygidcaekyrnlpfiasvvt
+>d3h83a_ c.61.1.0 (A:) automated matches {Bacillus anthracis [TaxId: 261594]}
+mhhhhhhssgvdlgtenlyfqsnammnqdiekvliseeqiqekvlelgaiiaedykntvp
+laigvlkgampfmadllkrtdtylemdfmavssyghstvstgevkilkdldtsvegrdil
+ivediidsgltlsylvdlfkyrkaksvkivtlldkptgrkvdlkadyvgftvphefvvgy
+gldykeqyrnlpyvgvlkpsvys
+>d3h83c_ c.61.1.0 (C:) automated matches {Bacillus anthracis [TaxId: 261594]}
+ammnqdiekvliseeqiqekvlelgaiiaedykntvplaigvlkgampfmadllkrtdty
+lemdfmavssyghstvstgevkilkdldtsvegrdilivediidsgltlsylvdlfkyrk
+aksvkivtlldkptgrkvdlkadyvgftvphefvvgygldykeqyrnlpyvgvlkpsvys
+>d4pfqa_ c.61.1.0 (A:) automated matches {Brachybacterium faecium [TaxId: 446465]}
+phpdvdrvlldeqqirdrlaelgeqiaadyaeeppvlvgvlrgavmvmadlarqidlkve
+mdwmavssygsgtkssgvvrilkdlsgditdrnvlivediidsgltlkwllsnlrsrgpk
+svevaallrkpdaarvdidvkyigfdipsefvigygldyaenyrnlpyvgvlsrsvy
+>d4ohca_ c.61.1.0 (A:) automated matches {Burkholderia cenocepacia [TaxId: 216591]}
+tgydrqsisdttakillevqavhfnaekpfiftsgwaspvyidcrklisyprvrralmem
+aettitrdigfeqidavaggetagipfaawiadrmmvpmqyvrkkpkgfgrnaqieghle
+egsrvllvedlttdsrskinfvnalrtagatvnhcfvlfhynifkesvsvlkdidvdlha
+latwwdvlrvakasgyfetktldevekflhapaewsaahgg
+>d3daha1 c.61.1.0 (A:5-165) automated matches {Burkholderia pseudomallei [TaxId: 320372]}
+dglmvftgnanpalaqevvkilgiplgkamvsrfsdgeiqveiqenvrgkdvfvlqstca
+ptndnlmelmimvdalkrasagritaaipyfgyarqdrrprsarvaisakvvanmleiag
+veriitmdlhadqiqgffdipvdniyatpillgdlrkqnyp
+>d3daha2 c.61.1.0 (A:166-314) automated matches {Burkholderia pseudomallei [TaxId: 320372]}
+dllvvspdvggvvraralakqlncdlaiidkrrpkanvaevmniigevegrtcvimddmv
+dtagtlckaaqvlkergakqvfayathpvlsggaadriaasaldelvvtdtiplsaesla
+cpkiralssagllaetfsrirrgdsvmsl
+>d2dy0a_ c.61.1.0 (A:) automated matches {Escherichia coli K-12 [TaxId: 83333]}
+tataqqleylknsiksiqdypkpgilfrdvtslledpkayalsidllveryknagitkvv
+gteargflfgapvalglgvgfvpvrkpgklpretisetydleygtdqleihvdaikpgdk
+vlvvddllatggtieatvklirrlggevadaafiinlfdlggeqrlekqgitsyslvpfp
+gh
+>d2ehja_ c.61.1.0 (A:) automated matches {Escherichia coli [TaxId: 562]}
+kkivevkhplvkhklglmreqdistkrfrelasevgslltyeatadletekvtiegwngp
+veidqikgkkitvvpilraglgmmdgvlenvpsarisvvgmyrneetlepvpyfqklvsn
+idermalivdpmlatggsviatidllkkagcssikvlvlvaapegiaalekahpdvelyt
+asidqglnehgyiipglgdagdkifgtk
+>d3mjda_ c.61.1.0 (A:) automated matches {Francisella tularensis [TaxId: 119856]}
+nlyfqsnamfiefalknqvlkfgeftlksgrispyffnaglfntgaqlatladyyaqlii
+ksdvkydilfgpaykgiplvaaistvlalkynidmpyafdrkeakdhgeggvfvgadmtn
+kkvlliddvmtagtafyesynklkiinakiagvvlsidrqekakdsdisatkkisqdfni
+pvlavtnfesifeyvkenldetmidkfkqyrqkygs
+>d2wnsa_ c.61.1.0 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+algplvtglydvqafkfgdfvlksglsspiyidlrgivsrprllsqvadilfqtaqnagi
+sfdtvcgvpytalplatvicstnqipmlirrketkdygtkrlvegtinpgetcliiedvv
+tsgssvletvevlqkeglkvtdaivlldreqggkdklqahgirlhsvctlskmleileqq
+kkvdaetvgrvkrfiqe
+>d3s5ja1 c.61.1.0 (A:3-160) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+nikifsgsshqdlsqkiadrlglelgkvvtkkfsnqetcveigesvrgedvyivqsgcge
+indnlmelliminackiasasrvtavipcfpyarqdkkdksrapisaklvanmlsvagad
+hiitmdlhasqiqgffdipvdnlyaepavlkwirenis
+>d2ji4a1 c.61.1.0 (A:19-178) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+glvlfsansnsscmelskkiaerlgvemgkvqvyqepnretrvqiqesvrgkdvfiiqtv
+skdvnttimellimvyacktscaksiigvipyfpyskqckmrkrgsivskllasmmckag
+lthlitmdlhqkeiqgffnipvdnlraspfllqyiqeeip
+>d2ji4a2 c.61.1.0 (A:179-368) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+dyrnavivakspasakraqsfaerlrlgiavihgeaqdaesdlvdgrhsppmvrsvaaih
+psleipmlipkekppitvvgdvggriaiivddiiddvdsflaaaetlkergaykifvmat
+hgllssdaprrieesaidevvvtntiphevqklqcpkiktvdismilseairrihngesm
+sylfrnigld
+>d4qria_ c.61.1.0 (A:) automated matches {Leptospira interrogans [TaxId: 267671]}
+sdilhprfsredisqkvkslalqisedykklnpificvlkggvyfftdltreipfsvein
+fvqarsysgtvstgkiellkdididlsdrhviivedildtgftlqylvrhiftrnpasle
+ivtlllkerkdtlefpvkyigwripdeflvgygldfdgryrnlpdihvlep
+>d3ozfa_ c.61.1.0 (A:) automated matches {Plasmodium falciparum [TaxId: 5838]}
+prgshmpipnnpgagenafdpvfvndddgydldsfmipahykkyltkvlvpngviknrie
+klaydikkvynneefhilcllkgsrgfftallkhlsrihnysavetskplfgehyvrvks
+ycndqstgtleivsedlsclkgkhvlivediidtgktlvkfceylkkfeiktvaiaclfi
+krtplwngfkadfvgfsipdhfvvgysldyneifrdldhcclvndegkkkyka
+>d4m0ka_ c.61.1.0 (A:) automated matches {Rhodothermus marinus [TaxId: 518766]}
+aletlkqairtvpdfpepgiqfkditpvlghpellrlaieallepfqeqeitkvvgiesr
+gfilggmlahhldagfvpvrkkgklpyqtlaesyqleygtdtiemhidaiepgdrvlihd
+dviatggtaeatirlveraggevvgcaflieltglqgrkrlpahvpvhtvlql
+>d4lyya_ c.61.1.0 (A:) automated matches {Shewanella pealeana [TaxId: 398579]}
+yfqsmkhttevmitaeeidqkldilaeqinahyadsdrllmvgllkgsvvfmadlcrrik
+ghveidfmsvssygnemsssrdvkilkdvqseiqgrdvlivedlidsgntlnkvrdmlll
+repkslalctlldkperrevdvpvdfigftipdefivgygidyaeqyrnlpyiakvvpl
+>d4rqaa_ c.61.1.0 (A:) automated matches {Staphylococcus aureus [TaxId: 451516]}
+mnsvmhndlkevllteediqnickelgaqltkdyqgkplvcvgilkgsamfmsdlikrid
+thlsidfmdvssyhggtestgevqiikdlgssienkdvliiediletgttlksitellqs
+rkvnsleivtlldkpnrrkadieakyvgkkipdefvvgygldyrelyrnlpyigtlkpev
+y
+>d3deza_ c.61.1.0 (A:) automated matches {Streptococcus mutans [TaxId: 1309]}
+mgrgsmtlakdiardlldikavylkpeepftwasgikspiytdnritlsypetrtlieng
+fvetikeafpeveviagtatagiphgaiiadkmnlplayirskpkdhgagnqiegrvtkg
+qkmviiedlistggsvldavaaaqregadvlgvvaiftyelpkatanfekasvklvtlsn
+yselikvakvqgyidadgltllkkfkenqetwqd
+>d4lzaa_ c.61.1.0 (A:) automated matches {Thermoanaerobacter pseudethanolicus [TaxId: 340099]}
+tleeikmmireipdfpkkgikfkditpvlkdakafnysiemlakalegrkfdliaapear
+gflfgaplayrlgvgfvpvrkpgklpaetlsyeyeleygtdsleihkdavlegqrvvivd
+dllatggtiyasaklveslggivdsiiflteltfldgrkkldgydiislikf
+>d3lrta2 c.61.1.0 (A:156-284) automated matches {Thermoplasma volcanium [TaxId: 50339]}
+yvvspddgglarvadisaklgkkhffiekkriddrtvemkvpnvdvngkkllivddiist
+ggtiakssgllrekgaskiyvsavhglfvngsenkilqnadeihvtdtveskfsdisvyq
+evcnyirdi
+>d3acda_ c.61.1.0 (A:) automated matches {Thermus thermophilus HB8 [TaxId: 300852]}
+mftpgngpvqisaeaikkrveelggeiardyqgktphlicvlngafifmadlvraiplpl
+tmdfiaissygnafkssgevellkdlrlpihgrdvivvedivdtgltlsylldylearkp
+asvrvaallskpsrrqvevpihylgfeiedayvygygldraqfdrnlpfitsirpe
+>d3n2la_ c.61.1.0 (A:) automated matches {Vibrio cholerae [TaxId: 666]}
+mkayqrefiefalekqvlkfgeftlksgrkspyffnaglfntgrdlarlgrfyaaalvds
+giefdvlfgpaykgipiatttavaladhhdvdtpycfnrkeaknhgeggnlvgsklegrv
+mlvddvitagtairesmeliqankadlagvlvaidrqekgkgelsaiqeverdfgcavis
+ivsltdlityleqqgnntehleavkayraqygi
+>d3n2lb_ c.61.1.0 (B:) automated matches {Vibrio cholerae [TaxId: 666]}
+mmkayqrefiefalekqvlkfgeftlksgrkspyffnaglfntgrdlarlgrfyaaalvd
+sgiefdvlfgpaykgipiatttavaladhhdvdtpycfnrkeaknhgeggnlvgsklegr
+vmlvddvitagtairesmeliqankadlagvlvaidrqekgkgelsaiqeverdfgcavi
+sivsltdlityleq
+>d4mb6a_ c.61.1.0 (A:) automated matches {Yersinia pseudotuberculosis [TaxId: 273123]}
+vsasktaqqlkyikdsiktipdypkagilfrdvtsllenpkaysasiellsehysesgvt
+kvvgteargflfgapvalalgvgfvpvrkpgklpretisesyeleygtdtleihtdsiqp
+gdkvlvvddllatggtieatvklirrlggevvhaafiinlpelggearltqqgihcyslv
+sfd

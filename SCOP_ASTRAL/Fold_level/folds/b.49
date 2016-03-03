@@ -1,0 +1,95 @@
+>d1skyb2 b.49.1.1 (B:21-95) F1 ATP synthase alpha subunit, domain 1 {Bacillus sp., strain ps3 [TaxId: 1409]}
+sqiqvsdvgtviqvgdgiarahgldnvmsgeavefanavmgmalnleennvgivilgpyt
+gikegdevrrtgrim
+>d2jdia2 b.49.1.1 (A:24-94) F1 ATP synthase alpha subunit, domain 1 {Cow (Bos taurus) [TaxId: 9913]}
+dleetgrvlsigdgiarvhglrnvqaeemvefssglkgmslnlepdnvgvvvfgndklik
+egdivkrtgai
+>d1fx0a2 b.49.1.1 (A:25-96) F1 ATP synthase alpha subunit, domain 1 {Spinach (Spinacia oleracea), chloroplast [TaxId: 3562]}
+kvvntgtvlqvgdgiarihgldevmagelvefeegtigialnlesnnvgvvlmgdglmiq
+egssvkatgria
+>d1skye2 b.49.1.1 (E:1-82) F1 ATP synthase beta subunit, domain 1 {Bacillus sp., strain ps3 [TaxId: 1409]}
+mtrgrviqvmgpvvdvkfenghlpaiynalkiqhkarnenevdidltlevalhlgddtvr
+tiamastdglirgmevidtgap
+>d2jdid2 b.49.1.1 (D:9-81) F1 ATP synthase beta subunit, domain 1 {Cow (Bos taurus) [TaxId: 9913]}
+ttgrivavigavvdvqfdeglppilnalevqgretrlvlevaqhlgestvrtiamdgteg
+lvrgqkvldsgap
+>d1mabb2 b.49.1.1 (B:1-81) F1 ATP synthase beta subunit, domain 1 {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+saapkagtatgqivavigavvdvqfdeglppilnalevqgresrlvlevaqhlgestvrt
+iamdgteglvrgqkvldsgap
+>d1fx0b2 b.49.1.1 (B:19-97) F1 ATP synthase beta subunit, domain 1 {Spinach (Spinacia oleracea), chloroplast [TaxId: 3562]}
+nlgriaqiigpvlnvafppgkmpniynalivkgrdtagqpmnvtcevqqllgnnrvrava
+msatdgltrgmevidtgap
+>d2qe7a1 b.49.1.0 (A:27-94) automated matches {Bacillus sp. [TaxId: 90973]}
+evgtviqvgdgiarvhglekvmagellefengvmgmaqnleednvgvvilgpyteiregt
+qvkrtgri
+>d2qe7d1 b.49.1.0 (D:2-76) automated matches {Bacillus sp. [TaxId: 90973]}
+nkgriiqvmgpvvdiqfesgqlpdiynaitierpqggtltveaavhlgdnvvrcvamast
+dglvrgleavdtgap
+>d4q4la1 b.49.1.0 (A:18-91) automated matches {Burkholderia thailandensis [TaxId: 271848]}
+alvegkivqcigavidvefpresmpkiydalilegseltlevqqqlgdgvvrticlgasd
+glrrgvvvkntgnp
+>d2jizc1 b.49.1.0 (C:16-94) automated matches {Cow (Bos taurus) [TaxId: 9913]}
+ilgadtsvdleetgrvlsigdgiarvhglrnvqaeemvefssglkgmslnlepdnvgvvv
+fgndklikegdivkrtgai
+>d2r9va1 b.49.1.0 (A:17-96) automated matches {Thermotoga maritima [TaxId: 243274]}
+ksfeekidledtgkviqvgdgiarayglnkvmvselvefvetgvkgvafnleednvgiii
+lgeykdikeghtvrrlkrii
+>d1bd0a1 b.49.2.2 (A:2-11,A:245-382) Alanine racemase {Bacillus stearothermophilus [TaxId: 1422]}
+ndfhrdtwaeXfslhsrlvhvkklqpgekvsygatytaqteewigtipigyadgwlrrlq
+hfhvlvdgqkapivgricmdqcmirlpgplpvgtkvtligrqgdevisiddvarhletin
+yevpctisyrvpriffrhkrimevrnaig
+>d1rcqa1 b.49.2.2 (A:1-7,A:234-357) Alanine racemase {Pseudomonas aeruginosa [TaxId: 287]}
+mrparalXtleskvisvrdlpagepvgygarysterrqrigvvamgyadgyprhaadgtl
+vfidgkpgrlvgrvsmdmltvdltdhpqaglgsrvelwgpnvpvgalaaqfgsipyqllc
+nlkrvprvysga
+>d1vfha1 b.49.2.2 (A:3-12,A:250-384) Alanine racemase {Streptomyces lavendulae [TaxId: 1914]}
+etptrvyaeiXmtlraslalvktvpaghgvsyghhyvtesethlalvpagyadgiprnas
+grgpvlvagkirraagriamdqfvvdlgedlaeagdeavilgdaergeptaedwaqaaht
+iayeivtriggrvprvylgglehhhh
+>d1knwa1 b.49.2.3 (A:2-31,A:279-422) Diaminopimelate decarboxylase LysA {Escherichia coli [TaxId: 562]}
+phslfstdtdltaenllrlpaefgcpvwvyXvlitqvrsvkqmgsrhfvlvdagfndlmr
+pamygsyhhisalaadgrslehaptvetvvagplcesgdvftqqeggnvetralpevkag
+dylvlhdtgaygasmssnynsrpllpevlfdngqarlirrrqtieellalellhh
+>d1twia1 b.49.2.3 (A:15-49,A:314-448) Diaminopimelate decarboxylase LysA {Methanococcus jannaschii [TaxId: 2190]}
+mlgndtveikdgrffidgydaielaekfgtplyvmXgyllgkvhhiketpvtkwvmidag
+mndmmrpamyeayhhiinckvknekevvsiagglcessdvfgrdreldkvevgdvlaifd
+vgaygismannynargrprmvltskkgvflireretyadliakdivpphll
+>d1hkva1 b.49.2.3 (A:2-45,A:311-447) Diaminopimelate decarboxylase LysA {Mycobacterium tuberculosis [TaxId: 1773]}
+nellhlapnvwprnttrdevgvvciagipltqlaqeygtplfviXitlyevgtvkdvdvs
+atahrryvsvdggmsdnirtalygaqydvrlvsrvsdappvparlvgkhcesgdiivrdt
+wvpddirpgdlvavaatgaycyslssrynmvgrpavvavhagnarlvlrretvddllsle
+vr
+>d7odca1 b.49.2.3 (A:2-43,A:284-418) Eukaryotic ornithine decarboxylase (ODC) {Mouse (Mus musculus) [TaxId: 10090]}
+ssftkdefdchildegftakdildqkinevsssddkdafyvaXftlavniiakktvwkeq
+pgsddedesneqtfmyyvndgvygsfncilydhahvkallqkrpkpdekyysssiwgptc
+dgldrivercnlpemhvgdwmlfenmgaytvaaastfngfqrpniyyvmsrpmwqlmk
+>d2toda1 b.49.2.3 (A:37-43,A:284-410) Eukaryotic ornithine decarboxylase (ODC) {Trypanosome (Trypanosoma brucei) [TaxId: 5691]}
+gdpffvaXftlavnviakkvtpgvqtdvgahaesnaqsfmyyvndgvygsfncilydhav
+vrplpqrepipneklypssvwgptcdgldqiveryylpemqvgewllfedmgaytvvgts
+sfngfqsptiyyvvs
+>d1f3ta1 b.49.2.3 (A:14-43,A:284-422) Eukaryotic ornithine decarboxylase (ODC) {Trypanosome (Trypanosoma brucei) [TaxId: 5691]}
+rflegfntrdalckkismntcdegdpffvaXftlavnviakkvtpgvqtdvgahaesnaq
+sfmyyvndgvygsfncilydhavvrplpqrepipneklypssvwgptcdgldqiveryyl
+pemqvgewllfedmgaytvvgtssfngfqsptiyyvvsglpdhvvrelks
+>d1njjb1 b.49.2.3 (B:20-43,B:284-409) Eukaryotic ornithine decarboxylase (ODC) {Trypanosome (Trypanosoma brucei) [TaxId: 5691]}
+ntrdalckkismntcdegdpffvaXftlavnviakkvtpgvqtdvgahaesnaqsfmyyv
+ndgvygsfncilydhavvrplpqrepipneklypssvwgptcdgldqiveryylpemqvg
+ewllfedmgaytvvgtssfngfqsptiyyvv
+>d1yloa1 b.49.3.1 (A:67-147) Aminopeptidase YpdE {Shigella flexneri [TaxId: 623]}
+gfmvrsisregaidvlpvgnvrmaarqlqpvrittreeckipglldgdrqgndvsamrvd
+igartydevmqagirpgdrvt
+>d2grea1 b.49.3.1 (A:74-186) Deblocking aminopeptidase YhfE {Bacillus cereus [TaxId: 1396]}
+gamvkeikpdgrlslsmiggfrwnsvegeyceietssgktytgtilmhqtsvhvykdage
+akrdeknievridervfsadevrelgievgdfvsfdprvqitesgyiksrhld
+>d2fvga1 b.49.3.1 (A:65-148) Endoglucanase TM1049 {Thermotoga maritima [TaxId: 2336]}
+gfvvskiekdgkvsflpvggvdprilpgkvvqvknlkgvigyrpihlqrdeentpprfen
+lridfgfssadeakkyvsigdyvs
+>d1y0ya1 b.49.3.1 (A:73-163) Frv operon protein FrvX {Pyrococcus horikoshii [TaxId: 53953]}
+glmvthiekngflrvapiggvdpktliaqrfkvwidkgkfiygvgasvpphiqkpedrkk
+apdwdqifidigaeskeeaedmgvkigtvit
+>d1vhea1 b.49.3.1 (A:73-162) Hypothetical protein YsdC {Bacillus subtilis [TaxId: 1423]}
+gfmvtqitdkgfirfqtvggwwaqvmlaqrvtivtkkgeitgvigskpphilspearkks
+veikdmfidigassreealewgvlpgdmiv
+>d1vhoa1 b.49.3.1 (A:70-152) Putative endoglucanase TM1048 {Thermotoga maritima [TaxId: 2336]}
+gfvvskvegqfarlepvggvdpkvvyaskvriytkngiergvigmlaphlqdsesrkkvp
+tydeifvdlslcergvrvgdiav

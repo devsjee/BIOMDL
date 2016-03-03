@@ -1,0 +1,294 @@
+>d3gata_ g.39.1.1 (A:) Erythroid transcription factor GATA-1 {Chicken (Gallus gallus) [TaxId: 9031]}
+kragtvcsncqtstttlwrrspmgdpvcnacglyyklhqvnrpltmrkdgiqtrnrkvss
+kgkkrr
+>d5gata_ g.39.1.1 (A:) Erythroid transcription factor GATA-1 {Emericella nidulans [TaxId: 162425]}
+mkngeqngpttctncftqttplwrrnpegqplcnacglflklhgvvrplslktdvikkrn
+rnsans
+>d1y0ja_ g.39.1.1 (A:) Erythroid transcription factor GATA-1 {Mouse (Mus musculus) [TaxId: 10090]}
+earecvncgatatplwrrdrtghylcnacglyhkmngqn
+>d1gnfa_ g.39.1.1 (A:) Erythroid transcription factor GATA-1 {Mouse (Mus musculus) [TaxId: 10090]}
+gsearecvncgatatplwrrdrtghylcnacglyhkmngqnrplir
+>d2m9wa_ g.39.1.1 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+shmsasrrvglscancqtttttlwrrnaegepvcnacglymklhgvprplamrkegiqtr
+krk
+>d3dfxa_ g.39.1.1 (A:) automated matches {Mouse (Mus musculus) [TaxId: 10090]}
+saarragtscancqtttttlwrrnangdpvcnacglyyklhninrpltmkkegiqtrn
+>d1r4ia_ g.39.1.2 (A:) Androgen receptor {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+pqktclicgdeasgahygaltcgsckvffkraaegkqkylcasrndctidkfrrkncpsc
+rlrkcyeagmtlga
+>d1r0ob_ g.39.1.2 (B:) Ecdysone receptor DNA-binding domain {Fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+eelclvcgdrasgyhynaltcegckgffrrsvtksavycckfgracemdmymrrkcqecr
+lkkclavgmrpecvvpen
+>d1hcqa_ g.39.1.2 (A:) Estrogen receptor DNA-binding domain {Human and chicken (Homo sapiens) and (Gallus gallus) [TaxId: 9606]}
+mketrycavcndyasgyhygvwscegckaffkrsiqghndymcpatnqctidknrrkscq
+acrlrkcyevgmmk
+>d1lata_ g.39.1.2 (A:) Glucocorticoid receptor DNA-binding domain {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+rpclvcsdeasgchygvltcegckaffkravegqhnylckyegkciidkirrkncpacry
+rkclqagmnle
+>d1r4oa_ g.39.1.2 (A:) Glucocorticoid receptor DNA-binding domain {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+mkparpclvcsdeasgchygvltcgsckvffkravegqhnylcagrndciidkirrkncp
+acryrkclqagmnlearktk
+>d1cita_ g.39.1.2 (A:) Orphan nuclear receptor NGFI-B DNA-binding domain {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+grcavcgdnascqhygvrtcegckgffkrtvqksakyiclankdcpvdkrrrnrcqfcrf
+qkclavgmvkevvrtdslkgrrgrlpskp
+>d1a6ya_ g.39.1.2 (A:) Orphan nuclear receptor reverb DNA-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+llckvcgdvasgfhygvlacegckgffrrsiqqniqykrclknencsivrinrnrcqqcr
+fkkclsvgmsrdavrfgr
+>d1dsza_ g.39.1.2 (A:) Retinoic acid receptor DNA-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+pcfvcqdkssgyhygvsacegckgffrrsiqknmvytchrdknciinkvtrnrcqycrlq
+kcfevgmskesvrnd
+>d1hraa_ g.39.1.2 (A:) Retinoic acid receptor DNA-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+mprvykpcfvcqdkssgyhygvsacegckgffrrsiqknmiytchrdkncvinkvtrnrc
+qycrlqkcfevgmskesvrn
+>d1dszb_ g.39.1.2 (B:) Retinoid X receptor (RXR-alpha) DNA-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+gsftkhicaicgdrssgkhygvyscegckgffkrtvrkdltytcrdnkdclidkrqrnrc
+qycryqkclamgmkreavqeerqr
+>d2nlla_ g.39.1.2 (A:) Retinoid X receptor (RXR-alpha) DNA-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+caicgdrssgkhygvyscegckgffkrtvrkdltytcrdnkdclidkrqrnrcqycryqk
+clamgm
+>d1r0na_ g.39.1.2 (A:) Retinoid X receptor (RXR-alpha) DNA-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+hicaicgdrssgkhygvyscegckgffkrtvrkdltytcrdnkdclidkrqrnrcqycry
+qkclamgmkreavqaaaa
+>d2nllb_ g.39.1.2 (B:) Thyroid hormone receptor (TR-beta) DNA-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+delcvvcgdkatgyhyrcitcegckgffrrtiqknlhpsysckyegkcvidkvtrnqcqe
+crfkkciyvgmatdlvlddskrlakrklieenrekrrreelek
+>d1kb2a_ g.39.1.2 (A:) Vitamin D3 receptor, VDR, DNA-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+ricgvcgdratgfhfnamtcegckgffrrsmkrkalftcpfngdcritkdnrrhcqacrl
+krcvdigmmkefiltdeevqrkremilkr
+>d1kb4b_ g.39.1.2 (B:) Vitamin D3 receptor, VDR, DNA-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+ricgvcgdratgfhfnamtcegckgffrrsmkrkalftcpfngdcritkdnrrhcqacrl
+krcvdigmmkefiltdeevqrkremilkrkeeealkdsl
+>d1ynwa1 g.39.1.2 (A:18-113) Vitamin D3 receptor, VDR, DNA-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+rnvpricgvcgdratgfhfnamtcegckgffrrsmkrkalftcaangdcritkdnrracq
+acrlkrcvdigmmkefiltdeevqrkremilkrkee
+>d2hana_ g.39.1.2 (A:) automated matches {Fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+khlcsicgdrasgkhygvyscegckgffkrtvrkdltyacrenrnciidkrqrnrcqycr
+yqkcltcgmkreavqeer
+>d2hanb_ g.39.1.2 (B:) automated matches {Fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+rvqeelclvcgdrasgyhynaltcegckgffrrsvtksavycckfgracemdmymrrkcq
+ecrlkkclavgmrpecvvpenqcamkr
+>d3cbba_ g.39.1.2 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+alcaicgdratgkhygasscdgckgffrrsvrknhmyscrfsrqcvvdkdkrnqcrycrl
+kkcfragmkkeavqne
+>d2enva_ g.39.1.2 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+gssgssgmecrvcgdkasgfhygvhacegckgffrrtirmkleyekcersckiqkknrnk
+cqycrfqkclalgmshnairfgsgpssg
+>d3g6tb_ g.39.1.2 (B:) automated matches {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+hmclvcsdeasgchygvltcgsckvffkravegrqhnylcagrndciidkirrkncpacr
+yrkclqagmnle
+>d1v6ga2 g.39.1.3 (A:42-81) Actin-binding LIM protein 2, abLIM2 {Human (Homo sapiens) [TaxId: 9606]}
+fvcavcrlpfppgdrvtfngkecmcqkcslpvsvsgpssg
+>d1wiga1 g.39.1.3 (A:1-32) Actin-binding LIM protein 2, abLIM2 {Human (Homo sapiens) [TaxId: 9606]}
+gssgssgcdscekyitgrvleagekhyhpsca
+>d1wiga2 g.39.1.3 (A:33-73) Actin-binding LIM protein 2, abLIM2 {Human (Homo sapiens) [TaxId: 9606]}
+lcvrcgqmfaegeemylqgssiwhpacrqaartedsgpssg
+>d2dj7a1 g.39.1.3 (A:44-74) Actin-binding LIM protein 3, abLIM-3 {Human (Homo sapiens) [TaxId: 9606]}
+kcqtcsviltgeyiskdgvpycesdyhaqfg
+>d2dj7a2 g.39.1.3 (A:8-43) Actin-binding LIM protein 3, abLIM-3 {Human (Homo sapiens) [TaxId: 9606]}
+kpikirgpshcagckeeikhgqsllaldkqwhvscf
+>d1b8ta1 g.39.1.3 (A:1-35) Cysteine-rich (intestinal) protein, CRP, CRIP {Chicken (Gallus gallus) [TaxId: 9031]}
+mpnwgggkkcgvcqkavyfaeevqcegssfhkscf
+>d1b8ta2 g.39.1.3 (A:36-100) Cysteine-rich (intestinal) protein, CRP, CRIP {Chicken (Gallus gallus) [TaxId: 9031]}
+lcmvckknldsttvavhgdeiyckscygkkygpkgkgkgmgagtlstdkgeslgikyeeg
+qshrp
+>d1b8ta3 g.39.1.3 (A:101-143) Cysteine-rich (intestinal) protein, CRP, CRIP {Chicken (Gallus gallus) [TaxId: 9031]}
+tnpnasrmaqkvggsdgcprcgqavyaaekvigagkswhkscf
+>d1b8ta4 g.39.1.3 (A:144-192) Cysteine-rich (intestinal) protein, CRP, CRIP {Chicken (Gallus gallus) [TaxId: 9031]}
+rcakcgkslesttladkdgeiyckgcyaknfgpkgfgfgqgagalihsq
+>d2cu8a1 g.39.1.3 (A:8-37) Cysteine-rich (intestinal) protein, CRP, CRIP {Human (Homo sapiens) [TaxId: 9606]}
+maskcpkcdktvyfaekvsslgkdwhkfcl
+>d2cu8a2 g.39.1.3 (A:38-70) Cysteine-rich (intestinal) protein, CRP, CRIP {Human (Homo sapiens) [TaxId: 9606]}
+kcercsktltpgghaehdgkpfchkpcyatlfg
+>d1cxxa1 g.39.1.3 (A:117-144) Cysteine-rich (intestinal) protein, CRP, CRIP {Japanese quail (Coturnix coturnix japonica), CRP2 [TaxId: 93934]}
+aekcsacgdsvyaaekvigagkpwhknc
+>d1cxxa2 g.39.1.3 (A:145-175) Cysteine-rich (intestinal) protein, CRP, CRIP {Japanese quail (Coturnix coturnix japonica), CRP2 [TaxId: 93934]}
+frcakcgkslesttltekegeiyckgcyakn
+>d1a7ia1 g.39.1.3 (A:8-35) Cysteine-rich (intestinal) protein, CRP, CRIP {Japanese quail (Coturnix coturnix japonica), CRP2 [TaxId: 93934]}
+nkcgacgrtvyhaeevqcdgrsfhrccf
+>d1a7ia2 g.39.1.3 (A:36-67) Cysteine-rich (intestinal) protein, CRP, CRIP {Japanese quail (Coturnix coturnix japonica), CRP2 [TaxId: 93934]}
+lcmvcrknldsttvaihdaevyckscygkkyg
+>d1imla1 g.39.1.3 (A:1-28) Cysteine-rich (intestinal) protein, CRP, CRIP {Rat (Rattus rattus) [TaxId: 10117]}
+pkcpkcdkevyfaervtslgkdwhrpcl
+>d1imla2 g.39.1.3 (A:29-76) Cysteine-rich (intestinal) protein, CRP, CRIP {Rat (Rattus rattus) [TaxId: 10117]}
+kcekcgktltsgghaehegkpycnhpcysamfgpkgfgrggaeshtfk
+>d2d8ya1 g.39.1.3 (A:9-43) Eplin, LIMA1 {Human (Homo sapiens) [TaxId: 9606]}
+kfqaparetcvecqktvypmerllanqqvfhiscf
+>d2cuqa1 g.39.1.3 (A:43-74) Four and a half LIM domains 3, FHL3 {Human (Homo sapiens) [TaxId: 9606]}
+vctgcqtplagqqftsrdedpycvacfgelfa
+>d2cuqa2 g.39.1.3 (A:8-42) Four and a half LIM domains 3, FHL3 {Human (Homo sapiens) [TaxId: 9606]}
+pcyenkfaprcarcsktltqggvtyrdqpwhrecl
+>d1wyha1 g.39.1.3 (A:35-66) Four and a half LIM domains 3, FHL3 {Human (Homo sapiens) [TaxId: 9606]}
+lcsgceqplgsrsfvpdkgahycvpcyenkfa
+>d1wyha2 g.39.1.3 (A:8-34) Four and a half LIM domains 3, FHL3 {Human (Homo sapiens) [TaxId: 9606]}
+csacgetvmpgsrkleyggqtwhehcf
+>d2cura1 g.39.1.3 (A:33-63) Four and a half LIM domains protein 1, FHL-1 {Human (Homo sapiens) [TaxId: 9606]}
+vcvtcskklagqrftavedqyycvdcyknfv
+>d2cura2 g.39.1.3 (A:8-32) Four and a half LIM domains protein 1, FHL-1 {Human (Homo sapiens) [TaxId: 9606]}
+cvkcnkaitsggityqdqpwhadcf
+>d2cupa1 g.39.1.3 (A:66-95) Four and a half LIM domains protein 1, FHL-1 {Human (Homo sapiens) [TaxId: 9606]}
+spkckgcfkaivagdqnveykgtvwhkdcf
+>d2cupa2 g.39.1.3 (A:35-65) Four and a half LIM domains protein 1, FHL-1 {Human (Homo sapiens) [TaxId: 9606]}
+rcakclhplanetfvakdnkilcnkcttred
+>d2cupa3 g.39.1.3 (A:8-34) Four and a half LIM domains protein 1, FHL-1 {Human (Homo sapiens) [TaxId: 9606]}
+cvecrkpigadskevhyknrfwhdtcf
+>d1x63a2 g.39.1.3 (A:45-76) Four and a half LIM domains protein 1, FHL-1 {Human (Homo sapiens) [TaxId: 9606]}
+tcsnckqvigtgsffpkgedfycvtchetkfa
+>d1x4ka1 g.39.1.3 (A:35-66) Four and a half LIM domains protein 2, FHL2 {Human (Homo sapiens) [TaxId: 9606]}
+ichrcqqpigtksfipkdnqnfcvpcyekqha
+>d1x4ka2 g.39.1.3 (A:8-34) Four and a half LIM domains protein 2, FHL2 {Human (Homo sapiens) [TaxId: 9606]}
+cqeckktimpgtrkmeykgsswhetcf
+>d2d8za1 g.39.1.3 (A:8-32) Four and a half LIM domains protein 2, FHL2 {Human (Homo sapiens) [TaxId: 9606]}
+cvqckkpittggvtyreqpwhkecf
+>d2d8za2 g.39.1.3 (A:33-64) Four and a half LIM domains protein 2, FHL2 {Human (Homo sapiens) [TaxId: 9606]}
+vctacrkqlsgqrftarddfayclncfcdlya
+>d1x4la1 g.39.1.3 (A:8-36) Four and a half LIM domains protein 2, FHL2 {Human (Homo sapiens) [TaxId: 9606]}
+cagctnpisglggtkyisfeerqwhndcf
+>d1x4la2 g.39.1.3 (A:37-66) Four and a half LIM domains protein 2, FHL2 {Human (Homo sapiens) [TaxId: 9606]}
+nckkcslslvgrgflterddilcpdcgkdi
+>d1x68a1 g.39.1.3 (A:8-36) Four and a half LIM domains protein 5, FHL-5 {Human (Homo sapiens) [TaxId: 9606]}
+cvacskpisgltgakficfqdsqwhsecf
+>d1x68a2 g.39.1.3 (A:37-70) Four and a half LIM domains protein 5, FHL-5 {Human (Homo sapiens) [TaxId: 9606]}
+ncgkcsvslvgkgfltqnkeifcqkcgsgmdtdi
+>d1x3ha2 g.39.1.3 (A:43-74) Leupaxin {Human (Homo sapiens) [TaxId: 9606]}
+vcgdcftsfstgsffeldgrpfcelhyhhrrg
+>d1x6aa1 g.39.1.3 (A:8-41) Lim domain kinase 2 {Human (Homo sapiens) [TaxId: 9606]}
+kdywgkfgefchgcsllmtgpfmvagefkyhpec
+>d1x6aa2 g.39.1.3 (A:42-75) Lim domain kinase 2 {Human (Homo sapiens) [TaxId: 9606]}
+facmsckviiedgdayalvqhatlycgkchnevv
+>d1rutx1 g.39.1.3 (X:19-48) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+swkrcagcggkiadrfllyamdsywhsrcl
+>d1rutx2 g.39.1.3 (X:49-82) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+kcsscqaqlgdigtssytksgmilcrndyirlfg
+>d1rutx3 g.39.1.3 (X:83-113) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+nsgacsacgqsipaselvmraqgnvyhlkcf
+>d1rutx4 g.39.1.3 (X:114-146) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+tcstcrnrlvpgdrfhyingslfcehdrptali
+>d1m3va1 g.39.1.3 (A:1-32) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+gslswkrcagcggkiadrfllyamdsywhsrc
+>d1m3va2 g.39.1.3 (A:33-71) LIM only 4 (Lmo4) {Mouse (Mus musculus) [TaxId: 10090]}
+lkcsscqaqlgdigtssytksgmilcrndyirlfgnsga
+>d2co8a2 g.39.1.3 (A:8-43) Nedd9 interacting protein with calponin homology, NICAL (MICAL1) {Human (Homo sapiens) [TaxId: 9606]}
+qhqeagagdlcalcgehlyvlerlcvnghffhrscf
+>d1x62a1 g.39.1.3 (A:43-73) PDZ and LIM domain protein 1 Elfin {Human (Homo sapiens) [TaxId: 9606]}
+vctdcgtnlkqkghffvedqiycekharerv
+>d1x62a2 g.39.1.3 (A:8-42) PDZ and LIM domain protein 1 Elfin {Human (Homo sapiens) [TaxId: 9606]}
+signaqklpmcdkcgtgivgvfvklrdrhrhpecy
+>d1x64a1 g.39.1.3 (A:8-52) PDZ and LIM domain protein 3, PDLIM3 {Mouse (Mus musculus) [TaxId: 10090]}
+vrapvtkvhggagsaqrmplcdkcgsgivgavvkardkyrhpecf
+>d1x64a2 g.39.1.3 (A:53-83) PDZ and LIM domain protein 3, PDLIM3 {Mouse (Mus musculus) [TaxId: 10090]}
+vcadcnlnlkqkgyffvegelycetharart
+>d2dara1 g.39.1.3 (A:53-84) PDZ and LIM domain protein 5, Enigma {Human (Homo sapiens) [TaxId: 9606]}
+ncahckntmayigfveekgalycelcyekffa
+>d2dara2 g.39.1.3 (A:8-52) PDZ and LIM domain protein 5, Enigma {Human (Homo sapiens) [TaxId: 9606]}
+dqdtlvqraehipagkrtpmcahcnqvirgpflvalgkswhpeef
+>d2d8xa1 g.39.1.3 (A:33-64) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+rcdlcqevladigfvknagrhlcrpchnreka
+>d2d8xa2 g.39.1.3 (A:8-32) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+chqcgefiigrvikamnnswhpecf
+>d1u5sb2 g.39.1.3 (B:103-137) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+fvcakcekpflghrhyerkglaycethynqlfgdv
+>d2cora1 g.39.1.3 (A:43-73) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+ncancgkeltadarelkgelyclpchdkmgv
+>d2cora2 g.39.1.3 (A:8-42) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+ekarglgkyicqkchaiideqplifkndpyhpdhf
+>d1g47a1 g.39.1.3 (A:1-35) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+manalasatcerckggfapaekivnsngelyheqc
+>d1g47a2 g.39.1.3 (A:36-70) Pinch (particularly interesting new Cys-His) protein {Human (Homo sapiens) [TaxId: 9606]}
+fvcaqcfqqfpeglfyefegrkycehdfqmlfapc
+>d1j2oa1 g.39.1.3 (A:1-30) Rhombotin-2 (Lmo2) {Mouse (Mus musculus) [TaxId: 10090]}
+gslltcggcqqnigdryflkaidqywhedc
+>d1j2oa2 g.39.1.3 (A:31-63) Rhombotin-2 (Lmo2) {Mouse (Mus musculus) [TaxId: 10090]}
+lscdlcgcrlgevgrrlyyklgrklcrrdylrl
+>d1x61a1 g.39.1.3 (A:8-34) Thyroid receptor interacting protein 6, TRIP6 {Human (Homo sapiens) [TaxId: 9606]}
+cggcgedvvgdgagvvaldrvfhvgcf
+>d1x61a2 g.39.1.3 (A:35-66) Thyroid receptor interacting protein 6, TRIP6 {Human (Homo sapiens) [TaxId: 9606]}
+vcstcraqlrgqhfyaverraycegcyvatle
+>d2dloa2 g.39.1.3 (A:43-75) Thyroid receptor interacting protein 6, TRIP6 {Human (Homo sapiens) [TaxId: 9606]}
+tcvvchrgldgipftvdatsqihciedfhrkfa
+>d1zfoa_ g.39.1.4 (A:) LASP-1 {Pig (Sus scrofa) [TaxId: 9823]}
+mnpncarcgkivyptekvncldkfwhkacf
+>d1xpaa2 g.39.1.5 (A:98-133) DNA repair factor XPA DNA- and RPA-binding domain, N-terminal subdomain {Human (Homo sapiens) [TaxId: 9606]}
+mefdyviceecgkefmdsylmnhfdlptcdncrdad
+>d1d4ua2 g.39.1.5 (A:1-36) DNA repair factor XPA DNA- and RPA-binding domain, N-terminal subdomain {Human (Homo sapiens) [TaxId: 9606]}
+mefdyviceecgkefmdsylmdhfdlptcddcrdad
+>d1vq8u1 g.39.1.6 (U:4-56) Ribosomal protein L24e {Haloarcula marismortui [TaxId: 2238]}
+recdycgtdiepgtgtmfvhkdgatthfcsskcennadlgrearnlewtdtar
+>d2qaln1 g.39.1.7 (N:1-100) Ribosomal protein S14 {Escherichia coli [TaxId: 562]}
+akqsmkarevkrvaladkyfakraelkaiisdvnasdedrwnavlklqtlprdsspsrqr
+nrcrqtgrphgflrkfglsrikvreaamrgeipglkkasw
+>d2uubn1 g.39.1.7 (N:2-61) Ribosomal protein S14 {Thermus thermophilus [TaxId: 274]}
+arkaliekakrtpkfkvraytrcvrcgrarsvyrffglcriclrelahkgqlpgvrkasw
+>d3gpua3 g.39.1.8 (A:239-274) DNA repair protein MutM (Fpg) {Bacillus stearothermophilus [TaxId: 1422]}
+lyvygrqgnpckrcgtpiektvvagrgthycprcqr
+>d3gq4a3 g.39.1.8 (A:229-274) DNA repair protein MutM (Fpg) {Bacillus stearothermophilus [TaxId: 1422]}
+qgeagtfqhhlyvygrqgnpckrcgtpiektvvagrgthycprcqr
+>d1k82a3 g.39.1.8 (A:225-268) DNA repair protein MutM (Fpg) {Escherichia coli [TaxId: 562]}
+kpgyfaqelqvygrkgepcrvcgtpivatkhaqratfycrqcqk
+>d1tdza3 g.39.1.8 (A:225-271) DNA repair protein MutM (Fpg) {Lactococcus lactis [TaxId: 1358]}
+lgstgkmqnelqvygktgekcsrcgaeiqkikvagrgthfcpvcqqk
+>d1ee8a3 g.39.1.8 (A:211-266) DNA repair protein MutM (Fpg) {Thermus thermophilus [TaxId: 274]}
+dqsyrqpdglpggfqtrhavygreglpcpacgrpverrvvagrgthfcptcqgegp
+>d1k3xa3 g.39.1.8 (A:223-262) Endonuclease VIII {Escherichia coli [TaxId: 562]}
+alfrfkvfhrdgepcercgsiiekttlssrpfywcpgcqh
+>d1q3ba3 g.39.1.8 (A:217-262) Endonuclease VIII {Escherichia coli [TaxId: 562]}
+enkhhgalfrfkvfhrdgepcercgsiiekttlssapfywcpgcqh
+>d1tdha3 g.39.1.8 (A:247-290) Endonuclease VIII-like 1 (NEIL1) {Human (Homo sapiens) [TaxId: 9606]}
+esgeedfaafrawlrcygmpgmsslqdrhgrtiwfqgdpgplap
+>d1lv3a_ g.39.1.9 (A:) Hypothetical zinc finger protein YacG {Escherichia coli [TaxId: 562]}
+msetitvncptcgktvvwgeispfrpfcskrcqlidlgewaaeekripssgdlsesddws
+eepkq
+>d1pzwa_ g.39.1.10 (A:) Transcription factor grauzone Cg33133-Pa, zinc finger associated domain {Fruit fly (Drosophila melanogaster) [TaxId: 7227]}
+dicrlclrgvsgaqmclqifdvdsgeskvaevlrqhfwfevlpndeiskvicnvcwtqvs
+efhqfyvsiqeaqviyatts
+>d1ovxa_ g.39.1.11 (A:) ClpX chaperone zinc binding domain {Escherichia coli [TaxId: 562]}
+llycsfcgksqhevrkliagpsvyicdecvdlcndiir
+>d2ds7a_ g.39.1.11 (A:) automated matches {Escherichia coli [TaxId: 562]}
+lycsfcgksqhevrkliagpsvyicdecvdlmndiireei
+>d1uw0a_ g.39.1.12 (A:) DNA ligase III {Human (Homo sapiens) [TaxId: 9606]}
+maeqrfcvdyakrgtagckkckekivkgvcrigkvvpnpfsesggdmkewyhikcmfekl
+erarattkkiedltelegweelednekeqitqhiadlsskaagtpkkkavvqakltt
+>d1tjla2 g.39.1.13 (A:111-151) DnaK suppressor protein DksA, zinc finger domain {Escherichia coli [TaxId: 562]}
+fgycescgveigirrlearptadlcidcktlaeirekqmag
+>d1xx6a2 g.39.1.14 (A:143-191) Thymidine kinase, TK1, C-terminal domain {Clostridium acetobutylicum [TaxId: 1488]}
+aicvvcgnpatrtqrlingkpafyddpvvligamesyearcrkchvvpq
+>d3e2ia2 g.39.1.14 (A:143-192) Thymidine kinase, TK1, C-terminal domain {Staphylococcus aureus [TaxId: 1280]}
+avcavcgssssrtqrlingkpakiddpiilvganesyeprcrahhivaps
+>d2b8ta2 g.39.1.14 (A:150-216) Thymidine kinase, TK1, C-terminal domain {Ureaplasma urealyticum [TaxId: 2130]}
+taicnecgaeathslrkidgkhadynddivkigcqefysavcrhhhkvpnrpylnsnsee
+fikffkn
+>d2c7na1 g.39.1.15 (A:18-73) RabGEF1 (Rabex-5), ubiquitin-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+lckkgcgyygnpawqgfcskcwreeyhkarqkqiqedwelaerlqreeeeafassq
+>d2d8ra1 g.39.1.16 (A:8-93) THAP domain-containing protein 2 {Human (Homo sapiens) [TaxId: 9606]}
+mptncaaagcattynkhinisfhrfpldpkrrkewvrlvrrknfvpgkhtflcskhfeas
+cfdltgqtrrlkmdavptifdfcthi
+>d2dasa1 g.39.1.17 (A:8-56) Zinc finger MYM-type protein 5 {Human (Homo sapiens) [TaxId: 9606]}
+qptaqqqltkpakitcanckkplqkgqtayqrkgsahlfcsttclssfs
+>d2j9ra2 g.39.1.0 (A:143-193) automated matches {Bacillus anthracis [TaxId: 260799]}
+avcsacgspasrtqrlidgepaafddpiilvgasesyeprcrhchavptkq
+>d2ja1a2 g.39.1.0 (A:143-191) automated matches {Bacillus cereus [TaxId: 1396]}
+avcsvcgspasrtqrlidgepaafddpiilvgasesyeprcrhchavpa
+>d2vuti_ g.39.1.0 (I:) automated matches {Emericella nidulans [TaxId: 162425]}
+ttctncftqttplwrrnpegqplcnacglflklhgvvrplsl
+>d1w4ra2 g.39.1.0 (A:151-191) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+avcmecfreaaytkrlgtekeveviggadkyhsvcrlcyfk
+>d2a66a_ g.39.1.0 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+elcpvcgdkvsgyhyglltcesckgffkrtvqnnkrytcienqncqidktqrkrcpycrf
+qkclsvgmkleavradrmrggrnkfgpmykrdral
+>d2o10a1 g.39.1.0 (A:7-35) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+gakcgacektvyhaeeiqcngrsfhktcf
+>d2o10a2 g.39.1.0 (A:36-66) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+hcmacrkaldsttvaaheseiyckvcygrry
+>d2lzua1 g.39.1.0 (A:36-68) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+raqvketcaacqktvypmerlvadklifhnscf
+>d2lzua2 g.39.1.0 (A:69-107) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+cckhchtklslgsyaalhgefyckphfqqlfkskgnyde
+>d2o13a2 g.39.1.0 (A:145-176) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+frcaicgkslestnvtdkdgelyckvcyaknf
+>d2ebla_ g.39.1.0 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+gssgssgiecvvcgdkssgkhygqftcegcksffkrsvrrnltytcranrncpidqhhrn
+qcqycrlkkclkvgmrreavqrgsgpssg
+>d2jtga_ g.39.1.0 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+mvqscsaygcknrydkdkpvsfhkfpltrpslckeweaavrrknfkptkyssicsehftp
+dcfkrecnnkllkenavptiflelvpr
+>d4cisa3 g.39.1.0 (A:219-271) automated matches {Lactococcus lactis [TaxId: 1359]}
+irtysalgstgkmqnelqvygktgekcsrcgaeiqkikvagrgthfcpfcqqk

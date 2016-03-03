@@ -1,0 +1,99 @@
+>d1mxaa1 d.130.1.1 (A:1-102) S-adenosylmethionine synthetase {Escherichia coli [TaxId: 562]}
+akhlftsesvseghpdkiadqisdavldaileqdpkarvacetyvktgmvlvggeittsa
+wvdieeitrntvreigyvhsdmgfdanscavlsaigkqspdi
+>d1mxaa2 d.130.1.1 (A:108-231) S-adenosylmethionine synthetase {Escherichia coli [TaxId: 562]}
+radpleqgagdqglmfgyatnetdvlmpapityahrlvqrqaevrkngtlpwlrpdaksq
+vtfqyddgkivgidavvlstqhseeidqkslqeavmeeiikpilpaewltsatkffinpt
+grfv
+>d1mxaa3 d.130.1.1 (A:232-383) S-adenosylmethionine synthetase {Escherichia coli [TaxId: 562]}
+iggpmgdcgltgrkiivdtyggmarhgggafsgkdpskvdrsaayaaryvaknivaagla
+drceiqvsyaigvaeptsimvetfgtekvpseqltllvreffdlrpygliqmldllhpiy
+ketaayghfgrehfpwektdkaqllrdaaglk
+>d2p02a1 d.130.1.1 (A:38-147) S-adenosylmethionine synthetase {Human (Homo sapiens), isoform type-2 [TaxId: 9606]}
+gtflftsesvgeghpdkicdqisdavldahlqqdpdakvacetvaktgmillageitsra
+avdyqkvvreavkhigyddsskgfdyktcnvlvaleqqspdiaqgvhldr
+>d2p02a2 d.130.1.1 (A:148-273) S-adenosylmethionine synthetase {Human (Homo sapiens), isoform type-2 [TaxId: 9606]}
+needigagdqglmfgyatdeteecmpltivlahklnaklaelrrngtlpwlrpdsktqvt
+vqymqdrgavlpirvhtivisvqhdeevcldemrdalkekvikavvpakyldedtiyhlq
+psgrfv
+>d2p02a3 d.130.1.1 (A:274-417) S-adenosylmethionine synthetase {Human (Homo sapiens), isoform type-2 [TaxId: 9606]}
+iggpqgdagltgrkiivdtyggwgahgggafsgkdytkvdrsaayaarwvakslvkgglc
+rrvlvqvsyaigvshplsisifhygtsqkserelleivkknfdlrpgvivrdldlkkpiy
+qrtaayghfgrdsfpwevpkklky
+>d1qm4a1 d.130.1.1 (A:17-116) S-adenosylmethionine synthetase {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+gafmftsesvgeghpdkicdqisdavldahlkqdpnakvacetvcktgmvllcgeitsma
+midyqrvvrdtikhigyddsakgfdfktcnvlvaleqqsp
+>d1qm4a2 d.130.1.1 (A:129-252) S-adenosylmethionine synthetase {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+edvgagdqglmfgyatdeteecmpltivlahklntrmadlrrsgvlpwlrpdsktqvtvq
+yvqdngavipvrvhtivisvqhneditleamrealkeqvikavvpakyldedtiyhlqps
+grfv
+>d3imla1 d.130.1.0 (A:0-102) automated matches {Burkholderia pseudomallei [TaxId: 28450]}
+smandylftsesvseghpdkvadqisdaildailaqdkysrvaaetlcntglvvlageit
+ttanidyiqiardtikrigydntdygidyrgcavlvaydkqsp
+>d3imla3 d.130.1.0 (A:236-388) automated matches {Burkholderia pseudomallei [TaxId: 28450]}
+iggpqgdcgltgrkiivdtyggaaphgggafsgkdpskvdrsaayagryvaknivaagla
+sraliqvsyaigvaeptsvmvntfgtgrvsdetitklvrehfdlrpkgiiqmldllrpiy
+ektaayghfgreepefsweaadkalalaeaagv
+>d4le5a1 d.130.1.0 (A:1-106) automated matches {Campylobacter jejuni [TaxId: 195099]}
+mylftsevvsaghpdkcadiiadtivdillkndknsrvasevfvagnkvviggevksnhk
+lskadydnlvkdvlknigydgaghfskeqclhpdevdvmvflneqs
+>d4le5a2 d.130.1.0 (A:118-243) automated matches {Campylobacter jejuni [TaxId: 195099]}
+getgagdqgimfgfasceaeeympaaisyarmlcdrvyayakanphelgvdiktqvtidy
+gtkanfenckpqsihtivvsapcvesmkiedlrslvmklildsnlpkelfdpnktrilin
+ptgkyv
+>d4le5a3 d.130.1.0 (A:244-399) automated matches {Campylobacter jejuni [TaxId: 195099]}
+nhsslhdsgltgrklivdsfggyspigggaqsskdytkvdrsglyagrwlaknivaagla
+kkcivqlsyaigvakptsvsvdcmgtntsvnddvlsdfvmqnfsltpnwirdkfhldkps
+ketflyadvaargqvgqkdypwekldaleqfkkllk
+>d4odja1 d.130.1.0 (A:21-130) automated matches {Cryptosporidium hominis [TaxId: 237895]}
+eqflfssesvcsghpdklcdqisdaildacleqdpesfvacetctktgfimvfgeittka
+nvnyervvretvkeigydseekgldyktmdviikleqqsnqiagcvhvdk
+>d4odja2 d.130.1.0 (A:131-259) automated matches {Cryptosporidium hominis [TaxId: 237895]}
+nvedigagdqgmmfgyatnetkelmplthvlatsitreldyirmkgvssrvgwlrpdgka
+qvtveynckhgvlipkrihtilvsvqhdenieneeirefvlenvikkvcpsdlmdketri
+linpsgrft
+>d4odja3 d.130.1.0 (A:260-406) automated matches {Cryptosporidium hominis [TaxId: 237895]}
+iggpaadagltgrkiivdtyggwgahgggafsgkdatkvdrsgaymarlvaksivfsglc
+srclvqvsygigiarplslyintfgtakdgyndtklleivnkvfdfrpgilikqlnlksp
+ifkktssgghfgrsekeflwekpiilq
+>d3so4a1 d.130.1.0 (A:4-103) automated matches {Entamoeba (Entamoeba histolytica) [TaxId: 5759]}
+rffftsesvsgghpdkmcdqisdaildaclaqdpkshvacetatktglilvlgeittnav
+idipkivrgvvksigyddtnkgfdyqtcsvlscveqqsqd
+>d3so4a2 d.130.1.0 (A:115-238) automated matches {Entamoeba (Entamoeba histolytica) [TaxId: 5759]}
+edigagdqgimfgyatdeskemmplthvlstklilrlqecrekgilpwlrpdsksqvtle
+yeeveghlkpirvhtivistqhadnvsneeiakgleeevtqkvipkelmddkmlryynps
+grfv
+>d2obva1 d.130.1.0 (A:-3-125) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+fqsmgvfmftsesvgeghpdkicdqisdavldahlkqdpnakvacetvcktgmvllcgei
+tsmamvdyqrvvrdtikhigyddsakgfdfktcnvlvaleqqspdiaqcvhldr
+>d2obva2 d.130.1.0 (A:126-251) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+needvgagdqglmfgyatdeteecmpltiilahklnarmadlrrsgllpwlrpdsktqvt
+vqymqdngavipvrihtivisvqhneditleemrralkeqviravvpakyldedtvyhlq
+psgrfv
+>d2obva3 d.130.1.0 (A:252-395) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+iggpqgdagvtgrkiivdtyggwgahgggafsgkdytkvdrsaayaarwvakslvkaglc
+rrvlvqvsyaigvaeplsisiftygtsqkterelldvvhknfdlrpgvivrdldlkkpiy
+qktacyghfgrsefpwevprklvf
+>d4ndna1 d.130.1.0 (A:15-115) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+egtflftsesvgeghpdkicdqisdavldahlqqdpdakvacetvaktgmillageitsr
+aavdyqkvvreavkhigyddsskgfdyktcnvlvaleqqsp
+>d3s82a1 d.130.1.0 (A:5-106) automated matches {Mycobacterium avium [TaxId: 243243]}
+grlftsesvteghpdkicdaisdsvldallaqdprsrvavetlvttgqvhvvgevtttak
+eafaditntvrerildigydssdkgfdgascgvnigigaqsp
+>d3s82a2 d.130.1.0 (A:133-252) automated matches {Mycobacterium avium [TaxId: 243243]}
+gdqglmfgyaindtpermplpialahrlsrrltevrkngvlpylrpdgktqvtiefeddv
+pvrldtvvistqhaadidlentltpdirekvlntvlndlahdtldtsstrllvnptgkfv
+>d3s82a3 d.130.1.0 (A:253-403) automated matches {Mycobacterium avium [TaxId: 243243]}
+vggpmgdagltgrkiivdtyggwarhgggafsgkdpskvdrsaayamrwvaknivaagla
+ervevqvayaigkaapvglfietfgtatvdpvkiekivpevfdlrpgaiirdldllrpiy
+aqtaayghfgrtdvelpweqlnkvddlkrai
+>d3rv2a2 d.130.1.0 (A:133-252) automated matches {Mycobacterium marinum [TaxId: 216594]}
+gdqglmfgyaindtpelmplpialahrlsrrltevrkngvlpylrpdgktqvtiayedrv
+pvrldtvvistqhaddidlvktldpdireqvlktvlddlahdtldasavrvlvnptgkfv
+>d3tdea1 d.130.1.0 (A:6-103) automated matches {Mycobacterium tuberculosis [TaxId: 1773]}
+rlftsesvteghpdkicdaisdsvldallaadprsrvavetlvttgqvhvvgevttsake
+afaditntvrarileigydssdkgfdgatcgvnigiga
+>d3tdea3 d.130.1.0 (A:253-403) automated matches {Mycobacterium tuberculosis [TaxId: 1773]}
+lggpmgdagltgrkiivdtyggwarhgggafsgkdpskvdrsaayamrwvaknvvaagla
+ervevqvayaigkaapvglfvetfgtetedpvkiekaigevfdlrpgaiirdlnllrpiy
+aptaayghfgrtdvelpweqldkvddlkrai

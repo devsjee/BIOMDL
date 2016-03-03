@@ -1,0 +1,73 @@
+>d1jlja_ c.57.1.1 (A:) Gephyrin N-terminal domain {Human (Homo sapiens) [TaxId: 9606]}
+hqirvgvltvsdscfrnlaedrsginlkdlvqdpsllggtisaykivpdeieeiketlid
+wcdekelnlilttggtgfaprdvtpeatkeviereapgmalamlmgslnvtplgmlsrpv
+cgirgktliinlpgskkgsqecfqfilpalphaidllrdaivkvkevhd
+>d1y5ea1 c.57.1.1 (A:12-166) MoaB {Bacillus cereus [TaxId: 1396]}
+kevrckivtisdtrteetdksgqllhellkeaghkvtsyeivkddkesiqqavlagyhke
+dvdvvltnggtgitkrdvtieavsalldkeivgfgelfrmisyledigssamlsraiggt
+igrkvvfsmpgssgavrlamnklilpelghitfel
+>d1mkza_ c.57.1.1 (A:) MoaB {Escherichia coli [TaxId: 562]}
+qvstefiptriailtvsnrrgeeddtsghylrdsaqeaghhvvdkaivkenryairaqvs
+awiasddvqvvlitggtgltegdqapeallplfdrevegfgevfrmlsfeeigtstlqsr
+avagvanktlilampgstkacrtaweniiapqldartrpcnfhphlkkgs
+>d1di6a_ c.57.1.1 (A:) MogA {Escherichia coli [TaxId: 562]}
+atlriglvsisdrassgvyqdkgipaleewltsalttpfeletrlipdeqaiieqtlcel
+vdemschlvlttggtgparrdvtpdatlavadrempgfgeqmrqislhfvptailsrqvg
+virkqalilnlpgqpksiketlegvkdaegnvvvhgifasvpyciqllegpyvetapevv
+aafrpksarr
+>d3k6aa_ c.57.1.1 (A:) MogA {Shewanella oneidensis [TaxId: 70863]}
+amskakigivtvsdrasagiyedisgkaiidtlndyltsewepiyqvipdeqdviettli
+kmadeqdcclivttggtgpakrdvtpeateavcdrmmpgfgelmraeslkfvptailsrq
+taglrgdslivnlpgkpksirecldavfpaipycidlmegpylecneavikpfrpk
+>d1uuya_ c.57.1.1 (A:) Plant CNX1 G domain {Thale cress (Arabidopsis thaliana) [TaxId: 3702]}
+gpeykvailtvsdtvsagagpdrsgpravsvvdssseklggakvvatavvpdeverikdi
+lqkwsdvdemdliltlggtgftprdvtpeatkkvieretpgllfvmmqeslkitpfamla
+rsaagirgstliinmpgnpnavaecmeallpalkhalkqik
+>d2g2ca1 c.57.1.1 (A:1-163) Putative molybdenum cofactor biosynthesis protein DIP0503 {Corynebacterium diphtheriae [TaxId: 1717]}
+mhiksaiivvsdristgtrenkalpllqrlmsdelqdysyelisevvvpegydtvveaia
+talkqgarfiitaggtgiraknqtpeatasfihtrcegleqqilihgsththlaglsrgi
+vgvtgrddhaalivnapsssggitdtwavispvipnifeglda
+>d2pbqa_ c.57.1.1 (A:) automated matches {Aquifex aeolicus [TaxId: 224324]}
+kavigvvtisdraskgiyedisgkaiidylkdviitpfeveyrvipderdliektliela
+dekgcslilttggtgpaprdvtpeateavcekmlpgfgelmrqvslkqvptailsrqtag
+irgsclivnlpgkpqsikvcldavmpaipycidliggayidtdpnkvkafrpkk
+>d2nqra3 c.57.1.2 (A:178-326) MoeA, central domain {Escherichia coli [TaxId: 562]}
+vrvalfstgdelqlpgqplgdgqiydtnrlavhlmleqlgcevinlgiirddphalraaf
+ieadsqadvvissggvsvgeadytktileelgeiafwklaikpgkpfafgklsnswfcgl
+pgnpvsatltfyqlvqpllaklsgntasg
+>d1uz5a3 c.57.1.2 (A:181-328) MoeA, central domain {Pyrococcus horikoshii, PH0582 [TaxId: 53953]}
+pkvavistgneivppgnelkpgqiydingralcdainelggegifmgvarddkeslkali
+ekavnvgdvvvisggasggtkdltasvieelgevkvhgiaiqpgkptiigvikgkpvfgl
+pgyptscltnftllvvplllralgregk
+>d1wu2a3 c.57.1.2 (A:181-324) MoeA, central domain {Pyrococcus horikoshii, PH1647 [TaxId: 53953]}
+vkpkvgiiitgselieepseegfkegkivetnsimlqglvekffgepilygvlpddesii
+ketlekaknecdivlitggsafgdkdyahkfvnllfhgttikpgrpfgygekvfimsgyp
+vsvfaqfnlfvkhalakmvgaqny
+>d3tcra_ c.57.1.0 (A:) automated matches {Mycobacterium abscessus [TaxId: 561007]}
+pvgrslvvivndrtahgdqdtsgplvtellaeagfvvdgvvvvendlseiqnavntavig
+gvdlvvtvggtgvtprdvapeatqplldrellgiaeairssglaagvteaglsrgvagis
+gstlvvniagsraavrdgmatltpmaiqiieqlsslei
+>d3pzya_ c.57.1.0 (A:) automated matches {Mycobacterium avium [TaxId: 1770]}
+trsarviiastrassgeyedrcgpiitewlaqqgfssaqpevvadgspvgealrkaiddd
+vdviltsggtgiaptdstpdqtvavvdylipglaeairrsglpkvptsvlsrgvcgvagq
+tlivnlpgspggvrdglgvlagvldhaldqlagk
+>d4twga_ c.57.1.0 (A:) automated matches {Mycobacterium ulcerans [TaxId: 362242]}
+arsaqiiiastraasgvytdecgpiiaewleqrgfspleskvvadgnpvgealqdaveaq
+vdliitsggtgisptdstpeqtvavldfvipgladairraglpkvptsvlsrgvcgvagq
+tlivnlpgspggvrdgldvladvvhhaldqia
+>d4pd0a2 c.57.1.0 (A:499-653) automated matches {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+pvvavmstgnellnpeddllpgkirdsnrstllatiqehgyptinlgivgdnpddllnal
+negisradviitsggvsmgekdylkqvldidlhaqihfgrvfmkpglpttfatldidgvr
+kiifalpgnpvsavvtcnlfvvpalrkmqgildpr
+>d4lhba_ c.57.1.0 (A:) automated matches {Pyrococcus furiosus [TaxId: 186497]}
+pktfkfgvitvsdkgakgeredksgpliieelsklgehvyykivpddkievlialfeaik
+sgadvvvttggtgitrrditiesikplfdkelsfgevfraksyeevgyatvltratagii
+rgqerivvvfslpgsvnavktgleiiksevfhilkhare
+>d3iwta_ c.57.1.0 (A:) automated matches {Sulfolobus tokodaii [TaxId: 111955]}
+pkslnfyvitistsryekllkkepivdesgdiikqllienghkiigyslvpddkikilka
+ftdalsidevdviistggtgysptditvetirklfdreiegfsdvfrlvsfndpevkaaa
+yltkasagiigkkivyllpgspdavklalkelilpevghlvylvrs
+>d2is8a_ c.57.1.0 (A:) automated matches {Thermus thermophilus HB8 [TaxId: 300852]}
+mfrvgiltvsdkgfrgerqdtthlairevlaggpfevaayelvpdeppmikkvlrlwadr
+egldliltnggtglaprdrtpeatrelldrevpglaelmrlvglrktpmaalsrgvagvr
+grtlilnlpgspkgaresleavlpvlphalslvtgkpwk

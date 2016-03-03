@@ -1,0 +1,28 @@
+>g3c01.1 d.367.1.1 (A:239-258,E:259-346) Surface presentation of antigens protein SpaS {Salmonella typhimurium [TaxId: 90371]}
+eilseqvksdiensrlivanXpthitigiyfkpelmpipmisvyetnqralavrayaekv
+gvpvivdiklarslfkthrrydlvsleeidevlrllvwleevenagkdv
+>g2vt1.1 d.367.1.1 (A:237-257,B:258-338) Surface presentation of antigens protein SpaS {Shigella flexneri [TaxId: 623]}
+ieilseqtksdirnsklvvmnXpthiaigiyfnpeiapapfislietnqcalavrkyane
+vgiptvrdvklarklykthtkysfvdfehldevlrlivwleqv
+>g3bzy.1 d.367.1.1 (A:246-262,B:263-345) Type III secretion proteins EscU {Escherichia coli [TaxId: 562]}
+sgslannikkstvivknXpthiaiclyyklgetplplvietgkdakalqiiklaelydip
+viediplarsldknihkgqyitedffepvaqliriaidldy
+>d3bzsa_ d.367.1.1 (A:) Type III secretion proteins EscU {Escherichia coli [TaxId: 562]}
+slannikkstvivkdpthiaiclyyklgetplplvietgkdakalqiiklaelydipvie
+diplarslyknihkgqyitedffepvaqliriai
+>d3bzra1 d.367.1.1 (A:237-345) Type III secretion proteins EscU {Escherichia coli [TaxId: 562]}
+rrrlhseiqsgslannikkstvivkdpthiaiclyyklgetplplvietgkdakalqiik
+laelydipviediplarslyknihkgqyitedffepvaqliriaidldy
+>d3t7ya_ d.367.1.0 (A:) automated matches {Chlamydia trachomatis [TaxId: 813]}
+tssqikhasavvsapkdiavaigympekykapwiiamgvnlrakriiaeaekygvpimrn
+vplahqlldegkelkfipettyeavgeillyits
+>d2w0ra_ d.367.1.0 (A:) automated matches {Yersinia enterocolitica [TaxId: 630]}
+kreykemegspeikskrrqfhqeiqsgnmrenvkrssvvvadpthiaigilykrgetplp
+lvtfkytdaqvqtvrkiaeeegvpilqriplaralywdalvdhyipaeqieataevlrwl
+er
+>d2jlia_ d.367.1.0 (A:) automated matches {Yersinia pestis [TaxId: 632]}
+qfhqeiqsrnmrenvkrssvvvanpthiaigilykrgetplplvtfkytdaqvqtvrkia
+eeegvpilqriplaralywdalvdhyipaeqieataevlr
+>d2jlja_ d.367.1.0 (A:) automated matches {Yersinia pestis [TaxId: 632]}
+gspeikskrrqfhqeiqsrnmrenvkrssvvvaaathiaigilykrgetplplvtfkytd
+aqvqtvrkiaeeegvpilqriplaralywdalvdhyipaeqieataevlrwlerq

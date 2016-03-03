@@ -1,0 +1,54 @@
+>d1jmab1 g.24.1.1 (B:4-59) Cellular receptor HveA {Human (Homo sapiens) [TaxId: 9606]}
+ckedeypvgseccpkcspgyrvkeacgeltgtvcepcppgtyiahlnglskclqcq
+>d1jmab2 g.24.1.1 (B:60-105) Cellular receptor HveA {Human (Homo sapiens) [TaxId: 9606]}
+mcdpamglrasrncsrtenavcgcspghfcivqdgdhcaacrayat
+>d1d4va1 g.24.1.1 (A:69-114) Death receptor-5 (dr5) fragment {Human (Homo sapiens) [TaxId: 9606]}
+pqqkrsspseglcppghhisedgrdcisckygqdysthwndllfcl
+>d1d4va3 g.24.1.1 (A:155-185) Death receptor-5 (dr5) fragment {Human (Homo sapiens) [TaxId: 9606]}
+kcrtgcprgmvkvgdctpwsdiecvhkesgd
+>d2h9gr1 g.24.1.1 (R:21-61) Death receptor-5 (dr5) fragment {Human (Homo sapiens) [TaxId: 9606]}
+sspseglcppghhisedgrdcisckygqdysthwndllfcl
+>d1du3a3 g.24.1.1 (A:102-123) Death receptor-5 (dr5) fragment {Human (Homo sapiens) [TaxId: 9606]}
+kcrtgcprgmvkvgdctpwsdi
+>d1sg1x1 g.24.1.1 (X:2-56) Low affinity neurotrophin receptor p75NTR {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+etcstglythsgecckacnlgegvaqpcganqtvcepcldnvtfsdvvsatepck
+>d1sg1x2 g.24.1.1 (X:57-95) Low affinity neurotrophin receptor p75NTR {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+pcteclglqsmsapcveaddavcrcaygyyqdeetghce
+>d1sg1x3 g.24.1.1 (X:96-137) Low affinity neurotrophin receptor p75NTR {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+acsvcevgsglvfscqdkqntvceecpegtysdeanhvdpcl
+>d1exta1 g.24.1.1 (A:13-71) Tumor necrosis factor (TNF) receptor {Human (Homo sapiens) [TaxId: 9606]}
+svcpqgkyihpqnnsicctkchkgtylyndcpgpgqdtdcrecesgsftasenhlrhcl
+>d1exta2 g.24.1.1 (A:72-115) Tumor necrosis factor (TNF) receptor {Human (Homo sapiens) [TaxId: 9606]}
+scskcrkemgqveissctvdrdtvcgcrknqyrhywsenlfqcf
+>d1exta3 g.24.1.1 (A:116-172) Tumor necrosis factor (TNF) receptor {Human (Homo sapiens) [TaxId: 9606]}
+ncslclngtvhlscqekqntvctchagfflrenecvscsnckkslectklclpqien
+>d1ncfa3 g.24.1.1 (A:116-150) Tumor necrosis factor (TNF) receptor {Human (Homo sapiens) [TaxId: 9606]}
+ncslclngtvhlscqekqntvctchagfflrenec
+>d1ncfb3 g.24.1.1 (B:116-155) Tumor necrosis factor (TNF) receptor {Human (Homo sapiens) [TaxId: 9606]}
+ncslclngtvhlscqekqntvctchagfflrenecvscsn
+>d2heyr1 g.24.1.1 (R:83-142) Tumor necrosis factor receptor superfamily member 4, OX40L receptor {Human (Homo sapiens) [TaxId: 9606]}
+pctwcnlrsgserkqlctatqdtvcrcragtqpldsykpgvdcapcppghfspgdnqack
+>d2heyr2 g.24.1.1 (R:143-166) Tumor necrosis factor receptor superfamily member 4, OX40L receptor {Human (Homo sapiens) [TaxId: 9606]}
+pwtnctlagkhtlqpasnssdaic
+>d2heyr3 g.24.1.1 (R:29-82) Tumor necrosis factor receptor superfamily member 4, OX40L receptor {Human (Homo sapiens) [TaxId: 9606]}
+lhcvgdtypsndrcchecrpgngmvsrcsrsqntvcrpcgpgfyndvvsskpck
+>d1xu1r_ g.24.1.2 (R:) Tumor necrosis factor receptor superfamily member 13B, TACI {Human (Homo sapiens) [TaxId: 9606]}
+slscrkeqgkfydhllrdciscasicgqhpkqcayfce
+>d1xuta_ g.24.1.2 (A:) Tumor necrosis factor receptor superfamily member 13B, TACI {Human (Homo sapiens) [TaxId: 9606]}
+gspwslscrkeqgkfydhllrdciscasicgqhpkqcayfcenklr
+>d1oqek_ g.24.1.2 (K:) Tumor necrosis factor receptor superfamily member 13c, BAFF-R, Br3 {Human (Homo sapiens) [TaxId: 9606]}
+ptpcvpaecfdllvrhcvacgllrtprpkpa
+>d1oqen_ g.24.1.2 (N:) Tumor necrosis factor receptor superfamily member 13c, BAFF-R, Br3 {Human (Homo sapiens) [TaxId: 9606]}
+ptpcvpaecfdllvrhcvacgllr
+>d1osxa_ g.24.1.2 (A:) Tumor necrosis factor receptor superfamily member 13c, BAFF-R, Br3 {Human (Homo sapiens) [TaxId: 9606]}
+tpcvpaecfdllvrhcvacgllrtpr
+>d1xu2r_ g.24.1.2 (R:) Tumor necrosis factor receptor superfamily member 17, BCMA {Human (Homo sapiens) [TaxId: 9606]}
+csqneyfdsllhacipcqlrcssntppltcqrycna
+>d1oqdn_ g.24.1.2 (N:) Tumor necrosis factor receptor superfamily member 17, BCMA {Human (Homo sapiens) [TaxId: 9606]}
+csqneyfdsllhacipcqlrc
+>d2hfgr_ g.24.1.2 (R:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+apaptpcnpaecfdplvrhcvacgllr
+>d4i9xc1 g.24.1.0 (C:78-114) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+eglcppghhisedgrdcisckygqdysthwndllfcl
+>d4i9xc2 g.24.1.0 (C:115-154) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+rctrcdsgevelspctttrntvcqceegtfreedspemcr

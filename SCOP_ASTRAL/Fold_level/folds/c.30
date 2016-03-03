@@ -1,0 +1,133 @@
+>d1w96a2 c.30.1.1 (A:14-183) Acetyl-CoA carboxylase, BC-N subdomain {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+meyeitnyserhtelpghfiglntvdkleesplrdfvkshgghtviskilianngiaavk
+eirsvrkwayetfgddrtvqfvamatpedleanaeyirmadqyievpggtnnnnyanvdl
+ivdiaeradvdavwagwghasenpllpeklsqskrkvifigppgnamrsl
+>d1ulza2 c.30.1.1 (A:1-114) Biotin carboxylase (BC), N-terminal domain {Aquifex aeolicus [TaxId: 63363]}
+mvnkvlvanrgeiavriirackelgiptvaiynevestarhvkladeaymigtdpldtyl
+nkqriinlalevgadaihpgygflaenaefakmceeagitfigphwkvielmgd
+>d2w70a1 c.30.1.1 (A:1-114) Biotin carboxylase (BC), N-terminal domain {Escherichia coli [TaxId: 562]}
+mldkivianrgeialrilrackelgiktvavhssadrdlkhvlladetvcigpapsvksy
+lnipaiisaaeitgavaihpgygflsenanfaeqversgfifigpkaetirlmg
+>d1a9xa3 c.30.1.1 (A:1-127) Carbamoyl phosphate synthetase (CPS), large subunit PreATP-grasp domains {Escherichia coli [TaxId: 562]}
+mpkrtdiksililgagpivigqacefdysgaqackalreegyrvinvnsnpatimtdpem
+adatyiepihwevvrkiiekerpdavlptmggqtalncalelerqgvleefgvtmigata
+daidkae
+>d1a9xa4 c.30.1.1 (A:556-676) Carbamoyl phosphate synthetase (CPS), large subunit PreATP-grasp domains {Escherichia coli [TaxId: 562]}
+stdrekimvlgggpnrigqgiefdyccvhaslalredgyetimvncnpetvstdydtsdr
+lyfepvtledvleivriekpkgvivqyggqtplklaraleaagvpvigtspdaidraedr
+e
+>d1gsoa2 c.30.1.1 (A:-2-103) Glycinamide ribonucleotide synthetase (GAR-syn), N-domain {Escherichia coli [TaxId: 562]}
+efmkvlvignggrehalawkaaqsplvetvfvapgnagtalepalqnvaigvtdipalld
+faqnekidltivgpeaplvkgvvdtfraaglkifgptagaaqleg
+>d1vkza2 c.30.1.1 (A:4-93) Glycinamide ribonucleotide synthetase (GAR-syn), N-domain {Thermotoga maritima [TaxId: 2336]}
+vrvhilgsggrehaigwafakqgyevhfypgnagtkrdgtnhpyegektlkaipeedivi
+pgseeflvegvsnwrsnvfgpvkevarleg
+>d1kjqa2 c.30.1.1 (A:2-112) Glycinamide ribonucleotide transformylase PurT, N-domain {Escherichia coli [TaxId: 562]}
+tllgtalrpaatrvmllgsgelgkevaiecqrlgveviavdryadapamhvahrshvinm
+ldgdalrrvvelekphyivpeieaiatdmliqleeeglnvvpcaratkltm
+>d3etja2 c.30.1.1 (A:1-78) N5-carboxyaminoimidazole ribonucleotide synthetase PurK (AIRC), N-domain {Escherichia coli [TaxId: 562]}
+mkqvcvlgngqlgrmlrqageplgiavwpvgldaepaavpfqqsvitaeierwpetaltr
+qlarhpafvnrdvfpiia
+>d1iowa1 c.30.1.2 (A:1-96) D-Ala-D-Ala ligase, N-domain {Escherichia coli, gene ddlB [TaxId: 562]}
+mtdkiavllggtsaerevslnsgaavlaglreggidaypvdpkevdvtqlksmgfqkvfi
+alhgrggedgtlqgmlelmglpytgsgvmasalsmd
+>d1e4ea1 c.30.1.2 (A:2-131) D-alanine:D-lactate ligase VanA, N-domain {Enterococcus faecium [TaxId: 1352]}
+nrikvailfggcseehdvsvksaieiaaninkekyeplyigitksgvwkmcekpcaewen
+encysavlspdkkmhgllvkknheyeinhvdvafsalhgksgedgsiqglfelsgipfvg
+cdiqssaicm
+>d1ehia1 c.30.1.2 (A:3-134) D-alanine:D-lactate ligase VanA, N-domain {Leuconostoc mesenteroides, Ddl2 [TaxId: 1245]}
+kkrvalifggnssehdvskrsaqnfynaieatgkyeiivfaiaqngffldtesskkilal
+edeqpivdafmktvdasdplarihalksagdfdiffpvvhgnlgedgtlqglfklldkpy
+vgaplrghavsf
+>d1gsha1 c.30.1.3 (A:1-122) Prokaryotic glutathione synthetase, N-terminal domain {Escherichia coli [TaxId: 562]}
+miklgivmdpianinikkdssfamlleaqrrgyelhymemgdlylingearahtrtlnvk
+qnyeewfsfvgeqdlpladldvilmrkdppfdtefiyatyileraeekgtlivnkpqslr
+dc
+>d1m0wa1 c.30.1.4 (A:216-323) Eukaryotic glutathione synthetase, substrate-binding domain {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+sdpivafivqrnernvfdqkvlelnllekfgtksvrltfddvndklfiddktgklfirdt
+eqeiavvyyrtgytttdytsekdwearlfleksfaikapdlltqlsgs
+>d2hgsa1 c.30.1.4 (A:202-303) Eukaryotic glutathione synthetase, substrate-binding domain {Human (Homo sapiens) [TaxId: 9606]}
+pnalvlliaqekernifdqraienellarnihvirrtfedisekgsldqdrrlfvdgqei
+avvyfrdgymprqyslqnwearlllershaakcpdiatqlag
+>d1auva1 c.30.1.5 (A:112-213) Synapsin I {Cow (Bos taurus) [TaxId: 9913]}
+aarvllvidephtdwakyfkgkkihgeidikveqaefsdlnlvahanggfsvdmevlrng
+vkvvrslkpdfvlirqhafsmarngdyrslviglqyagipsi
+>d1i7na1 c.30.1.5 (A:113-214) Synapsin II {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+kakvllvvdephtdwakcfrgkkilgdydikveqaefselnlvahadgtyavdmqvlrng
+tkvvrsfrpdfvlirqhafgmaenedfrhlvigmqyaglpsi
+>d2io8a1 c.30.1.7 (A:379-496) Glutathionylspermidine synthase, synthetase domain {Escherichia coli [TaxId: 562]}
+rpfvhimqdkdieenyhaqfmeqalhqagfetrilrgldelgwdaagqlidgegrlvncv
+wktwawetafdqirevsdrefaavpirtghpqnevrlidvllrpevlvfeplwtvipg
+>d2r85a1 c.30.1.8 (A:1-99) 5-formaminoimidazole-4-carboxamide ribonucleotide synthetase PurP {Pyrococcus furiosus [TaxId: 2261]}
+mkvriatyashsalqilkgakdegfetiafgsskvkplytkyfpvadyfieekypeeell
+nlnavvvptgsfvahlgielvenmkvpyfgnkrvlrwes
+>d2pbza1 c.30.1.8 (A:4-99) 5-formaminoimidazole-4-carboxamide ribonucleotide synthetase PurP {Thermococcus kodakaraensis [TaxId: 311400]}
+ivstiashsslqillgakkegfktrlyvspkrrpfysslpivddlvvaeemtsilnddgi
+vvphgsfvaylgieaiekakarffgnrrflkwettf
+>d2yw2a1 c.30.1.0 (A:1-101) automated matches {Aquifex aeolicus [TaxId: 63363]}
+mkvlvvgnggrehaiawkvaqsplvkelyvakgnagiweiakrvdisptdveklaefakn
+egvdftivgpeaplvegivdefekrglkifgpnkeaakleg
+>d4eg0a1 c.30.1.0 (A:4-102) automated matches {Burkholderia ambifaria [TaxId: 398577]}
+idpkrfgkvavlfggesaerevsltsgrlvlqglrdagidahpfdpaerplsalkdegfv
+rafnalhggygengqiqgaldfygirytgsgvlgsalgl
+>d4egqa1 c.30.1.0 (A:4-102) automated matches {Burkholderia pseudomallei [TaxId: 320372]}
+idpkrfgkvavllggdsaerevslnsgrlvlqglrdagidahpfdpaqrplaalkdegfv
+rafnalhggygengqiqgaldfygirytgsgvlgsalgl
+>d3ouza1 c.30.1.0 (A:-1-116) automated matches {Campylobacter jejuni [TaxId: 192222]}
+nameiksilianrgeialralrtikemgkkaicvyseadkdalylkyadasicigkarss
+esylnipaiiaaaeiaeadaifpgygflsenqnfveicakhnikfigpsveamnlmsd
+>d3tqta1 c.30.1.0 (A:2-139) automated matches {Coxiella burnetii [TaxId: 227377]}
+aeklhisvlcggqsteheisiqsaknivntldaakylisvifidhvgrwylidqpemfla
+hspdhlvkegsarpitiafgdaakpwqslngdgrrysadcvfpmvhgtqgedgalqglle
+llnlpyvganvqssavcm
+>d3lp8a1 c.30.1.0 (A:-1-101) automated matches {Ehrlichia chaffeensis [TaxId: 205920]}
+gsmnvlvigsggrehsmlhhirkstllnklfiapgregmsgladiididinstieviqvc
+kkekielvvigpetplmnglsdalteegilvfgpskaaarles
+>d4fu0a1 c.30.1.0 (A:2-138) automated matches {Enterococcus faecalis [TaxId: 1351]}
+qnkkiavifggnsteyevslqsasavfenintnkfdiipigitrsgewyhytgekekiln
+ntwfedsknlcpvvvsqnrsvkgfleiasdkyriikvdlvfpvlhgkngedgtlqgifel
+agipvvgcdtlssalcm
+>d2dzda1 c.30.1.0 (A:3-120) automated matches {Geobacillus thermodenitrificans [TaxId: 33940]}
+trrirkvlvanrgeiairvfractelgirtvaiyskedvgsyhrykadeaylvgegkkpi
+eayldiegiieiakahdvdaihpgygflseniqfakrcreegiifigpnenhldmfgd
+>d2p0aa1 c.30.1.0 (A:90-192) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+rprillviddahtdwskyfhgkkvngeieirveqaefselnlaayvtggcmvdmqvvrng
+tkvvsrsfkpdfilvrqhaysmalgedyrslviglqygglpav
+>d2qk4a1 c.30.1.0 (A:0-105) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+smaarvliigsggrehtlawklaqshhvkqvlvapgnagtacsekisntaisisdhtala
+qfckekkiefvvvgpeaplaagivgnlrsagvqcfgptaeaaqles
+>d3lwba1 c.30.1.0 (A:7-150) automated matches {Mycobacterium tuberculosis [TaxId: 1773]}
+rdrrvrvavvfggrsnehaiscvsagsilrnldsrrfdviavgitpagswvltdanpdal
+titnrelpqvksgsgtelalpadprrggqlvslppgagevlesvdvvfpvlhgpygedgt
+iqgllelagvpyvgagvlasavgm
+>d2vqda1 c.30.1.0 (A:1-114) automated matches {Pseudomonas aeruginosa [TaxId: 287]}
+mlekvlianrgeialrilrackelgiktvavhstadrelmhlsladesvcigpapatqsy
+lqipaiiaaaevtgataihpgygflaenadfaeqiersgftfvgptaevirlmg
+>d3q1ka1 c.30.1.0 (A:2-139) automated matches {Salmonella enterica [TaxId: 90371]}
+aklrvgivfggksaehevslqsaknivdaidktrfdvvllgidkagqwhvndaenylqna
+ddpahialrpsaislaqvpgkhqhqlinaqngqplptvdvifpivhgtlgedgslqgmlr
+vanlpfvgsdvlssaacm
+>d2vpqa1 c.30.1.0 (A:2-114) automated matches {Staphylococcus aureus [TaxId: 1280]}
+kkvlianrgeiavriiracrdlgiqtvaiysegdkdalhtqiadeaycvgptlskdsyln
+ipnilsiatstgcdgvhpgygflaenadfaelceacqlkfigpsyqsiqkmgi
+>d2i87a1 c.30.1.0 (A:3-128) automated matches {Staphylococcus aureus [TaxId: 93062]}
+kenicivfggksaehevsiltaqnvlnaidkdkyhvdiiyitndgdwrkqnnitaeikst
+delhlengealeisqllkesssgqpydavfpllhgpngedgtiqglfevldvpyvgngvl
+saassm
+>d3k3pa1 c.30.1.0 (A:3-126) automated matches {Streptococcus mutans [TaxId: 1309]}
+ketlvllyggrsaerdvsvlsaesvmrainydnflvktyfitqagdfiktqefdsqpset
+dklmtndtiiasqkikpsdiyeeeavvfpvlhgpmgedgsiqgflevlkmpyvgtnilss
+svam
+>d3vpda1 c.30.1.0 (A:1-88) automated matches {Thermus thermophilus [TaxId: 274]}
+mlailydrirpdermlferaealglpykkvyvpalpmvlgerpealegvtvalercvsqs
+rglaaaryltalgipvvnrpevieacgd
+>d3e5na1 c.30.1.0 (A:2-139) automated matches {Xanthomonas oryzae [TaxId: 342109]}
+rkirvglifggksaehevslqsarnildaldpqrfepvligidkqgqwhvndpdsfllha
+ddparialhrsgrgvallpgaqqqqlrpiqpeqalaqidvvfpivhgtlgedgslqgllr
+manlpfvgsgvlgsavam
+>d3mjfa1 c.30.1.0 (A:0-103) automated matches {Yersinia pestis [TaxId: 214092]}
+amniliignggrehalgwkaaqspladkiyvapgnagtaleptlenvdiaatdiagllaf
+aqshdigltivgpeaplvigvvdafraaglaifgptqaaaqleg
+>d3v4za1 c.30.1.0 (A:2-96) automated matches {Yersinia pestis [TaxId: 214092]}
+aekvavllggtsaerevsllsgqavlaglkeagidaygvdtkdfpvtqlkeqgfdkvfia
+lhgrggedgtlqgvleflqlpytgsgvmasaltmd

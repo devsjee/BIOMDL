@@ -1,0 +1,146 @@
+>d1pcqo_ b.35.1.1 (O:) Chaperonin-10 (GroES) {Escherichia coli [TaxId: 562]}
+mnirplhdrvivkrkevetksaggivltgsaaakstrgevlavgngrilengevkpldvk
+vgdivifndgygvksekidneevlimsesdilaivea
+>d1lepa_ b.35.1.1 (A:) Chaperonin-10 (GroES) {Mycobacterium leprae [TaxId: 1769]}
+akvkikpledkilvqageaetmtpsglvipenakekpqegtvvavgpgrwdedgakripv
+dvsegdiviyskyggteikyngeeylilsardvlavvsk
+>d1p3ha_ b.35.1.1 (A:) Chaperonin-10 (GroES) {Mycobacterium tuberculosis [TaxId: 1773]}
+akvnikpledkilvqaneaetttasglvipdtakekpqegtvvavgpgrwdedgekripl
+dvaegdtviyskyggteikyngeeylilsardvlavvsk
+>d1wnra_ b.35.1.1 (A:) Chaperonin-10 (GroES) {Thermus thermophilus [TaxId: 274]}
+mikplgdrvvvkrieeepktkggivlpdtakekpqkgkviavgtgrvlengqrvplevke
+gdivvfakyggteieidgeeyvilserdllavlq
+>d1g31a_ b.35.1.1 (A:) GP31 co-chaperonin {Bacteriophage T4 [TaxId: 10665]}
+qqlpiravgeyvilvsepaqagdeevtesgliigkrvqgevpelcvvhsvgpdvpegfce
+vgdltslpvgqirnvphpfvalglkqpkeikqkfvtchykaipclyk
+>d1gu7a1 b.35.1.2 (A:23-160,A:350-386) 2,4-dienoyl-CoA reductase {Yeast (Candida tropicalis) [TaxId: 5482]}
+mitaqavlytqhgepkdvlftqsfeidddnlapnevivktlgspvnpsdinqiqgvypsk
+pakttgfgttepaapcgneglfevikvgsnvssleagdwvipshvnfgtwrthalgnddd
+fiklpnpaqskangkpngXltdaksietlydgtkplhelyqdgvanskdgkqlity
+>d1h2ba1 b.35.1.2 (A:17-154,A:327-359) Alcohol dehydrogenase {Aeropyrum pernix [TaxId: 56636]}
+kaarlheynkplriedvdyprlegrfdvivriagagvchtdlhlvqgmwhellqpklpyt
+lghenvgyieevaegveglekgdpvilhpavtdgtclacragedmhcenlefpglnidgg
+faefmrtshrsviklpkdXvrvevdihkldeindvlerlekgevlgravlip
+>d1rjwa1 b.35.1.2 (A:1-137,A:306-339) Alcohol dehydrogenase {Bacillus stearothermophilus [TaxId: 1422]}
+mkaavveqfkeplkikevekptisygevlvrikacgvchtdlhaahgdwpvkpklplipg
+hegvgiveevgpgvthlkvgdrvgipwlysacghcdyclsgqetlcehqknagysvdggy
+aeycraaadyvvkipdnXtiievqplekinevfdrmlkgqingrvvltledk
+>d1cdoa1 b.35.1.2 (A:1-164,A:340-374) Alcohol dehydrogenase {Cod (Gadus callarias) [TaxId: 8053]}
+atvgkvikckaavaweankplvieeievdvphaneirikiiatgvchtdlyhlfegkhkd
+gfpvvlghegagivesvgpgvtefqpgekviplfisqcgecrfcqspktnqcvkgwanes
+pdvmspketrftckgrkvlqflgtstfsqytvvnqiavakidpsXvkldefithrmples
+vndaidlmkhgkcirtvlsl
+>d2jhfa1 b.35.1.2 (A:1-163,A:340-374) Alcohol dehydrogenase {Horse (Equus caballus) [TaxId: 9796]}
+stagkvikckaavlweekkpfsieevevappkahevrikmvatgicrsddhvvsgtlvtp
+lpviagheaagivesigegvttvrpgdkviplftpqcgkcrvckhpegnfclkndlsmpr
+gtmqdgtsrftcrgkpihhflgtstfsqytvvdeisvakidaaXfaldplithvlpfeki
+negfdllrsgesirtiltf
+>d1u3wa1 b.35.1.2 (A:1-162,A:339-374) Alcohol dehydrogenase {Human (Homo sapiens), different isozymes [TaxId: 9606]}
+stagkvikckaavlwelkkpfsieevevappkahevrikmvaagicrsdehvvsgnlvtp
+lpvilgheaagivesvgegvttvkpgdkviplftpqcgkcricknpesnyclkndlgnpr
+gtlqdgtrrftcsgkpihhfvgvstfsqytvvdenavakidaXkfsldalitnvlpfeki
+negfdllrsgksirtvltf
+>d1u3ua1 b.35.1.2 (A:1-162,A:339-374) Alcohol dehydrogenase {Human (Homo sapiens), different isozymes [TaxId: 9606]}
+stagkvikckaavlwevkkpfsiedvevappkayevrikmvavgicrtddhvvsgnlvtp
+lpvilgheaagivesvgegvttvkpgdkviplftpqcgkcrvcknpesnyclkndlgnpr
+gtlqdgtrrftcrgkpihhflgtstfsqytvvdenavakidaXkfsldalithvlpfeki
+negfdllhsgksirtvltf
+>d2fzwa1 b.35.1.2 (A:1-162,A:339-373) Alcohol dehydrogenase {Human (Homo sapiens), different isozymes [TaxId: 9606]}
+anevikckaavaweagkplsieeievappkahevrikiiatavchtdaytlsgadpegcf
+pvilghlgagivesvgegvtklkagdtviplyipqcgeckfclnpktnlcqkirvtqgkg
+lmpdgtsrftckgktilhymgtstfseytvvadisvakidplXikvdefvthnlsfdein
+kafelmhsgksirtvvki
+>d1d1ta1 b.35.1.2 (A:1-162,A:339-374) Alcohol dehydrogenase {Human (Homo sapiens), different isozymes [TaxId: 9606]}
+gtagkvikckaavlweqkqpfsieeievappktkevrikilatgicrtddhvikgtmvsk
+fpvivgheatgivesigegvttvkpgdkviplflpqcrecnacrnpdgnlcirsditgrg
+vladgttrftckgkpvhhflntstfteytvvdessvakiddXkfdldqlithvlpfkkis
+egfellnsgqsirtvltf
+>d1u3ta1 b.35.1.2 (A:1-162,A:339-374) Alcohol dehydrogenase {Human (Homo sapiens), different isozymes [TaxId: 9606]}
+stagkvikckaavlwelkkpfsieevevappkahevrikmvavgicgtddhvvsgtmvtp
+lpvilgheaagivesvgegvttvkpgdkviplaipqcgkcricknpesnyclkndvsnpq
+gtlqdgtsrftcrrkpihhflgistfsqytvvdenavakidaXkfsldalithvlpfeki
+negfdllhsgksirtilmf
+>d1e3ia1 b.35.1.2 (A:1-167,A:342-376) Alcohol dehydrogenase {Mouse (Mus musculus), class II [TaxId: 10090]}
+gtqgkvikckaaiawktgsplcieeievsppkacevriqviatcvcptdinatdpkkkal
+fpvvlghecagivesvgpgvtnfkpgdkvipffapqckrcklclspltnlcgklrnfkyp
+tidqelmedrtsrftckgrsiyhfmgvssfsqytvvseanlarvddeXfdldllvthalp
+fesindaidlmkegksirtiltf
+>d1llua1 b.35.1.2 (A:2-143,A:310-342) Alcohol dehydrogenase {Pseudomonas aeruginosa [TaxId: 287]}
+tlpqtmkaavvhaygaplrieevkvplpgpgqvlvkieasgvchtdlhaaegdwpvkppl
+pfipghegvgyvaavgsgvtrvkegdrvgipwlytacgccehcltgwetlcesqqntgys
+vnggyaeyvladpnyvgilpknXvkatihpgklddinqildqmragqiegrivlem
+>d1jvba1 b.35.1.2 (A:1-143,A:314-347) Alcohol dehydrogenase {Sulfolobus solfataricus [TaxId: 2287]}
+mravrlveigkplslqeigvpkpkgpqvlikveaagvchsdvhmrqgrfgnlrivedlgv
+klpvtlgheiagkieevgdevvgyskgdlvavnpwqgegncyycrigeehlcdsprwlgi
+nfdgayaeyvivphykymyklrrXvkpmitktmkleeaneaidnlenfkaigrqvlip
+>d1jqba1 b.35.1.2 (A:1001-1139,A:1314-1351) Bacterial secondary alcohol dehydrogenase {Clostridium beijerinckii [TaxId: 1520]}
+mkgfamlginklgwiekerpvagsydaivrplavspctsdihtvfegalgdrknmilghe
+avgevvevgsevkdfkpgdrvivpcttpdwrslevqagfqqhsngmlagwkfsnfkdgvf
+geyfhvndadmnlailpkdXvdlsklvthvyhgfdhieealllmkdkpkdlikavvil
+>d1ykfa1 b.35.1.2 (A:1-139,A:314-352) Bacterial secondary alcohol dehydrogenase {Thermoanaerobacter brockii [TaxId: 29323]}
+mkgfamlsigkvgwiekekpapgpfdaivrplavapctsdihtvfegaigerhnmilghe
+avgevvevgsevkdfkpgdrvvvpaitpdwrtsevqrgyhqhsggmlagwkfsnvkdgvf
+geffhvndadmnlahlpkeXvdpsklvthvfrgfdniekafmlmkdkpkdlikpvvila
+>d1f8fa1 b.35.1.2 (A:4-162,A:337-371) Benzyl alcohol dehydrogenase {Acinetobacter calcoaceticus [TaxId: 471]}
+lkdiiaavtpckgadfelqalkirqpqgdevlvkvvatgmchtdlivrdqkypvplpavl
+ghegsgiieaigpnvtelqvgdhvvlsygycgkctqcntgnpaycseffgrnfsgadseg
+nhalcthdqgvvndhffaqssfatyalsrenntvkvtkdXfpfdqlvkfyafdeinqaai
+dsrkgitlkpiikia
+>d1piwa1 b.35.1.2 (A:1-152,A:321-360) Cinnamyl alcohol dehydrogenase, ADH6 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+msypekfegiaiqshedwknpkktkydpkpfydhdidikieacgvcgsdihcaaghwgnm
+kmplvvgheivgkvvklgpksnsglkvgqrvgvgaqvfsclecdrckndnepyctkfvtt
+ysqpyedgyvsqggyanyvrvhehfvvpipenXiwvetlpvgeagvheafermekgdvry
+rftlvgydkefsd
+>d1kola1 b.35.1.2 (A:2-160,A:356-397) Formaldehyde dehydrogenase {Pseudomonas putida [TaxId: 303]}
+gnrgvvylgsgkvevqkidypkmqdprgkkiehgvilkvvstnicgsdqhmvrgrttaqv
+glvlgheitgeviekgrdvenlqigdlvsvpfnvacgrcrsckemhtgvcltvnparagg
+aygyvdmgdwtggqaeyvlvpyadfnllklpdrdkamekXiniaevvgvqvislddaprg
+ygefdagvpkkfvidphktfsa
+>d1vj0a1 b.35.1.2 (A:2-155,A:338-367) Hypothetical protein TM0436 {Thermotoga maritima [TaxId: 2336]}
+mglkahamvlekfnqplvykefeisdiprgsilveilsagvcgsdvhmfrgedprvplpi
+ilghegagrvvevngekrdlngellkpgdlivwnrgitcgecywckvskepylcpnrkvy
+ginrgcseyphlrgcysshivldpetdvlkvsekXithrlplkeankalelmesrealkv
+ilype
+>d1uufa1 b.35.1.2 (A:3-144,A:313-349) Hypothetical protein YahK {Escherichia coli [TaxId: 562]}
+ikavgaysakqplepmditrrepgpndvkieiaycgvchsdlhqvrsewagtvypcvpgh
+eivgrvvavgdqvekyapgdlvgvgcivdsckhceecedglenycdhmtgtynsptpdep
+ghtlggysqqivvheryvlrirXvadiemiradqineayermlrgdvkyrfvidnrtltd
+>d1o89a1 b.35.1.2 (A:1-115,A:293-323) Hypothetical protein YhdH {Escherichia coli [TaxId: 562]}
+lqallleqqdgktlasvqtldesrlpegdvtvdvhwsslnykdalaitgkgkiirnfpmi
+pgidfagtvrtsedprfhagqevlltgwgvgenhwgglaeqarvkgdwlvampqgXqaak
+eislseapnfaeaiinnqiqgrtlvkv
+>d1tt7a1 b.35.1.2 (A:2-127,A:295-330) Hypothetical protein YhfP {Bacillus subtilis [TaxId: 1423]}
+stlfqalqaeknaddvsvhvktistedlpkdgvlikvaysginykdglagkaggnivrey
+plilgidaagtvvssndprfaegdeviatsyelgvsrdgglseyasvpgdwlvplpqnls
+lkeamvXdqlltivdrevsleetpgalkdilqnriqgrvivkl
+>d1e3ja1 b.35.1.2 (A:4-142,A:313-351) Ketose reductase (sorbitol dehydrogenase) {Silverleaf whitefly (Bemisia argentifolii) [TaxId: 77855]}
+dnlsavlykqndlrleqrpipepkedevllqmayvgicgsdvhyyehgriadfivkdpmv
+igheasgtvvkvgknvkhlkkgdrvavepgvpcrrcqfckegkynlcpdltfcatppddg
+nlaryyvhaadfchklpdnXcnvkqlvthsfkleqtvdafeaarkkadntikvmiscrq
+>d2dm6a1 b.35.1.2 (A:-2-112,A:295-329) Leukotriene b4 12-hydroxydehydrogenase/prostaglandin 15-keto reductase {Guinea pig (Cavia porcellus) [TaxId: 10141]}
+efmvkakswtlkkhfqgkptqsdfelktvelpplkngevllealflsvdpymriaskrlk
+egavmmgqqvarvvesknsafpagsivlaqsgwtthfisdgkgleklltewpdkXkiqyh
+ehvtkgfenmpaafiemlnganlgkavvta
+>d1vj1a1 b.35.1.2 (A:-1-124,A:312-351) Putative zinc-binding alcohol dehydrogenase {Mouse (Mus musculus) [TaxId: 10090]}
+hhmiiqrvvlnsrpgkngnpvaenfrveefslldalnegqvqvrtlylsvdpymrckmne
+dtgtdylapwqlaqvadgggigiveeskhqklakgdfvtsfywpwqtkaildgnglekvd
+pqlvdgXlkvketvakglenmgvafqsmmtggnvgkqivcisedssl
+>d1qora1 b.35.1.2 (A:2-112,A:292-327) Quinone oxidoreductase {Escherichia coli [TaxId: 562]}
+atriefhkhggpevlqaveftpadpaeneiqvenkaiginfidtyirsglypppslpsgl
+gteaagivskvgsgvkhikagdrvvyaqsalgayssvhniiadkaailpaaXikvdvaeq
+qkyplkdaqraheilesratqgssllip
+>d1yb5a1 b.35.1.2 (A:6-120,A:295-329) Quinone oxidoreductase {Human (Homo sapiens) [TaxId: 9606]}
+klmravrvfefggpevlklrsdiavpipkdhqvlikvhacgvnpvetyirsgtysrkpll
+pytpgsdvagvieavgdnasafkkgdrvftsstisggyaeyalaadhtvyklpekXlkpv
+igsqyplekvaeaheniihgsgatgkmilll
+>d1iz0a1 b.35.1.2 (A:1-98,A:270-302) Quinone oxidoreductase {Thermus thermophilus [TaxId: 274]}
+mkawvlkrlggplelvdlpepeaeegevvlrveavglnfadhlmrlgayltrlhppfipg
+mevvgvvegrryaalvpqgglaervavpkgallplpegXrpvvgpvfpfaeaeaafrall
+drghtgkvvvrl
+>d3nx6a_ b.35.1.0 (A:) automated matches {Xanthomonas oryzae [TaxId: 291331]}
+sikplhdrvvvkpieadevsaggivipdsakekstkgevvaigagkpldngslhapvvkv
+gdkviygqyagssyksegveykvlreddilavig
+>d1l1ca_ b.35.2.1 (A:) LicT {Bacillus subtilis [TaxId: 1423]}
+mkiakvinnnvisvvneqgkelvvmgrglafqkksgddvdeariekvftldnkdv
+>d1auua_ b.35.2.1 (A:) SacY {Bacillus subtilis [TaxId: 1423]}
+mkikrilnhnaivvkdqneekillgagiafnkkkndivdpskiektfirkdtpdy

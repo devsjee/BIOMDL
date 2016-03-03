@@ -1,0 +1,204 @@
+>d1tiga_ d.68.1.1 (A:) Translation initiation factor IF3, C-terminal domain {Bacillus stearothermophilus [TaxId: 1422]}
+invkevrlsptieehdfntklrnarkflekgdkvkatirfkgraithkeigqrvldrlse
+acadiavvetapkmdgrnmflvlapknd
+>d2ifea_ d.68.1.1 (A:) Translation initiation factor IF3, C-terminal domain {Escherichia coli [TaxId: 562]}
+viqvkeikfrpgtdegdyqvklrslirfleegdkakitlrfrgremahqqigmevlnrvk
+ddlqelavvesfptkiegrqmimvlapkkkq
+>d1i96v_ d.68.1.1 (V:) Translation initiation factor IF3, C-terminal domain {Thermus thermophilus [TaxId: 274]}
+evksikfrvkidehdyqtklghikrflqeghkvkvtimfrgrevahpelgerilnrvted
+lkdlavvemkpemlgrdmnmllapvk
+>d2m71a_ d.68.1.0 (A:) automated matches {Campylobacter jejuni [TaxId: 197]}
+kvidikeiklsvkiaqndinykvkhalefleqgkhvrfrvflkgrematpeagvalleki
+wtmieneanrdkepnfegryvnmlvtpkkaeghhhhhh
+>d1qmha2 d.68.2.1 (A:5-184,A:280-338) RNA 3'-terminal phosphate cyclase, RPTC {Escherichia coli [TaxId: 562]}
+mialdgaqgegggqilrsalslsmitgqpftitsiragrakpgllrqhltavkaateicg
+atvegaelgsqrllfrpgtvrggdyrfaigsagsctlvlqtvlpalwfadgpsrvevsgg
+tdnpsappadfirrvlepllakigihqqttllrhgfypagggvvatevspvasfntlqlg
+Xavgeyladqlvlpmalagageftvahpschlltniavverflpvrfslietdgvtrvsi
+>d2pqca_ d.68.2.2 (A:) 5-enol-pyruvyl shikimate-3-phosphate (EPSP) synthase {Agrobacterium sp. [TaxId: 268951]}
+ssrpatarkssglsgtvripgdksishrsfmfgglasgetritgllegedvintgkamqa
+mgarirkegdtwiidgvgnggllapeapldfgnaatgcrltmglvgvydfdstfigdasl
+tkrpmgrvlnplremgvqvksedgdrlpvtlrgpktptpityrvpmasaqvksavllagl
+ntpgittviepimtrdhtekmlqgfganltvetdadgvrtirlegrgkltgqvidvpgdp
+sstafplvaallvpgsdvtilnvlmnptrtgliltlqemgadievinprlaggedvadlr
+vrsstlkgvtvpedrapsmideypilavaaafaegatvmngleelrvkesdrlsavangl
+klngvdcdegetslvvrgrpdgkglgnasgaavathldhriamsflvmglvsenpvtvdd
+atmiatsfpefmdlmaglgakiels
+>d1g6sa_ d.68.2.2 (A:) 5-enol-pyruvyl shikimate-3-phosphate (EPSP) synthase {Escherichia coli [TaxId: 562]}
+mesltlqpiarvdgtinlpgsksvsnralllaalahgktvltnlldsddvrhmlnaltal
+gvsytlsadrtrceiignggplhaegalelflgnagtamrplaaalclgsndivltgepr
+mkerpighlvdalrlggakityleqenypplrlqggftggnvdvdgsvssqfltallmta
+plapedtvirikgdlvskpyiditlnlmktfgveienqhyqqfvvkggqsyqspgtylve
+gdassasyflaaaaikggtvkvtgigrnsmqgdirfadvlekmgaticwgddyisctrge
+lnaidmdmnhipdaamtiataalfakgtttlrniynwrvketdrlfamatelrkvgaeve
+eghdyiritppeklnfaeiatyndhrmamcfslvalsdtpvtildpkctaktfpdyfeql
+arisqaa
+>d1p89a_ d.68.2.2 (A:) 5-enol-pyruvyl shikimate-3-phosphate (EPSP) synthase {Escherichia coli [TaxId: 562]}
+snralllaalahgktvltnlldsddvrhmlnaltalgvsytlsadrtrceiignggplha
+egalelflgnagtamrplaaalclgsndivltgeprmkerpighlvdalrlggakityle
+qenypplrlqggftggnvdvdgsvssqfltallmtaplapedtvirikgdlvskpyidit
+lnlmktfgveienqhyqqfvvkggqsyqspgtylve
+>d1rf6a_ d.68.2.2 (A:) 5-enol-pyruvyl shikimate-3-phosphate (EPSP) synthase {Pneumococcus (Streptococcus pneumoniae) [TaxId: 1313]}
+mklktnirhlhgiirvpgdksishrsiifgslaegetkvydilrgedvlstmqvfrdlgv
+eiedkdgvitvqgvgmaglkapqnalnmgnsgtsirlisgvlagadfevemfgddslskr
+pmdrvtlplkkmgvsisgqterdlpplrlkgtknlrpihyelpiasaqvksalmfaalqa
+kgesviiekeytrnhtedmlqqfgghlsvdgkkitvqgpqkltgqkvvvpgdissaafwl
+vagliapnsrlvlqnvginetrtgiidviramggkleiteidpvaksatlivessdlkgt
+eicgaliprlidelpiiallatqaqgvtvikdaeelkvketdriqvvadalnsmgaditp
+tadgmiikgksalhgarvntfgdhrigmmtaiaallvadgeveldraeaintsypsffdd
+leslihg
+>d3kr6a_ d.68.2.2 (A:) automated matches {Escherichia coli K-12 [TaxId: 83333]}
+mdkfrvqgptklqgevtisgaknaalpilfaallaeepveiqnvpklkdvdtsmkllsql
+gakverdgsvhidardvnvfcapydlvktmrasiwalgplvarfgqgqvslpggctigar
+pvdlhisgleqlgatikleegyvkasvdgrlkgahivmdkvsvgatvtimcaatlaegtt
+iienaarepeivdtanflitlgakisgqgtdriviegverlgggvyrvlpdrietgtflv
+aaaisrgkiicrnaqpdtldavlaklrdagadievgedwisldmhgkrpkavnvrtaphp
+afptdmqaqftllnlvaegtgfitetvfenrfmhvpelsrmgahaeiesntvichgvekl
+sgaqvmatdlrasaslvlagciaegttvvdriyhidrgyeriedklralganiervkge
+>d3swea_ d.68.2.2 (A:) automated matches {Haemophilus influenzae [TaxId: 71421]}
+mdkfrvygqsrlsgsvnisgaknaalpilfaailatepvkltnvpelkdiettlkilrql
+gvvvdrdatgavlldasninhftapyelvktmrasiwalaplvarfhqgqvslpggxsig
+arpvdlhisgleklgadivleegyvkaqvsdrlvgtriviekvsvgatlsimmaatlakg
+ttvienaarepeivdtadflnkmgakitgagsahitiegverltgcehsvvpdrietgtf
+liaaaisggcvvcqntkadtldavidklreagaqvdvtensitldmlgnrpkavnirtap
+hpgfptdmqaqftllnmvaegtsiitetifenrfmhipelirmggkaeiegntavchgve
+qlsgteviatdlrasislvlagciatgetivdriyhidrgyehiedklrglgakierfsg
+>d3ti2a_ d.68.2.2 (A:) automated matches {Vibrio cholerae [TaxId: 243277]}
+nlpgsksvsnralllaalasgttrltnlldsddirhmlnaltklgvnyrlsadkttceve
+glgqafhttqplelflgnagtamrplaaalclgqgdyvltgeprmkerpighlvdalrqa
+gaqieyleqenfpplriqgtglqagtvtidgsissqfltaflmsaplaqgkvtikivgel
+vskpyiditlhimeqfgvqvinhdyqefvipagqsyvspgqflvegd
+>d3nvsa_ d.68.2.2 (A:) automated matches {Vibrio cholerae [TaxId: 666]}
+mesltlqpielisgevnlpgsksvsnralllaalasgttrltnlldsddirhmlnaltkl
+gvnyrlsadkttceveglgqafhttqplelflgnagtamrplaaalclgqgdyvltgepr
+mkerpighlvdalrqagaqieyleqenfpplriqgtglqagtvtidgsissqfltaflms
+aplaqgkvtikivgelvskpyiditlhimeqfgvqvinhdyqefvipagqsyvspgqflv
+egdassasyflaaaaikggevkvtgigknsiqgdiqfadalekmgaqiewgddyviarrg
+elnavdldfnhipdaamtiattalfakgttairnvynwrvketdrlaamatelrkvgatv
+eegedfivitpptklihaaidtyddhrmamcfslvalsdtpvtindpkctsktfpdyfdk
+faqlsr
+>d3vcya_ d.68.2.2 (A:) automated matches {Vibrio fischeri [TaxId: 388396]}
+mdkfriqgsdkplsgevtisgaknaalpilfasllaeepvevanvpklrdvdttmellkr
+lgaevsrngsvhidasgvndfcapydlvktmrasiwalgplvarfgkgqvslpggcaiga
+rpvdlhihgleqlgatikleegyvkaevdgrlkgahivmdkvsvgatitvmcaatlaegt
+tvlenaarepeivdtanflnaigakvsgmgtdtitiegverlgggyhevvadrietgtfl
+vaaavsggkivckntkahlleavlakleeagadvqtgddwisldmtgrelkavnirtaph
+pafptdmqaqftllnmmakgsgiitetifenrfmhipelqrmgahaeiegntaicgdtdg
+lsgaqvmatdlrasaslviagciakgetivdriyhidrgydkiedkltalganiervhs
+>d3sg1a_ d.68.2.0 (A:) automated matches {Anthrax bacillus (Bacillus anthracis) [TaxId: 1392]}
+mekiivrggkrlngtvrvegaknavlpiiaaallasdgknvlsevpvlsdvytinevlrh
+lnaevvfennqvtidaskelnieapfeyvrkmrasvqvmgpllarngrarialpggcaig
+srpidqhlkgfeamgakvqvgngfveayvegelkgakiyldfpsvgatenimsaatlakg
+ttilenaakepeivdlanflnamgakvrgagtgtiriegvdklyganhsiipdrieagtf
+mvaaaitggdilienavpehlrsitakmeemgvkiieenegvrvigpdklkavdiktmph
+pgfptdmqsqmmalllqadgtsmitetvfenrfmhveefrrmnadikiegrsvimngpns
+lqgaevgatdlraaaalilaglvsegytrvtelkhldrgyvdfhkklaalgatiervne
+>d3swga_ d.68.2.0 (A:) automated matches {Aquifex aeolicus [TaxId: 224324]}
+yrdyfvirggkpltgkvkisgaknaalpimfatilteepctitnvpdlldvrntllllre
+lgaeleflnntvfinpsinsfitnqeiirrmrasvlslgpllgrfgravvglpggxsiga
+rpidqhlkffkeagadvevregyvyvnlkekrrvhfkfdlvtvtgtenallylasvpees
+ilenialepevmdlievlkkmgahvkvegrsayvkgsenlkgfthsvipdrieagtfmvg
+avltdgeillenarinhlravveklkliggevveengnlrvfrkeslracdietqvypgf
+ptdmqaqfmallsvakgksrikenifehrfhhaqelnrlganitvrgntayvegverlyg
+sevystdlrasaslvlaglvaqgetvvrdvyhldrgyekleeklkklgadiervsel
+>d3rmta_ d.68.2.0 (A:) automated matches {Bacillus halodurans [TaxId: 86665]}
+enktviphakglkgtikvpgdksishravmfgalakgtttvegflpgadclstiscfqkl
+gvsieqaeervtvkgkgwdglrepsdildvgnsgtttrlilgilstlpfhsviigdesig
+krpmkrvteplksmgaqidgrdhgnltplsirggqlkgidfhspvasaqmksaillaglr
+aegktsvtepaktrdhtermleafgvniekdgltvsieggqmltgqhvvvpgdissaaff
+lvagamvphsritltnvginptragilevlkqmgatlamenervqggepvadltietsvl
+qgveiggdiiprlideipiiavlatqasgrtvikdaeelkvketnridtvvseltklgas
+ihatddgmiiegptplkggvtvsshgdhrigmamaiaallaekpvtvegteaiavsypsf
+fdhldrlkseaenlyfq
+>d3slha_ d.68.2.0 (A:) automated matches {Coxiella burnetii [TaxId: 227377]}
+amdyqtipsqglsgeicvpgdksishravllaaiaegqtqvdgflmgadnlamvsalqqm
+gasiqviedenilvvegvgmtglqappealdcgnsgtairllsgllagqpfntvltgdss
+lqrrpmkriidpltlmgakidstgnvpplkiygnprltgihyqlpmasaqvksclllagl
+yargktcitepapsrdhterllkhfhytlqkdkqsicvsgggklkandisipgdissaaf
+fivaatitpgsairlcrvgvnptrlgvinllkmmgadievthytekneeptaditvrhar
+lkgidippdqvpltidefpvlliaaavaqgktvlrdaaelrvketdriaamvdglqklgi
+aaeslpdgviiqggtleggevnsyddhriamafavagtlakgpvrirncdnvktsfpnfv
+elanevgmnvkgvrgr
+>d3zh4a_ d.68.2.0 (A:) automated matches {Pneumococcus (Streptococcus pneumoniae) [TaxId: 1313]}
+mrkivingglplqgeitisgaknsvvalipaiiladdvvtldcvpdisdvaslveimelm
+gatvkryddvleidprgvqnipmpygkinslrasyyfygsllgrfgeatvglpggcdlgp
+rpidlhlkafeamgatasyegdnmklsakdtglhgasiymdtvsvgatintmiaavkang
+rtiienaarepeiidvatllnnmgahirgagtniiiidgverlhgtrhqvipdrieagty
+islaaavgkgirinnvlyehlegfiakleemgvrmtvsedsifveeqsnlkainiktapy
+pgfatdlqqpltplllrangrgtivdtiyekrvnhvfelakmdadisttnghilytggrd
+lrgtsvkatdlragaalviaglmaegkteitniefilrgysdiieklrnlgadirlve
+>d4r7ua_ d.68.2.0 (A:) automated matches {Vibrio cholerae [TaxId: 243277]}
+mekfrvigstqplqgevtisgaknaalpilfasilaeepvevanvphlrdidttmeller
+lgakverngsvhvdagpinqycapydlvktmrasiwalgplvarfgqgqvslpggcaiga
+rpvdlhihgleqlgatitledgyvkahvdgrlqgahivmdkvsvgatitimcaatlaegt
+tvldnaarepeivdtamflnklgakisgagtdsitiegverlgggkhavvpdrietgtfl
+vaaavsrgkivcrnthahlleavlakleeagaeiecgedwisldmtgrelkavtvrtaph
+pgfptdmqaqftllnmmakgggvitetifenrfmhvpelkrmgakaeiegntvicgdvdr
+lsgaqvmatdlrasaslviagciakgetivdriyhidrgyeriedklsalganierfr
+>d1pava_ d.68.3.3 (A:) Hypothetical protein Ta1170/Ta1414 {Thermoplasma acidophilum [TaxId: 2303]}
+mdvkpdrvidargsycpgplmelikaykqakvgevisvystdagtkkdapawiqksgqel
+vgvfdrngyyeivmkkvk
+>d1jdqa_ d.68.3.3 (A:) Hypothetical protein TM0983 {Thermotoga maritima [TaxId: 2336]}
+gsshhhhhhssglvprgshmakyqvtktldvrgevcpvpdvetkralqnmkpgeilevwi
+dypmskeripetvkklghevleieevgpsewkiyikvk
+>d1je3a_ d.68.3.3 (A:) hypothetical protein YedF (EC005) {Escherichia coli [TaxId: 562]}
+mgsshhhhhhssglvprgshmknivpdyrldmvgepcpypavatleampqlkkgeilevv
+sdcpqsinnipldarnhgytvldiqqdgptiryliqk
+>d3lvjc_ d.68.3.3 (C:) automated matches {Escherichia coli [TaxId: 155864]}
+lfsspdhtldalglrcpepvmmvrktvrnmqpgetlliiaddpattrdipgfctfmehel
+vaketdglpyrylirkg
+>d1rq8a_ d.68.4.1 (A:) Hypothetical protein SAV1595 {Staphylococcus aureus, (strain Mu50 / ATCC 700699) [TaxId: 1280]}
+mltgkqkrylrslahnidpifqigkgginenmikqiddtlenrelikvhvlqnnfddkke
+laetlseatrselvqvigsmiviyreskenkeielp
+>d1ln4a_ d.68.4.1 (A:) hypothetical protein YhbY {Escherichia coli [TaxId: 562]}
+mdlstkqkqhlkglahplkpvvllgsngltegvlaeieqalehhelikvkiatedretkt
+liveaivretgacnvqvigktlvlyrptkerkislple
+>d1jo0a_ d.68.4.1 (A:) YhbY homologue HI1333 {Haemophilus influenzae [TaxId: 727]}
+ttlstkqkqflkglahhlnpvvmlggngltegvlaeienalnhhelikvkvagadretkq
+liinaivretkaaqvqtighilvlyrpseeakiqlpr
+>d1nj1a2 d.68.5.1 (A:411-481) C-terminal domain of ProRS {Methanothermobacter thermautotrophicus [TaxId: 145262]}
+ireaetleeasrivdekrgiisfmwcgeeecgmdveekvrvdilgiqeegsgtcincgre
+apyraylarty
+>d1hc7a3 d.68.5.1 (A:404-477) C-terminal domain of ProRS {Thermus thermophilus [TaxId: 274]}
+trkvdtyeafkeavqegfalafhcgdkacerliqeettattrcvpfeaepeegfcvrcgr
+psaygkrvvfakay
+>d1nfja_ d.68.6.1 (A:) DNA-binding protein AlbA {Archaeoglobus fulgidus [TaxId: 2234]}
+ehvvyvgnkpvmnyvlatltqlnegadevvikargraisravdvaeivrnrfmpgvkvke
+ikidteeleseqgrrsnvstieivlak
+>d1nh9a_ d.68.6.1 (A:) DNA-binding protein AlbA {Methanococcus jannaschii [TaxId: 2190]}
+mdnvvligkkpvmnyvvavltqltsndeviikargkainkavdvaemirnrfikdikikk
+ieigtdkvknpdgrevnvstieivlak
+>d2bkyx_ d.68.6.1 (X:) DNA-binding protein AlbA {Sulfolobus solfataricus, Sso10b2 [TaxId: 2287]}
+klneivvrktknvedhvldvivlfnqgidevilkgtgreiskavdvynslkdrlgdgvql
+vnvqtgsevrdrrrisyillrlkrvy
+>d3toea_ d.68.6.1 (A:) automated matches {Methanothermobacter thermautotrophicus [TaxId: 187420]}
+nvvyignkpvmnyvlavvtqmnggtsevilkargiaisravdvaeivrnrfipdiqieni
+dicteeiignegtatnvsaieiqlrk
+>d2z7ca_ d.68.6.1 (A:) automated matches {Pyrococcus horikoshii [TaxId: 53953]}
+hvvyigkkpvmnyvlavitqfhegakevsikargraisravdvaeivrnrflkddvdvke
+ikigteelptadgrttntstieivlarkt
+>d1y9xa_ d.68.6.1 (A:) automated matches {Sulfolobus shibatae [TaxId: 2286]}
+mssgtptpsnvvligkkpvmnyvlaaltllnqgvseivikargraiskavdtveivrnrf
+ladkieikeirvgsqvvtsqdgrqsrvstieiairkk
+>d2bkya_ d.68.6.1 (A:) automated matches {Sulfolobus solfataricus [TaxId: 273057]}
+snvvligkkpvmnyvlaaltllnqgvseivikargraiskavdtveivrnrflpdkieik
+eirvgsqvvtsqdgrqsrvstieiairkk
+>d2h9ua_ d.68.6.0 (A:) automated matches {Aeropyrum pernix [TaxId: 272557]}
+acegapevrigrkpvmnyvlailttlmeqgtnqvvvkargrninravdaveivrkrfakn
+ieikdikidsqeievqtpegqtrtrrvssieiclekagesa
+>d1ug8a_ d.68.7.1 (A:) Poly(A)-specific ribonuclease PARN {Mouse (Mus musculus) [TaxId: 10090]}
+gssgssgdqkkfidqviekiedflqseekrsleldpctgfqrkliyqtlswkypkgihve
+tletdkkerhiviskvdeeersgpssg
+>d1whra_ d.68.7.1 (A:) R3H domain protein KIAA1002 {Human (Homo sapiens) [TaxId: 9606]}
+gssgssgtdstgidlheflvntlkknprdrmmllkleqeilefindnnnqfkkfpqmtsy
+hrmllhrvaayfgmdhnvdqtgkaviinktsntripeqrfsehikdekntefqqrfilsg
+pssg
+>d1msza_ d.68.7.1 (A:) SmuBP-2 {Human (Homo sapiens) [TaxId: 9606]}
+gvdhframivefmaskkmqlefppslnshdrlrvhqiaeehglrhdssgegkrrfitvsk
+ra
+>d2lrra_ d.68.7.1 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+pegvesqdgvdhframivefmaskkmqlefppslnshdrlrvhqiaeehglrhdssgegk
+rrfitvskra
+>d3faua_ d.68.8.1 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+sldlhglhvdealehlmrvlekkteefkqnggkpylsvitgrgnhsqggvarikpaviky
+lishsfrfseikpgclkvml

@@ -1,0 +1,66 @@
+>d2r7511 c.32.1.1 (1:8-204) Cell-division protein FtsZ {Aquifex aeolicus [TaxId: 63363]}
+ckikvigvggggsnavnrmyedgiegvelyaintdvqhlstlkvpnkiqigekvtrglga
+gakpevgeeaaledidkikeilrdtdmvfisaglgggtgtgaapviaktakemgiltvav
+atlpfrfegprkmekalkgleklkessdayivihndkikelsnrtltikdafkevdsvls
+kavrgitsivvtpavin
+>d2vapa1 c.32.1.1 (A:20-231) Cell-division protein FtsZ {Methanococcus jannaschii [TaxId: 2190]}
+lelspedkelleylqqtkakitvvgcggagnntitrlkmegiegaktvaintdaqqlirt
+kadkkiligkkltrglgaggnpkigeeaakesaeeikaaiqdsdmvfitcglgggtgtgs
+apvvaeiskkigaltvavvtlpfvmegkvrmknameglerlkqhtdtlvvipneklfeiv
+pnmplklafkvadevlinavkglvelitkdgl
+>d1rq2a1 c.32.1.1 (A:8-205) Cell-division protein FtsZ {Mycobacterium tuberculosis [TaxId: 1773]}
+lavikvvgiggggvnavnrmieqglkgvefiaintdaqallmsdadvkldvgrdstrglg
+agadpevgrkaaedakdeieellrgadmvfvtagegggtgtggapvvasiarklgaltvg
+vvtrpfsfegkrrsnqaengiaalrescdtlivipndrllqmgdaavslmdafrsadevl
+lngvqgitdlittpglin
+>d1ofua1 c.32.1.1 (A:11-208) Cell-division protein FtsZ {Pseudomonas aeruginosa [TaxId: 287]}
+tavikvigvgggggnavnhmaknnvegveficantdaqalkniaartvlqlgpgvtkglg
+aganpevgrqaaledrerisevlegadmvfittgmgggtgtgaapiiaevakemgiltva
+vvtrpfpfegrkrmqiadegiralaesvdslitipneklltilgkdasllaafakaddvl
+agavrgisdiikrpgmin
+>d1w5fa1 c.32.1.1 (A:22-215) Cell-division protein FtsZ {Thermotoga maritima [TaxId: 2336]}
+lkikvigvggagnnainrmieigihgvefvavntdlqvleasnadvkiqigenitrglga
+ggrpeigeqaaleseekirevlqdthmvfitagfgggtgtgaspviakiakemgiltvai
+vttpfyfegperlkkaieglkklrkhvdtlikisnnklmeelprdvkikdaflkadetlh
+qgvkgiselitkrg
+>d2btoa1 c.32.1.1 (A:3-246) Tubulin alpha-subunit {Prosthecobacter dejongeii [TaxId: 48465]}
+vnntivvsigqagnqiaasfwktvclehgidpltgqtapgvaprgnwssffsklgesssg
+syvpraimvdlepsvidnvkatsgslfnpanlisrtegaggnfavgylgagrevlpevms
+rldyeidkcdnvggiivlhaigggtgsgfgallieslkekygeipvlscavlpspqvssv
+vtepyntvfalntlrrsadaclifdnealfdlahrkwniesptvddlnllitealagita
+smrf
+>d4ihja1 c.32.1.1 (A:1-245) automated matches {Cow (Bos taurus) [TaxId: 9913]}
+mrecisihvgqagvqignacwelyclehgiqpdgqmpsdktigggddsfntffsetgagk
+hvpravfvdleptvidevrtgtyrqlfhpeqlitgkedaannyarghytigkeiidlvld
+rirkladqctglqgflvfhsfgggtgsgftsllmerlsvdygkksklefsiypapqvsta
+vvepynsiltthttlehsdcafmvdneaiydicrrnldierptytnlnrlisqivssita
+slrfd
+>d4ihjb1 c.32.1.1 (B:1-245) automated matches {Cow (Bos taurus) [TaxId: 9913]}
+mreivhiqagqcgnqigakfwevisdehgidptgsyhgdsdlqlerinvyyneatgnkyv
+prailvdlepgtmdsvrsgpfgqifrpdnfvfgqsgagnnwakghytegaelvdsvldvv
+rkesescdclqgfqlthslgggtgsgmgtlliskireeypdrimntfsvmpspkvsdtvv
+epynatlsvhqlventdetycidnealydicfrtlklttptygdlnhlvsatmsgvttcl
+rfp
+>d4m8ia1 c.32.1.1 (A:11-208) automated matches {Staphylococcus epidermidis [TaxId: 176279]}
+latlkvigvggggnnavnrmidhgmnnvefiaintdgqalnlskaeskiqigekltrglg
+aganpeigkkaaeesreqiedaiqgadmvfvtagmgggtgtgaapvvakiakemgaltvg
+vvtrpfgfegrkrqtqaaagvesmkaavdtlivipndrlldivdkstpmmeafkeadnvl
+rqgvqgisdliavsgevn
+>d4ffba1 c.32.1.0 (A:1-246) automated matches {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 559292]}
+mrevisinvgqagcqignacwelyslehgikpdghledglskpkggeegfstffhetgyg
+kfvpraiyvdlepnvidevrngpykdlfhpeqlisgkedaannyarghytvgreilgdvl
+drirkladqcdglqgflfthslgggtgsglgsllleelsaeygkksklefavypapqvst
+svvepyntvltthttlehadctfmvdneaiydmckrnldiprpsfanlnnliaqvvssvt
+aslrfd
+>d4ffbb1 c.32.1.0 (B:1-243) automated matches {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 559292]}
+mreiihistgqcgnqigaafweticgehgldfngtyhghddiqkerlnvyfneassgkwv
+prsinvdlepgtidavrnsaignlfrpdnyifgqssagnvwakghytegaelvdsvmdvi
+rreaegcdslqgfqithslgggtgsgmgtlliskireefpdrmmatfsvlpspkrsdtrv
+epynatlsvhqlvehsdetfcidnealydicqrtlklnqpsygdlnnlvssvmsgvttsl
+ryp
+>d3cb2a1 c.32.1.0 (A:2-246) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+preiitlqlgqcgnqigfefwkqlcaehgispeaiveefategtdrkdvffyqaddehyi
+pravlldleprvihsilnspyaklynpeniylsehgggagnnwasgfsqgekihedifdi
+idreadgsdslegfvlchsiaggtgsglgsyllerlndrypkklvqtysvfpnqdemsdv
+vvqpynslltlkrltqnadclvvldntalnriatdrlhiqnpsfsqinqlvstimsastt
+tlryp

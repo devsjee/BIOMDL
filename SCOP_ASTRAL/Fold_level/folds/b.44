@@ -1,0 +1,54 @@
+>d1f60a2 b.44.1.1 (A:335-441) Elongation factor eEF-1alpha, C-terminal domain {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+casfnatvivlnhpgqisagyspvldchtahiacrfdellekndrrsgkkledhpkflks
+gdaalvkfvpskpmcveafseypplgrfavrdmrqtvavgviksvdk
+>d1jnya2 b.44.1.1 (A:323-429) Elongation factor eEF-1alpha, C-terminal domain {Sulfolobus solfataricus [TaxId: 2287]}
+adeftariivvwhptalangytpvlhvhtasvacrvselvskldprtgqeaeknpqflkq
+gdvaivkfkpikplcvekynefpplgrfamrdmgktvgvgiivdvkp
+>d4ac9a3 b.44.1.1 (A:272-387) Elongation factor SelB, domain 3 {Methanococcus maripaludis [TaxId: 39152]}
+klqtvdkivakikisdifkynltpkmkvhlnvgmlivpavavpfkkvtfgkteeniilne
+visgnecycafeleekvlaevgdrvlitrldlppttlricghglieefkpikdlni
+>d1d2ea2 b.44.1.1 (A:349-451) Elongation factor Tu (EF-Tu) {Cow (Bos taurus), mitochondrial [TaxId: 9913]}
+hqkveaqvyiltkeeggrhkpfvshfmpvmfsltwdmacriilppgkelampgedlkltl
+ilrqpmilekgqrftlrdgnrtigtglvtdtpamteedknikw
+>d1efca2 b.44.1.1 (A:297-393) Elongation factor Tu (EF-Tu) {Escherichia coli [TaxId: 562]}
+tikphtkfesevyilskdeggrhtpffkgyrpqfyfrttdvtgtielpegvemvmpgdni
+kmvvtlihpiamddglrfaireggrtvgagvvakvls
+>d1r5ba2 b.44.1.1 (A:555-622) Eukaryotic peptide chain release factor ERF2, C-terminal domain {Fission yeast (Schizosaccharomyces pombe) [TaxId: 4896]}
+hattrfiaqiailelpsilttgyscvmhihtaveevsfakllhkldktnrkskkppmfat
+kgmkiiae
+>d1s0ua2 b.44.1.1 (A:348-437) Initiation factor eIF2 gamma subunit {Methanococcus jannaschii [TaxId: 2190]}
+irekitiranlldrvvgtkeelkieplrtgevlmlnigtattagvitsargdiadiklkl
+picaeigdrvaisrrvgsrwrligygtieg
+>d1kk1a2 b.44.1.1 (A:322-410) Initiation factor eIF2 gamma subunit {Pyrococcus abyssi [TaxId: 29292]}
+wdslrlevhllervvgteqelkvepikrkevlllnvgtartmglvtglgkdeievklqip
+vcaepgdrvaisrqigsrwrligygiike
+>d4m53a3 b.44.1.1 (A:321-415) Initiation factor eIF2 gamma subunit {Sulfolobus solfataricus [TaxId: 2287]}
+aevpvlwnirikynllervvgakemlkvdpiraketlmlsvgssttlgivtsvkkdeiev
+elrrpvavwsnnirtvisrqiagrwrmigwglvei
+>d3vmfa3 b.44.1.0 (A:323-430) automated matches {Aeropyrum pernix [TaxId: 272557]}
+aeefearifviwhpsaitvgytpvihvhtasvssriieikakldpktgqvveqnpqflka
+gdaaivrfkpvkplvvekfseipqlgrfamrdmnrtvgigivtdvkpa
+>d4j0qa3 b.44.1.0 (A:305-397) automated matches {Pseudomonas putida [TaxId: 160488]}
+htkftaevyvlskeeggrhtpffkgyrpqfyfrttdvtgncelpegvemvmpgdniqmtv
+tliktiamedglrfaireggrtvgagvvakiie
+>d4c0sa3 b.44.1.0 (A:337-455) automated matches {Rabbit (Oryctolagus cuniculus) [TaxId: 9986]}
+aaqftsqviilnhpgqisagyspvidchtahiackfaelkekidrrsgkklednpkslks
+gdaaivemvpgkpmcvesfsqypplgrfavrdmrqtvavgviknvekksggagkvtksa
+>d2c78a2 b.44.1.0 (A:313-405) automated matches {Thermus thermophilus HB8 [TaxId: 300852]}
+htkfeasvyvlkkeeggrhtgffsgyrpqfyfrttdvtgvvqlppgvemvmpgdnvtftv
+elikpvaleeglrfaireggrtvgagvvtkile
+>d1yx2a2 b.44.2.1 (A:283-359) Glycine cleavage system T protein, GcvT {Bacillus subtilis [TaxId: 1423]}
+rklvglemiekgiprhgyevfqngksvgkvttgtqsptlgknvglalidsetseigtvvd
+veirkklvkakvvktpf
+>d1vloa1 b.44.2.1 (A:278-367) Glycine cleavage system T protein, GcvT {Escherichia coli [TaxId: 562]}
+teklvglvmtekgvlrnelpvrftdaqgnqhegiitsgtfsptlgysialarvpegiget
+aivqirnrempvkvtkpvfvrngkavaglc
+>d1v5va1 b.44.2.1 (A:313-401) Glycine cleavage system T protein, GcvT {Pyrococcus horikoshii [TaxId: 53953]}
+rklvhfkmidkgipregykvyangemigevtsgtlspllnvgigiafvkeeyakpgieie
+veirgqrkkavtvtppfydpkkyglfret
+>d1wosa1 b.44.2.1 (A:279-361) Glycine cleavage system T protein, GcvT {Thermotoga maritima [TaxId: 2336]}
+rklvalelsgkriarkgyevlkngervgeitsgnfsptlgksialalvsksvkigdqlgv
+vfpggklvealvvkkpfyrgsvr
+>d1vlya1 b.44.2.1 (A:244-325) Hypothetical protein YgfZ, C-terminal domain {Escherichia coli [TaxId: 562]}
+nkralwllagsasrlpeagedlelkmgenwrrtgtvlaavkledgqvvvqvvmnndmepd
+sifrvrddantlhieplpysle

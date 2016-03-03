@@ -1,0 +1,64 @@
+>d1skyb1 a.69.1.1 (B:372-502) F1 ATP synthase alpha subunit, domain 3 {Bacillus sp., strain ps3 [TaxId: 1409]}
+ikamkkvagtlrldlaayreleafaqfgsdldkatqanvargartvevlkqdlhqpipve
+kqvliiyaltrgflddipvedvrrfekefylwldqngqhllehirttkdlpneddlnqai
+eafkktfvvsq
+>d2jdia1 a.69.1.1 (A:380-510) F1 ATP synthase alpha subunit, domain 3 {Cow (Bos taurus) [TaxId: 9913]}
+tramkqvagtmklelaqyrevaafaqfgsdldaatqqllsrgvrltellkqgqyspmaie
+eqvaviyagvrgyldklepskitkfenaflshvisqhqallgkirtdgkiseesdaklke
+ivtnflagfea
+>d1fx0a1 a.69.1.1 (A:373-501) F1 ATP synthase alpha subunit, domain 3 {Spinach (Spinacia oleracea), chloroplast [TaxId: 3562]}
+ikamkkvagklklelaqfaeleafaqfasdldkatqnqlargqrlrellkqpqsapltve
+eqvmtiytgtngyldsleldqvrkylvelrtyvktnkpefqeiisstktfteeaeallke
+aiqeqmerf
+>d1skye1 a.69.1.1 (E:357-470) F1 ATP synthase beta subunit, domain 3 {Bacillus sp., strain ps3 [TaxId: 1409]}
+eivgeehyqvarkvqqtlerykelqdiiailgmdelsdedklvvhrarriqfflsqnfhv
+aeqftgqpgsyvpvketvrgfkeilegkydhlpedrfrlvgrieevvekakamg
+>d2jdid1 a.69.1.1 (D:358-475) F1 ATP synthase beta subunit, domain 3 {Cow (Bos taurus) [TaxId: 9913]}
+mdpnivgsehydvargvqkilqdykslqdiiailgmdelseedkltvsrarkiqrflsqp
+fqvaevftghlgklvplketikgfqqilageydhlpeqafymvgpieeavakadklae
+>d1fx0b1 a.69.1.1 (B:378-485) F1 ATP synthase beta subunit, domain 3 {Spinach (Spinacia oleracea), chloroplast [TaxId: 3562]}
+rivgeehyeiaqrvketlqrykelqdiiailgldelseedrltvararkierflsqpffv
+aevftgspgkyvglaetirgfqlilsgeldslpeqafylvgnideata
+>d2qe7a3 a.69.1.0 (A:372-500) automated matches {Bacillus sp. [TaxId: 90973]}
+ikamkkvagtlrldlaqyrelqafaqfgsdldkatqaklnrgertveilkqdehkpmpve
+eqvisiyavtngfmddipvedvrrfeeellsfmrankdslldhirqtgelpdtkeldaai
+eefkkgftp
+>d2qe7d3 a.69.1.0 (D:350-462) automated matches {Bacillus sp. [TaxId: 90973]}
+avvgeehyrvargvqqvlqryndlqdiiailgmdelsdedklivararkiqrflsqpfhv
+aeqftgmpgkyvpvketvrgfkeilegkhdnlpeeafymvgtideavekakkl
+>d3ziad3 a.69.1.0 (D:358-475) automated matches {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+ldaavvgqehydvaskvqetlqtykslqdiiailgmdelseqdkltverarkiqrflsqp
+favaevftgipgklvrlkdtvasfkavlegkydnipehafymvggiedvvakaeklaa
+>d2f43a1 a.69.1.0 (A:380-502) automated matches {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+tramkqvagtmklelaqyrevaafaqfgsdldaatqqllsrgvrltellkqgqyspmaie
+eqvaviyagvrgyldklepskitkfesaflshvvsqhqsllgnirsdgkiseqsdaklke
+ivt
+>d2r9va3 a.69.1.0 (A:373-503) automated matches {Thermotoga maritima [TaxId: 243274]}
+ikamkqvagmlridlaqyreletfaqfateldpatraqiirgqrlmellkqeqyspmpve
+eqvvvlfagvrgylddlpveevrrfekeflrfmhekhqdilddiktkkeltseteeklkk
+aieefkttfrv
+>d1fkma1 a.69.2.1 (A:249-442) Ypt/Rab-GAP domain of gyp1p {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+nsiiqriskfdnilkdktiinqqdlrqiswngipkihrpvvwklligylpvntkrqegfl
+qrkrkeyrdslkhtfsdqhsrdiptwhqieidiprtnphiplyqfksvqnslqrilylwa
+irhpasgyvqgindlvtpffetflteylppsqiddveikdpstymvdeqitdleadtfwc
+ltklleqitdnyih
+>d1fkma2 a.69.2.1 (A:443-630) Ypt/Rab-GAP domain of gyp1p {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+gqpgilrqvknlsqlvkridadlynhfqnehvefiqfafrwmncllmrefqmgtvirmwd
+tylsetsqevtssysmssndikppvtpteprvasfvtptkdfqspttalsnmtpnnaved
+sgkmrqsslnefhvfvcaaflikwsdqlmemdfqetitflqnpptkdwtetdiemllsea
+fiwqslyk
+>d1q0qa1 a.69.3.1 (A:301-398) 1-deoxy-D-xylulose-5-phosphate reductoisomerase, C-terminal domain {Escherichia coli [TaxId: 562]}
+klsaltfaapdydrypclklameafeqgqaattalnaaneitvaaflaqqirftdiaaln
+lsvlekmdmrepqcvddvlsvdanarevarkevmrlas
+>d1r0ka1 a.69.3.1 (A:291-385) 1-deoxy-D-xylulose-5-phosphate reductoisomerase, C-terminal domain {Zymomonas mobilis [TaxId: 542]}
+klrqmdfeapdyerfpaltlamesiksggarpavmnaaneiavaafldkkigfldiakiv
+ektldhytpatpssledvfaidneariqaaalmes
+>d2o3la1 a.69.4.1 (A:14-95) Hypothetical protein BCE3448 {Bacillus cereus [TaxId: 1396]}
+eykmmmarvaalpedyqfvfkkiqnymwnfsagngmdmlhiqyelidlfeagaaegrqvl
+ditgedvasfadelvanaktyv
+>d2o4ta1 a.69.4.1 (A:16-105) Uncharacterized protein BH3976 {Bacillus halodurans [TaxId: 86665]}
+hvsrveklpkdyqivykeiqkylfkvgpvelnegigllseilgffeegaaagkgvldvtg
+tdvaafcdaligdsktyadlyqesiqqhvd
+>d2hh6a1 a.69.4.1 (A:1-112) Uncharacterized protein BH3980 {Bacillus halodurans [TaxId: 86665]}
+msfiekmigslndkrewkamearakalpkeyhhaykaiqkymwtsggptdwqdtkrifgg
+ildlfeegaaegkkvtdltgedvaafcdelmkdtktwmdkyrtklndsigrd

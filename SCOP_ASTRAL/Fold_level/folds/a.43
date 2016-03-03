@@ -1,0 +1,62 @@
+>d1baza_ a.43.1.1 (A:) Arc repressor {Salmonella bacteriophage P22 [TaxId: 10754]}
+skmpqvnlrwprevldlvrkvaeengrsvnseiyqrvmesfkkegriga
+>d1bazb_ a.43.1.1 (B:) Arc repressor {Salmonella bacteriophage P22 [TaxId: 10754]}
+kmpqvnlrwprevldlvrkvaeengrsvnseiyqrvmesfk
+>d1myka_ a.43.1.1 (A:) Arc repressor {Salmonella bacteriophage P22 [TaxId: 10754]}
+kmlqfnlrwprevldlvrkvaeengrsvnseiyqrvmesfkkegrig
+>d1myla_ a.43.1.1 (A:) Arc repressor {Salmonella bacteriophage P22 [TaxId: 10754]}
+kmpqfnlrwprevldlvrkvaeengmsvnsyiyqlvmesfkkegr
+>d1mylb_ a.43.1.1 (B:) Arc repressor {Salmonella bacteriophage P22 [TaxId: 10754]}
+mpqfnlrwprevldlvrkvaeengmsvnsyiyqlvmesfk
+>d1bdta_ a.43.1.1 (A:) Arc repressor {Salmonella bacteriophage P22 [TaxId: 10754]}
+mkgmskmpqfnlrwprevldlvrkvaeengrsvnseiyqrvmesfkkegrig
+>d1b28a_ a.43.1.1 (A:) Arc repressor {Salmonella bacteriophage P22 [TaxId: 10754]}
+mkgmskmpqfnlrwprevldlvrkvaeengmsvnsyiyqlvmesfkkegriga
+>d1mnta_ a.43.1.1 (A:) Mnt repressor {Salmonella bacteriophage P22 [TaxId: 10754]}
+arddphfnfrmpmevreklkfraeangrsmnsellqivqdalskpspvtgyrndaerlad
+eqselv
+>d2hzaa1 a.43.1.3 (A:1-48) Nickel responsive regulator NikR, N-terminal domain {Escherichia coli [TaxId: 562]}
+mqrvtitldddlletldslsqrrgynnrseairdilrsalaqeatqqh
+>d2bj7a1 a.43.1.3 (A:1-50) Nickel responsive regulator NikR, N-terminal domain {Pyrococcus horikoshii [TaxId: 53953]}
+melirfsisipskllekfdqiieeigyenrseairdlirdfiirhewevg
+>d1p94a_ a.43.1.3 (A:) Plasmid partition protein ParG {Salmonella enterica [TaxId: 28901]}
+mslekahtsvkkmtfgenrdlervvtapvssgkikrvnvnfdeekhtrfkaacarkgtsi
+tdvvnqlvdnwlkene
+>d2cpga_ a.43.1.3 (A:) Transcriptional repressor CopG {Streptococcus agalactiae [TaxId: 1311]}
+mkkrltitlsesvlenlekmaremglsksamisvalenykkgq
+>d1x93a1 a.43.1.3 (A:31-73) Uncharacterized protein HP0222 {Helicobacter pylori [TaxId: 210]}
+travslyfsdeqyqklekmaneeeesvgsyikryilkalrkie
+>d1irqa_ a.43.1.4 (A:) Omega transcriptional repressor {Streptococcus pyogenes [TaxId: 1314]}
+imgdktvrvradlhhiikietaknggnvkevmdqaleeyirkylpdkl
+>d1cmba_ a.43.1.5 (A:) Met repressor, MetJ (MetR) {Escherichia coli [TaxId: 562]}
+aewsgeyispyaehgkkseqvkkitvsiplkvlkiltdertrrqvnnlrhatnsellcea
+flhaftgqplpddadlrkersdeipeaakeimremginpetwey
+>d1zx3a1 a.43.1.6 (A:10-95) Hypothetical protein NE0241 {Nitrosomonas europaea [TaxId: 915]}
+evqqpdpmrknwimenmdsgviylleswlkaksqetgkeisdifanavefnivlkdwgke
+kleetnteyqnqqrklrktyieyydr
+>d1xrxa1 a.43.1.7 (A:1-35) SeqA {Escherichia coli [TaxId: 562]}
+mktievddelysyiashtkhigesasdilrrmlkf
+>d2bsqe1 a.43.1.8 (E:2-70) Trafficking protein A {Neisseria gonorrhoeae [TaxId: 485]}
+asvvirnlseathnaikfraraagrsteaeirlildniakaqqtvrlgsmlasigqeigg
+veledvrgr
+>d2rh3a1 a.43.1.10 (A:82-202) VirC2 {Agrobacterium tumefaciens [TaxId: 358]}
+iqvflsarppapevskiydnlilqyspskslqmilrralgdfenmladgsfraapksypi
+phtafeksiivqtsrmfpvslieaarnhfdplgletarafghklataalacffarekatn
+s
+>d2ay0a1 a.43.1.11 (A:3-45) Bifunctional protein putA {Escherichia coli [TaxId: 562]}
+tttmgvmlddatreriksaatridrtphwlikqaifsyleqle
+>d2gpea_ a.43.1.11 (A:) automated matches {Escherichia coli [TaxId: 562]}
+gtttmgvklddatreriksaatridrtphwlikqaifsyleqlensd
+>d2jxha_ a.43.1.11 (A:) automated matches {Pseudomonas putida [TaxId: 303]}
+matttlgvklddptrerlkaaaqsidrtphwlikqaifnylekle
+>d2efva1 a.43.1.12 (A:6-87) Uncharacterized protein MJ0366 {Methanococcus jannaschii [TaxId: 2190]}
+fmkekkratfylyknidgrklryllhklenvenvdidtlrraieaekkykrsitlteeee
+viiqrlgksanlllncelvkld
+>d1u9pa1 a.43.1.0 (A:72-107) automated matches {Escherichia coli [TaxId: 562]}
+revldlvrkvaeengrsvnseiyqrvmesfkkegri
+>d1u9pa2 a.43.1.0 (A:7-59) automated matches {Escherichia coli [TaxId: 562]}
+mpqfnlrwpgggpqfnlrwprevldlvrkvaeengrsvnseiyqrvmesfkke
+>d3phta1 a.43.1.0 (A:29-60) automated matches {Helicobacter pylori [TaxId: 210]}
+iikngyssrselvrdmireklvednwaednpn
+>d2wvfa1 a.43.1.0 (A:9-60) automated matches {Helicobacter pylori [TaxId: 85962]}
+siirfsvslqqnlldeldnriikngyssrselvrdmireklvednwaednpn

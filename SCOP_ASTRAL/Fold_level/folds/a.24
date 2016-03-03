@@ -1,0 +1,406 @@
+>d1gs9a_ a.24.1.1 (A:) Apolipoprotein E {Human (Homo sapiens), E4 [TaxId: 9606]}
+sgqrwelalgrfwdylrwvqtlseqvqeellssqvtqelralmdetmkelkaykseleeq
+ltpvaeetrarlskelqaaqarlgadmedvrgrlvqyrgevqamlgqsteelrvrlashl
+rklrkrllrdaddlqkrlavyqag
+>d2asra_ a.24.2.1 (A:) Aspartate receptor, ligand-binding domain {Escherichia coli [TaxId: 562]}
+ksfvvsnqlreqqgeltstwdlmlqtrinlsrsavrmmmdssnqqsnakvelldsarktl
+aqaathykkfksmaplpemvatsrnidekyknyytaltelidyldygntgayfaqptqgm
+qnamgerfaqyalsseklyrdi
+>d2liga_ a.24.2.1 (A:) Aspartate receptor, ligand-binding domain {Salmonella typhimurium [TaxId: 90371]}
+mggllfsslqhcqqgfvisnelrqqqseltstwdlmlqtrinlsrsaarmmmdasnqqss
+aktdllqnakttlaqaaahyanfknmtplpamaeasanvdekyqryqaalaeliqfldng
+nmdayfaqptqgmqnalgealgnyarvsenlyrqtfd
+>d1jmwa_ a.24.2.1 (A:) Aspartate receptor, ligand-binding domain {Salmonella typhimurium [TaxId: 90371]}
+mnqqgfvisnelrqqqseltstwdlmlqtrinlarsaarmmmdasnqqssaktdllqnak
+ttlaqaaahyanfknmtplpamaeasanvdekyqryqaalaeliqfldngnmdayfaqpt
+qgmqnalgealgnyarvsenlyrqtf
+>d3atpa_ a.24.2.0 (A:) automated matches {Escherichia coli [TaxId: 316407]}
+nftvlqtirqqqstlngswvallqtrntlnragirymmdqnnigsgstvaelmesasisl
+kqaeknwadyealprdprqstaaaaeikrnydiyhnalaeliqllgagkineffdqptqg
+yqdgfekqyvaymeqndrlhdiavsdnnasy
+>d2d4ua_ a.24.2.0 (A:) automated matches {Escherichia coli [TaxId: 562]}
+gplgsgglffnalknckenftvlqtirqqqstlngswvallqtrntlnragirymmdqnn
+igsgstvaelmesasislkqaeknwadyealprdprqstaaaaeikrnydiyhnalaeli
+qllgagkineffdqptqgyqdgfekqyvaymeqndrlhdiavsdnna
+>d256ba_ a.24.3.1 (A:) Cytochrome b562 {Escherichia coli [TaxId: 562]}
+adlednmetlndnlkviekadnaaqvkdaltkmraaaldaqkatppkledkspdspemkd
+frhgfdilvgqiddalklanegkvkeaqaaaeqlkttrnayhqkyr
+>d4jeaa_ a.24.3.1 (A:) automated matches {Escherichia coli [TaxId: 562]}
+adlednmetlndnlkviekadnaaqvkdaltkmaaaaadawsatppkledkspdspemhd
+frhgfwiligqihdalhlancgkvkeaqaaaeqlkctcnachqkyr
+>d3c63a_ a.24.3.1 (A:) automated matches {Escherichia coli [TaxId: 562]}
+adlednmetlndnlkviekadnaaqvkdaltkmkaaaldaqkatppkledkspdspemhd
+fdhgfdilvgqihaalhlanegkvkeaqaaaeqlkttcnachqkyr
+>d3nmia_ a.24.3.1 (A:) automated matches {Escherichia coli [TaxId: 562]}
+adlednmetlndnlkviekadnaaqvkdaltkmraaaldaqkatppkledkspdspemcd
+faagfailvgqiddalklanegkvkeaqaaaeqlkttcnachqkyr
+>d3hnja_ a.24.3.1 (A:) automated matches {Escherichia coli [TaxId: 562]}
+adlednmetlndnlkviekadnaaqvkdaltkmaaaaadawsatppkledkspdspemhd
+frhgfwlligaihdalhlanegkvkeaqkaaellkaicnachqkyr
+>d4er9a_ a.24.3.1 (A:) automated matches {Salmonella enterica [TaxId: 90371]}
+adlednmdilndnlkvvektdsapelkaaltkmraaaldaqkatppkledkapdspemkd
+frhgfdilvgqidgalklanegnvkeakaaaealkttrntyhkky
+>d1cgna_ a.24.3.2 (A:) Cytochrome c' {Alcaligenes denitrificans [TaxId: 32002]}
+efakpedavkyrqsaltlmashfgrmapvvkgqapydaaqikanvevlktltalpwaafg
+agteggdarpeiwsdaagfkqkqqafqdnivklsaaadagdldklraafgdvgasckach
+dsyrk
+>d1bbha_ a.24.3.2 (A:) Cytochrome c' {Chromatium vinosum [TaxId: 1049]}
+aglspeeqietrqagyefmgwnmgkikanlegeynaaqveaaanviaaiansgmgalygp
+gtdknvgdvktrvkpeffqnmedvgkiarefvgaantlaevaatgeaeavktafgdvgaa
+ckschekyrak
+>d1cpqa_ a.24.3.2 (A:) Cytochrome c' {Rhodobacter capsulatus [TaxId: 1061]}
+adtkevleareayfkslggsmkamtgvakafdaeaakveaaklekilatdvaplfpagts
+stdlpgqteakaaiwanmddfgakgkamheaggaviaaanagdgaafgaalqklggtcka
+chddyreed
+>d1gqaa_ a.24.3.2 (A:) Cytochrome c' {Rhodobacter sphaeroides [TaxId: 1063]}
+adaehvvearkgyfslvalefgplaamakgempydaaaakahasdlvtltkydpsdlyap
+gtsaddvkgtaakaaiwqdadgfqakgmaffeavaalepaagagqkelaaavgkvggtck
+schddfrvkr
+>d1mqva_ a.24.3.2 (A:) Cytochrome c' {Rhodopseudomonas palustris [TaxId: 1076]}
+atdviaqrkailkqmgeatkpiaamlkgeakwdqavvqkslaaiaddskklpalfpadsk
+tggdtaalpkifedkakfddlfaklaaaataaqgtikdeaslkaniggvlgnckschddf
+rak
+>d2ccya_ a.24.3.2 (A:) Cytochrome c' {Rhodospirillum molischianum [TaxId: 1083]}
+qskpedllklrqglmqtlksqwvpiagfaagkadlpadaaqraenmamvaklapigwakg
+tealpngetkpeafgsksaeflegwkalatestklaaaakagpdalkaqaaatgkvckac
+heefkqd
+>d2ykza_ a.24.3.2 (A:) automated matches {Achromobacter xylosoxidans [TaxId: 85698]}
+efakpedavkyrqsaltlmashfgrmtpvvkgqapydavqikanvevlktlsalpwaafg
+pgteggdarpeiwsdaasfkqkqqafqdnivklsaaadagdldklraafgdvgasckach
+dayrkkk
+>d2j8wa_ a.24.3.2 (A:) automated matches {Rubrivivax gelatinosus [TaxId: 28068]}
+qfqkpgdaieyrqsaftlianhfgrvaamaqgkapfdakvaaenialvstlsklpltafg
+pgtdkghgteakpavwsdaagfkaaadkfaaavdkldaagktgdfaqikaavgetggack
+gchdkfkek
+>d3vrca_ a.24.3.2 (A:) automated matches {Thermochromatium tepidum [TaxId: 1050]}
+dlspeeqietrqagyafmawnmgkikanlegeynadqvraaanvvaaiansgmgalygpg
+tdknvgavktrakpelfqnledvgklardlgtaanalaaaaatgeanavksafadvgaac
+kachqkyrad
+>d1i4ya_ a.24.4.1 (A:) Hemerythrin {Phascolopsis gouldii [TaxId: 6442]}
+gfpipdpyvwdpsfrtfysiiddehktlfngifhlaiddnadnlgelrrctgkhflneqv
+lmqasqyqfydehkkehetfihaldnwkgdvkwakswlvnhiktidfkykgki
+>d1hrba_ a.24.4.1 (A:) Hemerythrin {Phascolopsis gouldii [TaxId: 6442]}
+gfpipdpyvwdpsfrtfysiiddehktlfngifhlaiddnadnlgelrrctgkhflnqev
+lmeasqyqfydehkkehdgfinaldnwkgdvkwakawlvnhiktidfkykgki
+>d2hmza_ a.24.4.1 (A:) Hemerythrin {Sipunculid worm (Themiste dyscritum) [TaxId: 6436]}
+gfpipdpycwdisfrtfytiiddehktlfngilllsqadnadhlnelrrctgkhflneqq
+lmqasqyagyaehkkahddfihkldtwdgdvtyaknwlvnhiktidfkyrgki
+>d2mhra_ a.24.4.1 (A:) Myohemerythin {Sipunculan worm (Themiste zostericola) [TaxId: 6437]}
+gweipepyvwdesfrvfyeqldeehkkifkgifdcirdnsapnlatlvkvttnhftheea
+mmdaakysevvphkkmhkdflekigglsapvdaknvdyckewlvnhikgtdfkykgkl
+>d1cgme_ a.24.5.1 (E:) Cucumber green mottle mosaic virus {Cucumber green mottle mosaic virus, strain watermelon [TaxId: 12235]}
+aynpitpskliafsasyvpvrtllnflvasqgtafqtqagrdsfreslsalpssvvdins
+rfpdagfyaflngpvlrpifvsllsstdtrnrvievvdpsnpttaeslnavkrtddasta
+araeidnliesiskgfdvydrasfeaafsvvwseattska
+>d1rmva_ a.24.5.1 (A:) Ribgrass mosaic virus {Ribgrass mosaic virus [TaxId: 51680]}
+synitnsnqyqyfaavwaeptpmlnqcvsalsqsyqtqagrdtvrqqfanllstivapnq
+rfpdtgfrvyvnsavikplyealmksfdtrnriieteeesrpsasevanatqrvddatva
+irsqiqlllnelsnghgymnraefeailpwttapat
+>d1vtmp_ a.24.5.1 (P:) Tobacco mosaic virus coat protein {Tobacco mosaic virus, vulgare strain [TaxId: 12242]}
+pytinspsqfvylssayadpvelinlctnalgnqfqtqqarttvqqqfadawkpspvmtv
+rfpasdfyvyrynstldplitallnsfdtrnriievnnqpapntteivnatqrvddatva
+irasinnlanelvrgtgmfnqagfetasglvwtttpat
+>d3fapb_ a.24.7.1 (B:) FKBP12-rapamycin-binding domain of FKBP-rapamycin-associated protein (FRAP) {Human (Homo sapiens) [TaxId: 9606]}
+vailwhemwhegleeasrlyfgernvkgmfevleplhammergpqtlketsfnqaygrdl
+meaqewcrkymksgnvkdltqawdlyyhvfrris
+>d4drib_ a.24.7.1 (B:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+gamdpefmemwhegleeasrlyfgernvkgmfevleplhammergpqtlketsfnqaygr
+dlmeaqewcrkymksgnvkdltqawdlyyhvfrris
+>g1avo.1 a.24.8.1 (A:,B:) Proteasome activator reg(alpha) {Human (Homo sapiens) [TaxId: 9606]}
+lrvqpeaqakvdvfredlctktenllgsyfpkkiseldaflkepalneanlsnlkapldi
+Xavncnekivvllqrlkpeikdvieqlnlvttwlqlqipriedgnnfgvavqekvfelmt
+slhtklegfhtqiskyfsergdavtkaakqphvgdyrqlvheldeaeyrdirlmvmeirn
+ayavlydiilknfeklkkprg
+>d1yaro_ a.24.8.1 (O:) automated matches {Trypanosome (Trypanosoma brucei) [TaxId: 5691]}
+kraaliqnlrdsytetssfavieewaagtlqeiegiakaaaeahgvirnstygraqaeks
+peqllgvlqryqdlchnvycqaetirtviairipehkeednlgvavqhavlkiideleik
+tlgsgeksgsggaptpigmyalreylsarstvedkllgsvdaesgktkggsqspslllel
+rqidadfmlkvelatthlstmvravinayllnwkkliqprtgsdhmvs
+>d1h6ga1 a.24.9.1 (A:377-507) alpha-catenin {Human (Homo sapiens) [TaxId: 9606]}
+dlrrqlrkavmdhvsdsfletnvpllvlieaakngnekevkeyaqvfrehanklievanl
+acsisnneegvklvrmsasqlealcpqvinaalalaakpqsklaqenmdlfkeqwekqvr
+vltdavddits
+>d1h6ga2 a.24.9.1 (A:508-631) alpha-catenin {Human (Homo sapiens) [TaxId: 9606]}
+iddflavsenhiledvnkcvialqekdvdgldrtagairgraarvihvvtsemdnyepgv
+ytekvleatkllsntvmprfteqveaavealssdpaqpmdenefidasrlvydgirdirk
+avlm
+>d1h6gb1 a.24.9.1 (B:392-507) alpha-catenin {Human (Homo sapiens) [TaxId: 9606]}
+dsfletnvpllvlieaakngnekevkeyaqvfrehanklievanlacsisnneegvklvr
+msasqlealcpqvinaalalaakpqsklaqenmdlfkeqwekqvrvltdavddits
+>d1dova_ a.24.9.1 (A:) alpha-catenin {Mouse (Mus musculus) [TaxId: 10090]}
+esqflkeelvvavedvrkqgdlmksaagefaddpcssvkrgnmvraarallsavtrllil
+admadvykllvqlkvvedgilklrnagneqdlgiqykalkpevdklnimaakrqqelkdv
+gnrdqmaaargilqknvpilytasqaclqhpdvaaykanrdliykqlqqavtgisnaaqa
+t
+>d1qkra_ a.24.9.1 (A:) Vinculin {Chicken (Gallus gallus) [TaxId: 9031]}
+kdeefpeqkageainqpmmmaarqlhdearkwsskgndiiaaakrmallmaemsrlvrgg
+sgnkraliqcakdiakasdevtrlakevakqctdkrirtnllqvceriptistqlkilst
+vkatmlgrtnisdeeseqatemlvhnaqnlmqsvketvreaeaasikirtdagftlrwvr
+k
+>d1t01a2 a.24.9.1 (A:126-252) Vinculin {Chicken (Gallus gallus) [TaxId: 9031]}
+fdeaevrkiirvckgileyltvaevvetmedlvtytknlgpgmtkmakmiderqqelthq
+ehrvmlvnsmntvkellpvlisamkifvttkntksqgieealknrnftvekmsaeineii
+rvlqlts
+>d1st6a3 a.24.9.1 (A:253-371) Vinculin {Chicken (Gallus gallus) [TaxId: 9031]}
+wdedawaskdteamkralalidskmnqakgwlrdpnappgdageqairqildeagkagel
+cagkerreilgtcktlgqmtdqladlrargqgatpmamqkaqqvsqgldlltakvenaa
+>d1st6a4 a.24.9.1 (A:372-488) Vinculin {Chicken (Gallus gallus) [TaxId: 9031]}
+rkleamtnskqaiakkidaaqnwladpnggsegeehirgimsearkvaelceepkerddi
+lrslgeisaltaklsdlrrhgkgdspearalakqiatslqnlqsktnravantrpvk
+>d1st6a5 a.24.9.1 (A:489-646) Vinculin {Chicken (Gallus gallus) [TaxId: 9031]}
+aavhlegkieqaqrwidnptvddrgvgqaairglvaegrrlanvmmgpyrqdllakcdrv
+dqlaaqladlaargegespqaraiaaqlqdslkdlkarmqeamtqevsdvfsdtttpikl
+lavaatapsdtpnreevfeeraanfenhaarlgataek
+>d1st6a6 a.24.9.1 (A:647-718) Vinculin {Chicken (Gallus gallus) [TaxId: 9031]}
+aaavgtankttvegiqatvksareltpqvvsaarillrnpgnqaayehfetmknqwidnv
+ekmtglvdeaid
+>d1st6a7 a.24.9.1 (A:719-855) Vinculin {Chicken (Gallus gallus) [TaxId: 9031]}
+tkslldaseeaikkdldkckvamanmqpqmlvagatsiarranrillvakrevensedpk
+freavkaasdelsktispmvmdakavagnisdpglqksfldsgyrilgavakvreafqpq
+epdfpppppdlehlhlt
+>d3myia_ a.24.9.1 (A:) Vinculin {Human (Homo sapiens) [TaxId: 9606]}
+pvnqpilaaaqslhreatkwsskgndiiaaakrmallmaemsrlvrggsgtkraliqcak
+diakasdevtrlakevakqctdkrirtnllqvceriptistqlkilstvkatmlgrtnis
+deeseqatemlvhnaqnlmqsvketvreaeaasikirtdagftlrwvrk
+>d3rf3a1 a.24.9.1 (A:2-128) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+pvfhtrtiesilepvaqqishlvimheegevdgkaipdltapvaavqaavsnlvrvgket
+vqttedqilkrdmppafikvenactklvqaaqmlqsdpysvpardylidgsrgilsgtsd
+llltfde
+>d2b0ha1 a.24.9.2 (A:1838-1973) Talin 1 {Mouse (Mus musculus) [TaxId: 10090]}
+idpftmgdpegsfvdyqttmvrtakaiavtvqemvtksntspeelgplanqltsdygrla
+sqakpaavaaeneeigahikhrvqelghgcsalvtkagalqcspsdvytkkeliecarrv
+sekvshvlaalqagnr
+>d2a0ba_ a.24.10.1 (A:) Aerobic respiration control sensor protein, ArcB {Escherichia coli [TaxId: 562]}
+sksealldipmleqylelvgpklitdglavfekmmpgyvsvlesnltaqdkkgiveeghk
+ikgaagsvglrhlqqlgqqiqspdlpawednvgewieemkeewrhdvevlkawvakat
+>d1yvia1 a.24.10.2 (A:2-143) Histidine-containing phosphotransfer protein HP1 {Rice (Oryza sativa) [TaxId: 4530]}
+aaaalrdqltallssmfsqglvdeqfqqlqmlqdeggtpgfvsevvtlfcddadriinei
+atlleqpvvnfdkvdayvhqlkgssasvgaqkvkftcmqfrqfcqdksrdgclmalavvr
+ndfydlrnkfqtmlqleqqiqa
+>d1wn0a1 a.24.10.2 (A:9-139) Histidine-containing phosphotransfer protein HP2 {Maize (Zea mays) [TaxId: 4577]}
+qlnallssmfasglvdeqfqqlqmlqedggtpgfvaevvtlfcddadriiselaalldqp
+ivdfdkvdayvhqlkgssasvgaqkvkftcmqfrqlcqdknrdgcimalavvrnefydlr
+nkfqtmlqleq
+>d2r25a_ a.24.10.2 (A:) Phosphorelay protein ypd1 {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+stipseiinwtilneiismddddsdfskgliiqfidqaqttfaqmqrqldgeknlteldn
+lghflkgssaalglqriawvceriqnlgrkmehffpnktelvntlsdksiinginidedd
+eeikiqvddkdensiyliliakalnqsrlefklarielskyyntnl
+>d1i5na_ a.24.10.3 (A:) Chemotaxis protein CheA P1 domain {Salmonella typhimurium [TaxId: 90371]}
+disdfyqtffdeadelladmeqhlldlvpespdaeqlnaifraahsikggagtfgftilq
+etthlmenlldearrgemqlntdiinlfletkdimqeqldayknseepdaasfeyicnal
+rqlaleak
+>d1tqga_ a.24.10.3 (A:) Chemotaxis protein CheA P1 domain {Thermotoga maritima [TaxId: 2336]}
+gshmeylgvfvdetkeylqnlndtlleleknpedmelineafralhtlkgmagtmgfssm
+aklchtlenildkarnseikitsdlldkifagvdmitrmvdkivs
+>d1sr2a_ a.24.10.4 (A:) Sensor-like histidine kinase YojN, C-terminal domain {Escherichia coli [TaxId: 562]}
+mqeavlqlievqlaqeevtesplggdenaqlhasgyyalfvdtvpddvkrlyteaatsdf
+aalaqtahrlkgvfamlnlvpgkqlcetlehlirekdvpgiekyisdidsyvksll
+>d1y6da_ a.24.10.5 (A:) Phosphorelay protein luxU {Vibrio harveyi [TaxId: 669]}
+mntdvlnqqkieelsaeigsdnvpvlldiflgemdsyigtltelqgseqllylkeishal
+kssaasfgadrlceraiaidkkakanqlqeqgmetsemlallhitrdayrswtn
+>d4g78a_ a.24.10.0 (A:) automated matches {Medicago truncatula [TaxId: 3880]}
+snamdhlhrklrdheaamfqqgylddqfsqlqklqddtspdfvievmtmffddsekllnn
+msraleqvpvnfkqidahahqqkgssasvgaarvknvcgtfrnfceaqnlegcvrclqql
+qqeysllknnlkylfklqqeiktagrs
+>d3us6a_ a.24.10.0 (A:) automated matches {Medicago truncatula [TaxId: 3880]}
+evgqmrrqwvdyiksmfmegfldgqflqlqqlqdennpefvfevvslffddserilkdls
+favdqqsidfkkvdahvhqfkgssasigaqrvknscvafrnfceeqnidacrrclqqvkq
+eyllvknkletllrleqqivaaggsipm
+>d4eukb_ a.24.10.0 (B:) automated matches {Thale cress (Arabidopsis thaliana) [TaxId: 3702]}
+mdlvqkqkslqdytkslflegildsqflqlqqlqdesnpdfvsqvvtlffqdsdrilndl
+slsldqqvvdfkkvdphvhqlkgssssigaqrvknacvvfrsfceqqnveachrclqqvk
+qeyylvknrletlfkleqqivasggmipavel
+>d1he1a_ a.24.11.1 (A:) ExoS toxin {Pseudomonas aeruginosa [TaxId: 287]}
+assavvfkqmvlqqalpmtlkgldkaselatltpeglarehsrlasgdgalrslstalag
+iragsqveesriqagrllersiggialqqwgttggaasqlvldaspelrreitdqlhqvm
+sevallrqavesevs
+>d1g4us1 a.24.11.1 (S:167-296) SptP tyrosine phosphatase {Salmonella typhimurium [TaxId: 90371]}
+skqplldialkglkrtlpqleqmdgnslrenfqemasgngplrslmtnlqnlnkipeakq
+lndyvttltniqvgvarfsqwgtcggeverwvdkastheltqavkkihviakelknvtae
+lekieagapm
+>d1hy5a_ a.24.11.1 (A:) YopE {Yersinia pestis [TaxId: 632]}
+tsfsdsikqlaaetlpkymqqlnsldaemlqknhdqfatgsgplrgsitqcqglmqfcgg
+elqaeasailntpvcgipfsqwgtiggaasayvasgvdltqaaneikglaqqmqkllslm
+>d1r4ta_ a.24.11.1 (A:) automated matches {Pseudomonas aeruginosa [TaxId: 287]}
+pmtlkgldkaselatltpeglarehsrlasgdgalrslstalagiragsqveesriqagr
+llersiggialqqwgttggaasqlvldaspelrreitdqlhqvmsevallrqavesevsr
+vs
+>d1f1ma_ a.24.12.1 (A:) Outer surface protein C (OspC) {Lyme disease spirochete (Borrelia burgdorferi), different strains [TaxId: 139]}
+pnlteiskkitesnavvlavkevetlltsidelakaigkkiksdvsldneadhngslmsg
+aylistlitkkisaikdsgelkaeiekakkcseeftaklkgehtdlgkegvtddnakkai
+lktnndktkgadeleklfesvknlskaakemltnsvkeltsp
+>d1g5za_ a.24.12.1 (A:) Outer surface protein C (OspC) {Lyme disease spirochete (Borrelia burgdorferi), different strains [TaxId: 139]}
+pnlteiskkitesnavvlavkevetllasidelatkaigkkignngleanqskntsllsg
+ayaisdliaeklnvlkneelkekidtakqcsteftnklksehavlgldnltddnaqrail
+kkhankdkgaaeleklfkavenlskaaqdtlknavkeltspiva
+>d1yjga_ a.24.12.0 (A:) automated matches {Borrelia turicatae [TaxId: 142]}
+tknitdavafaksvkdvhtlvksidelakaigkkigangletdadknaklisgaysvisa
+vdtklaslekkvgisddlkgkittvknastsfltkaksktadlgkddvkdadaktaidia
+dtgakdkgaeeliklntaidalltsaeaavtaainal
+>d1wgwa_ a.24.13.1 (A:) Signal recognition particle 54 kDa protein, SRP54 {Mouse (Mus musculus) [TaxId: 10090]}
+gssgssgadlgrkitsalrslsnatiineevlnamlkevctalleadvniklvkqlrenv
+ksaidleemasglnkrkmiqhavfkelvkvkvysgpssg
+>d1ftsa1 a.24.13.1 (A:201-284) Signal recognition particle receptor, FtsY {Escherichia coli [TaxId: 562]}
+rsllktkenlgsgfislfrgkkidddlfeeleeqlliadvgvettrkiitnltegasrkq
+lrdaealygllkeemgeilakvde
+>d1vmaa1 a.24.13.1 (A:1-81) Signal recognition particle receptor, FtsY {Thermotoga maritima [TaxId: 2336]}
+mglfdflkkglqktketffgrvvkllkgkklddetreeleelliqadvgvetteyilerl
+eekdgdaleslkeiileilnf
+>d1okkd1 a.24.13.1 (D:21-78) Signal recognition particle receptor, FtsY {Thermus aquaticus [TaxId: 271]}
+aipwggnleevleelemallaadvglsateeilqevrasgrkdlkeavkeklvgmlep
+>d1rj9a1 a.24.13.1 (A:27-95) Signal recognition particle receptor, FtsY {Thermus aquaticus [TaxId: 271]}
+nleevleelemallaadvglsateeilqevrasgrkdlkeavkeklvgmlepderratlr
+klgfnpqkp
+>d1j8mf1 a.24.13.1 (F:3-86) Signal sequence recognition protein Ffh {Acidianus ambivalens [TaxId: 2283]}
+lldnlrdtvrkfltgsssydkavedfikelqkslisadvnvklvfsltnkikerlknekp
+ptyierrewfikivydelsnlfgg
+>d1qzxa1 a.24.13.1 (A:1-87) Signal sequence recognition protein Ffh {Sulfolobus solfataricus [TaxId: 2287]}
+mlenirdavrkfltgstpyekavdefikdlqkslissdvnvklvfsltakikerlnkekp
+psvlerkewfisivydelsklfggdke
+>d1ls1a1 a.24.13.1 (A:1-88) Signal sequence recognition protein Ffh {Thermus aquaticus [TaxId: 271]}
+mfqqlsarlqeaigrlrgrgriteedlkatlreirralmdadvnlevardfvervreeal
+gkqvlesltpaevilatvyealkealgg
+>d2yhsa1 a.24.13.0 (A:188-284) automated matches {Escherichia coli K-12 [TaxId: 83333]}
+ekptkegffarlkrsllktkenlgsgfislfrgkkidddlfeeleeqlliadvgvettrk
+iitnltegasrkqlrdaealygllkeemgeilakvde
+>d4c7ob1 a.24.13.0 (B:30-90) automated matches {Escherichia coli K-12 [TaxId: 83333]}
+dddlfeeleeqlliadvgvettrkiitnltegasrkqlrdaealygllkeemgeilakvd
+e
+>d2j7pe1 a.24.13.0 (E:27-78) automated matches {Thermus aquaticus [TaxId: 271]}
+nleevleelemallaadvglsateeilqevrasgrkdlkeavkeklvgmlep
+>d2cnwd1 a.24.13.0 (D:21-90) automated matches {Thermus aquaticus [TaxId: 271]}
+aipwggnleevleelemallaadvglsateeilqevrasgrkdlkeavkeklvgmlepde
+rratlrklgf
+>d1qvxa_ a.24.14.1 (A:) FAT domain of focal adhesion kinase {Chicken (Gallus gallus) [TaxId: 9031]}
+rsndkvyenvtglvkaviemsskiqpappeeyvpmvkevglalrtllatvdeslpvlpas
+threiemaqkllnsdlaelinkmklaqqyvmtslqqeykkqmltaahalavdaknlldvi
+dqarlkmisqsrph
+>d1k04a_ a.24.14.1 (A:) FAT domain of focal adhesion kinase {Human (Homo sapiens) [TaxId: 9606]}
+eisppptanldrsndkvyenvtglvkaviemsskiqpappeeyvpmvkevglalrtllat
+vdetipllpasthreiemaqkllnsdlgelinkmklaqqyvmtslqqeykkqmltaahal
+avdaknlldvidqarlkmlgqt
+>d1k40a_ a.24.14.1 (A:) FAT domain of focal adhesion kinase {Mouse (Mus musculus) [TaxId: 10090]}
+ndkvyenvtglvkaviemsskiqpappeeyvpmvkevglalrtllatvdetipalpasth
+reiemaqkllnsdlgeliskmklaqqyvmtslqqeykkqmltaahalavdaknlldvidq
+arlkml
+>d3gm3a_ a.24.14.0 (A:) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+nldrtddlvylnvmelvravlelknelaqlppegyvvvvknvgltlrkligsvddllpsl
+psssrteiegtqkllnkdlaelinkmrlaqqnavtslseeckrqmltashtlavdaknll
+davdqakvlanla
+>d3tk0a_ a.24.15.1 (A:) Augmenter of liver regeneration {Human (Homo sapiens) [TaxId: 9606]}
+smrtqqkrdtkfredcppdreelgrhswavlhtlaayypdlptpeqqqdmaqfihlfskf
+ypseecaedlrkrlarnhpdtrtraaftqwlchlhnevnrklgkpdfdcskvderwrdgw
+kdgscd
+>d1oqca_ a.24.15.1 (A:) Augmenter of liver regeneration {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+edcpqdreelgrntwaflhtlaayypdmptpeqqqdmaqfihifskfypceecaedirkr
+idrsqpdtstrvsfsqwlcrlhnevnrklgkpdfdcsrvderwrdgwkdgsc
+>d1jr8a_ a.24.15.1 (A:) Thiol oxidase Erv2p {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+ddkvkkevgraswkyfhtllarfpdeptpeereklhtfiglyaelypcgecsyhfvklie
+kypvqtssrtaaamwgchihnkvneylkkdiydcatiledydcgc
+>d3gwla_ a.24.15.0 (A:) automated matches {African swine fever virus ba71v [TaxId: 10498]}
+gshmlhwgpkywrslhlyaiffsdapswkekyeaiqwilnfieslpctrcqhhafsyltk
+npltlnnsedfqywtfafhnnvnnrlnkkiiswseykniyeqsilk
+>d4e0ha_ a.24.15.0 (A:) automated matches {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 559292]}
+hmdveqlgrsswtllhsvaasypaqptdqqkgemkqflnifshiypcnwcakdfekyire
+napqvesreelgrwmceahnkvnkklrkpkfdcnfwekrwkdgwd
+>d3w4ya_ a.24.15.0 (A:) automated matches {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 559292]}
+srtyrkvdppdveqlgrsswtllhsvaasypaqptdqqkgemkqflnifshiypcnwcak
+dfekyirenapqvesreelgrwmceahnkvnkklrkpkfdcnfwekrwkdgwd
+>d2hj3a_ a.24.15.0 (A:) automated matches {Thale cress (Arabidopsis thaliana) [TaxId: 3702]}
+pvtkedlgratwtflhtlaaqypekptrqqkkdvkelmtilsrmypcrecadhfkeilrs
+npaqagsqeefsqwlchvhntvnrslgklvfpcervdarwg
+>d1knya1 a.24.16.1 (A:126-253) Kanamycin nucleotidyltransferase (KNTase), C-terminal domain {Staphylococcus aureus [TaxId: 1280]}
+veaqtfhdaicaliveelfeyagkwrnirvqgpttflpsltvqvamagamliglhhricy
+ttsasvlteavkqsdlpsgydhlcqfvmsgqlsdseklleslenfwngiqewterhgyiv
+dvskripf
+>d1joga_ a.24.16.2 (A:) Hypothetical protein HI0074 {Haemophilus influenzae [TaxId: 727]}
+nlnvldaafysleqtvvqisdrnwfdmqpsivqdtliagaiqkfefvyelslkmmkrqlq
+qdaintddigaygfkdilrealrfgligdmskwvayrdmrnitshtydqekamavyaqid
+dfliessflleqlrq
+>d1wtya_ a.24.16.2 (A:) Probable nucleotidyltransferase subunit TTHA0048 {Thermus thermophilus [TaxId: 274]}
+aslaraverlkaalerpkdefirdsaiqrfeftfelawktlktflelqglearspraair
+gafqvgllpedpfwlemlelrnltnhtydealaeriyaelpkalerfqellrrlee
+>d1ufba_ a.24.16.3 (A:) Hypothetical protein TT1696 {Thermus thermophilus [TaxId: 274]}
+mnrardwleqarhnlrhaqgslglgdyawacfaaqqaaeaalkglhlargqvawghsild
+lladlpedvdvpedlveaakvldkyyiptrypdahpagpaarhytrleaeealdlaqkil
+afveekl
+>d1v4aa1 a.24.16.4 (A:287-437) Glutamine synthase adenylyltransferase GlnE, domain 2 {Escherichia coli [TaxId: 562]}
+yidfsviqslrnmkgmiarevrrrgltdniklgaggireiefivqvfqlirggrepslqs
+rsllptlsaiaelhllsendaeqlrvaylflrrlenllqsindeqtqtlpsdelnrarla
+wamdfadwpqltgaltahmtnvrrvfnelig
+>d1wola_ a.24.16.0 (A:) automated matches {Sulfolobus tokodaii [TaxId: 273063]}
+mkrvedwikqaerdleearyaksggyyelacflsqqcaekavkgllqfqgiekrghsish
+lltnppadilqcatfldkqytpsrypdvyyegapyeyyterdadecincairilnwvkgq
+ik
+>d1l3pa_ a.24.17.1 (A:) Functional domain of pollen allergen Phl P 5b {Timothy grass (Phleum pratense) [TaxId: 15957]}
+ipagelqiidkidaafkvaataaatapaddkftvfeaafnkaikettggaydtykcipsl
+eaavkqayaatvaaapqvkyavfeaaltkaitamsevqkvsq
+>d1nlxa_ a.24.17.1 (A:) Pollen allergen Phl P 6 {Timothy grass (Phleum pratense) [TaxId: 15957]}
+atteeqkliedvnasfraamattanvppadkyktfeaaftvsskrnladavskapqlvpk
+ldevynaaynaadhaapedkyeafvlhfsealriiagtpevhav
+>d1nzea_ a.24.18.1 (A:) Oxygen-evolving enhancer protein 3, {Spinach (Spinacia oleracea) [TaxId: 3562]}
+fylqplppteaaqrakvsaseilnvkqfidrkawpslqndlrlrasylrydlktvisakp
+kdekkslqeltsklfssidnldhaakikspteaekyygqtvsninevlaklg
+>d1orja_ a.24.19.1 (A:) Flagellar export chaperone FliS {Aquifex aeolicus [TaxId: 63363]}
+rniaeayfqnmvetatpleqiillydkaiecleraieiydqvnelekrkefvenidrvyd
+iisalksfldhekgkeiaknldtiytiilntlvkvdktkeelqkileilkdlreaweevk
+kkvhhh
+>d1orjb_ a.24.19.1 (B:) Flagellar export chaperone FliS {Aquifex aeolicus [TaxId: 63363]}
+pleqiillydkaiecleraieiydqvnelekrkefvenidrvydiisalksfldhekgke
+iaknldtiytiilntlvkvdktkeelqkileilkdlreaweevkk
+>d1vh6a_ a.24.19.1 (A:) Flagellar export chaperone FliS {Bacillus subtilis [TaxId: 1423]}
+atpgeltlmlyngclkfirlaaqaienddmerknenlikaqniiqelnftlnrnielsas
+mgamydymyrrlvqanikndtgmlaevegyvtdfrdawkqai
+>d3iqcb_ a.24.19.0 (B:) automated matches {Helicobacter pylori [TaxId: 85962]}
+pakliemlyegilrfssqakrcienediekkiyyinrvtdiftellnildyekggevavy
+ltglythqikvltqanvendaskidlvlnvarglleawrei
+>d1v74b_ a.24.20.1 (B:) Colicin D immunity protein {Escherichia coli [TaxId: 562]}
+mnkmamidlaklflaskitaiefsericverrrlygvkdlspnilncgeelfmaaerfep
+dadranyeiddnglkvevrsilekfkl
+>d1gm5a1 a.24.21.1 (A:7-105) RecG, N-terminal domain {Thermotoga maritima [TaxId: 2336]}
+ftsslflwgealptlleeflnevekmlknqvntrrihqllkelddpllenkdleeklqaf
+ldyvkeipnlpearkryriqkslemieklrswflidyle
+>d1t6ua_ a.24.22.1 (A:) Nickel-containing superoxide dismutase, NiSOD {Streptomyces coelicolor [TaxId: 1902]}
+hcdlpcgvydpaqarieaesvkavqekmagnddphfqtratvikeqraelakhhvsvlws
+dyfkpphfekypelhqlvndtlkamsaakgskdpatgqkaldyiaqidkifwetkka
+>d1q0ga_ a.24.22.1 (A:) Nickel-containing superoxide dismutase, NiSOD {Streptomyces seoulensis [TaxId: 73044]}
+hcdlpcgvydpaqarieaesvkaiqekmaanddlhfqiratvikeqraelakhhldvlws
+dyfkpphfesypelhtlvneavkalsaakastdpatgqkaldyiaqidkifwetkka
+>d1szia_ a.24.23.1 (A:) Mannose-6-phosphate receptor binding protein 1 (Tip47), C-terminal domain {Mouse (Mus musculus) [TaxId: 10090]}
+nrlplteaelaliatppedsdmaslqqqrqeqnyfvrlgslserlrnhayehslgklqna
+rqkaqetlqqltsvlglmesvkqgvdqrlgegqeklhqmwlswnqktpqdaekdpakpeq
+vearalsmfrditqqlqsmcvalgasiqglpshvreqaqqarsqvndlqatfsgihsfqd
+lsagvlaqtreriararealdntveyvaqntpamwlvgpfapgite
+>d1ug7a_ a.24.24.1 (A:) Domain from hypothetical 2610208m17rik protein {Mouse (Mus musculus) [TaxId: 10090]}
+gssgssgmsevtrsllqrwgaslrrgadfdswgqlveaideyqilarhlqkeaqaqhnns
+efteeqkktigkiatclelrsaalqstqsqeefkledlkklepilkniltynkefpfdvq
+pisgpssg
+>d1xzpa1 a.24.25.1 (A:118-211,A:372-450) TrmE connector domain {Thermotoga maritima [TaxId: 2336]}
+mdltsaeavrdlieaksetslklslrnlkgglrdfvdslrrelievlaeirveldypdei
+etntgevvtrlerikeklteelkkadagillnrgXqeifergsdslitnlrqkqllenvk
+ghledaikslkegmpvdmasidleralnlldevtgrsfredlldtifsnfcvgk
+>d2huja1 a.24.26.1 (A:1-120) Hypothetical protein Lin2004 {Listeria innocua [TaxId: 1642]}
+mellirteqlllqneknwelylsnreeekpfdfykdmkpfvdeakrcaddflelaipwvn
+terppylgelqlrqacdnvqmtavsafngrsfykhfldhyqstkytltrvrdflkrkees
+>d2im8a_ a.24.26.1 (A:) Hypothetical protein YppE {Bacillus subtilis [TaxId: 1423]}
+mlsqtllemteqmievaekgadryqegknsnhsydffetikpaveendelaarwaegale
+likvrrpkyvhkeqieavkdnflelvlqsyvhhihkkrfkditesvlytlhavkdeiare
+dsr
+>d2ap3a1 a.24.27.1 (A:12-196) Hypothetical protein MW0975 (SA0943) {Staphylococcus aureus [TaxId: 1280]}
+ttdkkeikaylkqvdkikddeepiktvgkkiaeldekkkkltedvnskdtavrgkavkdl
+iknaddrlkefekeedaikkseqdfkkakshvdnidndvkrkevkqlddvlkekyklhsd
+yakaykkavnsektlfkylnqndatqqgvnekskaieqnykklkevsdkytkvlnkvqke
+kqdvd
+>d2j9ua_ a.24.28.1 (A:) automated matches {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+fnakyvaeatgnfitvmdalklnynakdqlhpllaellisinrvtrddfenrsklidwiv
+rinklsigdtltetqirellfdlelayksfyall
+>d2j9wa_ a.24.28.0 (A:) automated matches {African clawed frog (Xenopus laevis) [TaxId: 8355]}
+hhmgnlnrciadivslfitvmdklrleiramdeiqpdlrelmetmnrmshlppdfegrek
+vsqwlqklssmsasdelddsqvrqmlfdlesaynafnrflh
+>d2p61a1 a.24.29.1 (A:34-152) Hypothetical protein TM1646 {Thermotoga maritima [TaxId: 2336]}
+effdiledvkedhfeklleeaveevidsgnelvrsptpsnlkryknaikeflkliekkiy
+klagsfdmnsgrarlhlvveevneklmdltekimknewqtinlaarieeinglilnlyr
+>d2qupa_ a.24.29.0 (A:) automated matches {Bacillus halodurans [TaxId: 86665]}
+gvsfsevmgkqrdekayerlqalmskiddqgkllsetrtieelrkykelvkefvgdavel
+glrleerrgfnrrgrtkiykivkevdrklldltdavlakekkgldilnmvgeikgllini
+ya

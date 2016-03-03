@@ -1,0 +1,70 @@
+>d1lama2 c.50.1.1 (A:1-159) Leucine aminopeptidase (Aminopeptidase A), N-terminal domain {Cow (Bos taurus) [TaxId: 9913]}
+tkglvlgiyskekeedepqftsagenfnklvsgklreilnisgpplkagktrtfyglhed
+fpsvvvvglgkktagideqenwhegkeniraavaagcrqiqdleipsvevdpcgdaqaaa
+egavlglyeyddlkqkrkvvvsaklhgsedqeawqrgvl
+>d1gyta1 c.50.1.1 (A:1-178) Leucine aminopeptidase (Aminopeptidase A), N-terminal domain {Escherichia coli, PepA [TaxId: 562]}
+mefsvksgspekqrsacivvgvfeprrlspiaeqldkisdgyisallrrgelegkpgqtl
+llhhvpnvlserilligcgkerelderqykqviqktintlndtgsmeavcfltelhvkgr
+nnywkvrqavetaketlysfdqlktnkseprrplrkmvfnvptrreltsgeraiqhgl
+>d1zr5a1 c.50.1.2 (A:179-367) Histone macro-H2a1.1 {Human (Homo sapiens) [TaxId: 9606]}
+dgftvlstkslflgqklnlihseisnlagfeveaiinptnadidlkddlgntlekkggke
+fveavlelrkkngplevagaavsaghglpakfvihcnspvwgadkceellektvknclal
+addkklksiafpsigsgrngfpkqtaaqlilkaissyfvstmsssiktvyfvlfdsesig
+iyvqemakl
+>d1yd9a1 c.50.1.2 (A:6-193) Histone macro-H2a1.1 {Norway rat (Rattus norvegicus) [TaxId: 10116]}
+gftvlstkslflgqklqvvqadiasidsdavvhptntdfyiggevgstlekkggkefvea
+vlelrkkngplevagaavsaghglpakfvihcnspvwgsdkceellektvknclaladdr
+klksiafpsigsgrngfpkqtaaqlilkaissyfvstmsssiktvyfvlfdsesigiyvq
+emakldan
+>d1vhua_ c.50.1.2 (A:) Hypothetical protein AF1521 {Archaeoglobus fulgidus [TaxId: 2234]}
+mevlfeakvgditlklaqgditqypakaivnaankrlehgggvayaiakacagdaglyte
+iskkamreqfgrdyidhgevvvtpamnleergikyvfhtvgpicsgmwseelkeklykaf
+lgplekaeemgvesiafpavsagiygcdlekvvetfleavknfkgsavkevalviydrks
+aevalkvfersl
+>d1spva_ c.50.1.2 (A:) Hypothetical protein YmbD {Escherichia coli [TaxId: 562]}
+trihvvqgditklavdvivnaanpslmggggvdgaihraagpalldaclkvrqqqgdcpt
+ghavitlagdlpakavvhtvgpvwrggeqnedqllqdaylnslrlvaansytsvafpais
+tgvygypraaaaeiavktvsefitrhalpeqvyfvcydeenahlyerlltqq
+>d1njra_ c.50.1.2 (A:) Hypothetical protein Ymr087W {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+kmriilcdtnevvtnlwqesiphayiqndkylcihhghlqslmdsmrkgdaihhghsyai
+vspgnsygylgggfdkalynyfggkpfetwfrnqlggryhtvgsatvvdlqrcleektie
+crdgiryiihvptvvapsapifnpqnplktgfepvfnamwnalmhspkdidgliipglct
+gyagvppiiscksmafalrlymagdhiskelknvlimyylqypfepffpesckiecqklg
+idiemlksfnvekdaielliprri
+>d2acfa1 c.50.1.2 (A:184-351) Replicase polyprotein 1ab {SARS coronavirus [TaxId: 227859]}
+pvnqftgylkltdnvaikcvdivkeaqsanpmvivnaanihlkhgggvagalnkatngam
+qkesddyiklngpltvggscllsghnlakkclhvvgpnlnagediqllkaayenfnsqdi
+llapllsagifgakplqslqvcvqtvrtqvyiavndkalyeqvvmdyl
+>d2fg1a_ c.50.1.2 (A:) automated matches {Bacteroides thetaiotaomicron [TaxId: 226186]}
+nameilyikgdatapigsgvkvithicndiggwgkgfvlalskkwkmpeeayrqwyksqe
+eftlgavqfvnvenklyvanmigqhgiykdskglppirydavrqclkevalftiahkasv
+hmprigcglaggkwelmeqiikeelitkeiavtvydl
+>d3ejfa_ c.50.1.0 (A:) automated matches {Avian infectious bronchitis virus (strain beaudette) [TaxId: 11120]}
+kpkfleyktcvgdltvviakaldefkefcivnaanehmthgsgvakaiadfcgldfveyc
+edyvkkhgpqqrlvtpsfvkgiqcvnnvvgprhgdnnlheklvaayknvlvdgvvnyvvp
+vlslgifgvdfkmsidamreafegctirvllfslsqehidyfdvtc
+>d3ewoa_ c.50.1.0 (A:) automated matches {Avian infectious bronchitis virus [TaxId: 11120]}
+lgsvkpatcekpkfleyktcvgdlavviakaldefkefcivnaanehmshgggvakaiad
+fcgpdfveycadyvkkhgpqqklvtpsfvkgiqcvnnvvgprhgdsnlreklvaayksvl
+vggvvnyvvpvlssgifgvdfkisidamreafkgcairvllfslsqehidyfdatck
+>d4d86a1 c.50.1.0 (A:791-974) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+kcfsrtvlapgvvlivqqgdlarlpvdvvvnasnedlkhygglaaalskaagpelqadcd
+qivkregrllpgnatiskagklpyhhvihavgprwsgyeaprcvyllrravqlslclaek
+ykyrsiaipaissgvfgfplgrcvetivsaikenfqfkkdghclkeiylvdvsektveaf
+aeav
+>d4d86a2 c.50.1.0 (A:1015-1191) automated matches {Human (Homo sapiens) [TaxId: 9606]}
+qmllvkegvqnaktdvvvnsvpldlvlsrgplsksllekagpelqeeldtvgqgvavsmg
+tvlktsswnldcryvlhvvapewrngstsslkimediirecmeiteslslksiafpaigt
+gnlgfpknifaeliisevfkfssknqlktlqevhfllhpsdheniqafsdefarran
+>d3ejga_ c.50.1.0 (A:) automated matches {Human coronavirus 229E [TaxId: 11137]}
+eklnaflvhdnvafyqgdvdtvvngvdfdfivnaanenlahggglakaldvytkgklqrl
+skehiglagkvkvgtgvmvecdslrifnvvgprkgkherdllikayntinneqgtpltpi
+lscgifgikletslevlldvcntkevkvfvytdtevckvkdfvsg
+>d2vria_ c.50.1.0 (A:) automated matches {Human coronavirus nl63 [TaxId: 277944]}
+kagsaaapftkpfavyknvkfylgdishlvncvsfdfvvnaanenllhgggvaraidilt
+egqlqslskdyissngplkvgagvmlecekfnvfnvvgprtgkhehsllveaynsilfen
+giplmpllscgifgvrienslkalfscdinkplqvfvyssneeqavlkfldgl
+>d2dx6a_ c.50.1.0 (A:) automated matches {Thermus thermophilus HB8 [TaxId: 300852]}
+arirvvqgditefqgdaivnaannylklgagvagailrkggpsiqeecdrigkirvgeaa
+vtgagnlpvryvihaavlgdepasletvrkatksalekavelglktvafpllgtgvgglp
+veavarvmleeikkapdtlevtlygyreedaeairral

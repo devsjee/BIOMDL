@@ -1,0 +1,101 @@
+>d1y1la_ c.44.1.1 (A:) Arsenate reductase ArsC {Archaeoglobus fulgidus [TaxId: 2234]}
+kvlfvcihntarsvmaealfnamakswkaesagvekaervdetvkrllaerglkakekpr
+tvdevnlddfdlivtvceesscvvlptdkpvtrwhienpagkdegtyrrvlaeieervkk
+lvge
+>d1jl3a_ c.44.1.1 (A:) Arsenate reductase ArsC {Bacillus subtilis [TaxId: 1423]}
+nkiiyflctgnscrsqmaegwakqylgdewkvysagieahglnpnavkamkevgidisnq
+tsdiidsdilnnadlvvtlcgdaadkcpmtpphvkrehwgfddparaqgteeekwaffqr
+vrdeignrlkefaetgk
+>d1jf8a_ c.44.1.1 (A:) Arsenate reductase ArsC {Staphylococcus aureus [TaxId: 1280]}
+dkktiyfistgnsarsqmaegwgkeilgegwnvysagiethgvnpkaieamkevdidisn
+htsdlidndilkqsdlvvtlcsdadnncpilppnvkkehwgfddpagkewsefqrvrdei
+klaiekfklr
+>d1d1qa_ c.44.1.1 (A:) Tyrosine phosphatase {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+iekpkisvafialgnfcrspmaeaifkhevekanlenrfnkidsfgtsnyhvgespdhrt
+vsickqhgvkinhkgkqiktkhfdeydyiigmdesninnlkkiqpegskakvclfgdwnt
+ndgtvqtiiedpwygdiqdfeynfkqityfskqflkkel
+>d1dg9a_ c.44.1.1 (A:) Tyrosine phosphatase {Cow (Bos taurus) [TaxId: 9913]}
+aeqvtksvlfvclgnicrspiaeavfrklvtdqnisdnwvidsgavsdwnvgrspdprav
+sclrnhgintahkarqvtkedfvtfdyilcmdesnlrdlnrksnqvkncrakiellgsyd
+pqkqliiedpyygndadfetvyqqcvrccraflekvr
+>d3n8ia_ c.44.1.1 (A:) Tyrosine phosphatase {Human (Homo sapiens) [TaxId: 9606]}
+atksvlfvclgnicrspiaeavfrklvtdqnisenwrvdsaatsgyeignppdyrgqscm
+krhgipmshvarqitkedfatfdyilcmdesnlrdlnrksnqvktckakiellgsydpqk
+qliiedpyygndsdfetvyqqcvrccraflekah
+>d1xwwa_ c.44.1.1 (A:) Tyrosine phosphatase {Human (Homo sapiens) [TaxId: 9606]}
+aeqatksvlfvclgnicrspiaeavfrklvtdqnisenwvidsgavsdwnvgrspdprav
+sclrnhgihtahkarqitkedfatfdyilcmdesnlrdlnrksnqvktckakiellgsyd
+pqkqliiedpyygndsdfetvyqqcvrccraflekah
+>d2p4ua_ c.44.1.1 (A:) Tyrosine phosphatase {Mouse (Mus musculus) [TaxId: 10090]}
+sksvlfvclgnicrspiaeavfrklvtdekvsdnwaidssavsdwnvgrppdpravsclr
+nhgistahkarqitkedfatfdyilcmdesnlrdlnrksnqvknckakiellgsydpqkq
+liiedpyygndsdfevvyqqclrcckaflekty
+>d1p8aa_ c.44.1.1 (A:) Tyrosine phosphatase {Tritrichomonas foetus [TaxId: 5724]}
+aaekkavlfvclgnicrspacegicrdmvgdkliidsaatsgfhvgqspdtrsqkvcksn
+gvdiskqrarqitkadfskfdviaaldqsilsdinsmkpsncrakvvlfnppngvddpyy
+ssdgfptmfasiskemkpfltehgli
+>d4etma1 c.44.1.0 (A:-3-156) automated matches {Bacillus subtilis [TaxId: 1423]}
+grgsmisvlfvclgnicrspmaeaifrdlaakkglegkikadsagiggwhignpphegtq
+eilrregisfdgmlarqvseqdlddfdyiiamdaenigslrsmagfkntshikrlldyve
+dsdladvpdpyytgnfeevcqliktgceqllasiqkekql
+>d2gi4a_ c.44.1.0 (A:) automated matches {Campylobacter jejuni [TaxId: 197]}
+mkkilficlgnicrspmaefimkdlvkkanlekeffinsagtsgehdgegmhygtknkla
+qlniehknftskkltqklcdesdflitmdnsnfknvlknftntqnkvlkitdfspslnyd
+evpdpwysgnfdetykilslacknllvflskhhhhh
+>d3rh0a_ c.44.1.0 (A:) automated matches {Corynebacterium glutamicum [TaxId: 1718]}
+mksvlfvcvgnggksqmaaalaqkyasdsveihsagtkpaqglnqlsvesiaevgadmsq
+gipkaidpellrtvdrvvilgddaqvdmpesaqgalerwsieepdaqgmermrivrdqid
+nrvqalla
+>d3js5a_ c.44.1.0 (A:) automated matches {Entamoeba histolytica [TaxId: 294381]}
+smkllfvclgnicrspaaeavmkkviqnhhltekyicdsagtcsyhegqqadsrmrkvgk
+srgyqvdsisrpvvssdfknfdyifamdndnyyelldrcpeqykqkifkmvdfcttiktt
+evpdpyyggekgfhrvidiledacenliikleegkl
+>d2feka_ c.44.1.0 (A:) automated matches {Escherichia coli K-12 [TaxId: 83333]}
+mfnnilvvcvgnicrsptaerllqryhpelkvesaglgalvgkgadptaisvaaehqlsl
+eghcarqisrrlcrnydliltmekrhierlcemapemrgkvmlfghwdneceipdpyrks
+retfaavytllersarqwaqalnaeqv
+>d2wmya_ c.44.1.0 (A:) automated matches {Escherichia coli [TaxId: 562]}
+mfdsilvictgnicrspigerllrrllpskkinsagvgalvdhtadesairvaeknglcl
+kghrgtkftsalarqydlllvmeyshleqisriapeargktmlfghwldskeipdpyrms
+deafdsvyqlleqaskrwaeklg
+>d4pica_ c.44.1.0 (A:) automated matches {Geobacillus stearothermophilus [TaxId: 1422]}
+pyrilfvctgntcrspmaaallenkqlpgvevksagvfaaegseasvhakmvlkekgiea
+ahrssqlkkehidwathvlamtsghkdmiverfpeakdktftlkqfvsgtdgdiadpfgg
+pievyraardeletlidrlaeklqteqlehhhhh
+>d1u2pa_ c.44.1.0 (A:) automated matches {Mycobacterium tuberculosis [TaxId: 1773]}
+plhvtfvctgnicrspmaekmfaqqlrhrglgdavrvtsagtgnwhvgscaderaagvlr
+ahgyptdhraaqvgtehlaadllvaldrnharllrqlgveaarvrmlrsfdprsgthald
+vedpyygdhsdfeevfaviesalpglhdwvderlar
+>d3rofa_ c.44.1.0 (A:) automated matches {Staphylococcus aureus [TaxId: 1280]}
+ayfqgmvdvafvclgnicrspmaeaimrqrlkdrnihdikvhsrgtgswnlgepphegtq
+kilnkhnipfdgmiselfeatddfdyivamdqsnvdniksinpnlkgqlfkllefsnmee
+sdvpdpyytnnfegvydmvlsscdnlidyivkdanlkg
+>d2cwda_ c.44.1.0 (A:) automated matches {Thermus thermophilus HB8 [TaxId: 300852]}
+drpvrvlfvclgnicrspmaegifrkllkergledrfevdsagtgawhvgepmdprarrv
+leeegayfphvarrltredvlaydhilvmdrenleevlrrfpeargkvrlvleelgggev
+qdpyygdledfrevywtleaalqafldrhg
+>d4lrqa_ c.44.1.0 (A:) automated matches {Vibrio cholerae [TaxId: 345073]}
+qkvlvvcmgnicrsptaeavlrakaaqlkvdvevdsagtigyhqgnppdarskaagekrg
+ysfsgikarkirdedfvkfdwilaadqenlaelkarcpqshqhklslmlshsdseyqeip
+dpyyggergfelvldlvedaaeqfllkl
+>d1iiba_ c.44.2.1 (A:) Enzyme IIB-cellobiose {Escherichia coli [TaxId: 562]}
+kkhiylfssagmstsllvskmraqaekyevpviieafpetlagekgqnadvvllgpqiay
+mlpeiqrllpnkpvevidsllygkvdglgvlkaavaaikkaaa
+>d1vkra_ c.44.2.1 (A:) PTS system mannitol-specific EIICBA component {Escherichia coli [TaxId: 562]}
+shvrkiivacdagmgssamgagvlrkkiqdaglsqisvtnsainnlppdvdlvithrdlt
+eramrqvpqaqhisltnfldsglytslterlvaaqrh
+>d2r4qa1 c.44.2.2 (A:171-273) Fructose-specific enzyme IIABC component FruA, middle domain {Bacillus subtilis [TaxId: 1423]}
+kilavtacptgiahtfmaadalkekakelgveikvetngssgikhkltaqeiedapaiiv
+aadkqvemerfkgkrvlqvpvtagirrpqeliekamnqdapiy
+>d2r48a1 c.44.2.2 (A:2-104) Mannose-specific enzyme IIBCA component ManP, N-terminal domain {Bacillus subtilis [TaxId: 1423]}
+kllaitscpngiahtymaaenlqkaadrlgvsikvetqggigvenklteeeireadaiii
+aadrsvnkdrfigkkllsvgvqdgirkpeeliqkalngdipvy
+>d2kyra_ c.44.2.0 (A:) automated matches {Escherichia coli K-12 [TaxId: 83333]}
+mskklialcacpmglahtfmaaqaleeaaveagyevkietqgadgiqnrltaqdiaeati
+iihsvavtpednerfesrdvyeitlqdaiknaagiikeieemiaseqq
+>d4jxda_ c.44.2.0 (A:) automated matches {Escherichia coli [TaxId: 83333]}
+maylvavtacvsgvahtymaaerleklcllekwgvsietqgalgtenrladedirradva
+llitdielagaerfehcryvqcsiyaflrepqrvmsavrkvlsapqqthlile
+>d2m1za_ c.44.2.0 (A:) automated matches {Listeria monocytogenes [TaxId: 169963]}
+mkrkiiavtacatgvahtymaaqalkkgakkmgnlikvetqgatgieneltekdvnigev
+vifavdtkvrnkerfdgkvvlevpvsapikdaekvinaalalidek

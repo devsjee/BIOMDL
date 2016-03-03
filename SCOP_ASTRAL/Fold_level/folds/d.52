@@ -1,0 +1,114 @@
+>d3proc1 d.52.1.1 (C:6-85) Alpha-lytic protease prodomain {Lysobacter enzymogenes [TaxId: 69]}
+pqlkfamqrdlgifptqlpqylqteklartqaaaierefgaqfagswiernedgsfklva
+atsgarksstlggvevrnvr
+>d3proc2 d.52.1.1 (C:86-163) Alpha-lytic protease prodomain {Lysobacter enzymogenes [TaxId: 69]}
+yslkqlqsameqldaganarvkgvskpldgvqswyvdprsnavvvkvddgatdagvdfva
+lsgadsaqvriesspgkl
+>d2proc1 d.52.1.1 (C:18-85) Alpha-lytic protease prodomain {Lysobacter enzymogenes [TaxId: 69]}
+ifptqlpqylqteklartqaaaierefgaqfagswiernedgsfklvaatsgarksstlg
+gvevrnvr
+>d1gpma3 d.52.2.1 (A:405-525) GMP synthetase C-terminal dimerisation domain {Escherichia coli [TaxId: 562]}
+gpglgvrvlgevkkeycdllrradaifieelrkadlydkvsqaftvflpvrsvgvmgdgr
+kydwvvslravetidfmtahwahlpydflgrvsnriinevngisrvvydisgkppatiew
+e
+>d2ywba3 d.52.2.1 (A:383-503) GMP synthetase C-terminal dimerisation domain {Thermus thermophilus HB8 [TaxId: 300852]}
+gpglavrvlgevteerleilrraddiftsllrewglyekvaqalavltpvrsvgvagder
+kygyvlalravttedfmtadwarlplefldeaarritrrvpeigrvvydltskppatiew
+e
+>d3tqia3 d.52.2.0 (A:404-523) automated matches {Coxiella burnetii [TaxId: 777]}
+gpglairilgevsaeyinilkqadaifieelkksdyyhqvsqafavfmplksvgvkgdar
+hygyiialravktvdfmtaqwadlpheflskvshrivneikevsrvvydmtnkppatiew
+>d2dpla2 d.52.2.0 (A:190-308) automated matches {Pyrococcus horikoshii [TaxId: 70601]}
+gpglavrvigevtpekirivreanaiveeeveraglrpwqafavllgvktvgvqgdiray
+ketiavrivesidgmtanamnvpwevlqriafritseipevgrvlyditnkppatiefe
+>d1egaa2 d.52.3.1 (A:183-295) GTPase Era C-terminal domain {Escherichia coli [TaxId: 562]}
+dyitdrsqrfmaseiireklmrflgaelpysvtveierfvsnerggydinglilveregq
+kkmvignkgakiktigiearkdmqemfeapvhlelwvkvksgwadderalrsl
+>d1wf3a2 d.52.3.1 (A:181-298) GTPase Era C-terminal domain {Thermus thermophilus [TaxId: 274]}
+dyaksdqtfgewvaeilreeamkrlwhevpyavatkveevaerengvlyikailyverps
+qkaivigeggrkikeigqatrkqleallgkkvyldlevkvypdwrkdpealrelgyrs
+>d2zkqc1 d.52.3.1 (c:17-95) Ribosomal protein S3 N-terminal domain {Dog (Canis familiaris) [TaxId: 9615]}
+fkaelnefltrelaedgysgvevrvtptrteiiilatrtqnvlgekgrrireltavvqkr
+fgfpegsvelyaekvatrg
+>d2qalc1 d.52.3.1 (C:1-105) Ribosomal protein S3 N-terminal domain {Escherichia coli [TaxId: 562]}
+gqkvhpngirlgivkpwnstwfantkefadnldsdfkvrqyltkelakasvsrivierpa
+ksirvtihtarpgivigkkgedveklrkvvadiagvpaqiniaev
+>d1wh9a_ d.52.3.1 (A:) Ribosomal protein S3 N-terminal domain {Mouse (Mus musculus) [TaxId: 10090]}
+gssgssgfkaelnefltrelaedgysgvevrvtptrteiiilatrtqnvlgekgrrirel
+tavvqkrfgfpegsvelyaekvatrgsgpssg
+>d2uubc1 d.52.3.1 (C:2-106) Ribosomal protein S3 N-terminal domain {Thermus thermophilus [TaxId: 274]}
+gnkihpigfrlgitrdwesrwyagkkqyrhllledqrirgllekelysaglarvdieraa
+dnvavtvhvakpgvvigrggerirvlreelakltgknvalnvqev
+>d2asba2 d.52.3.1 (A:184-262) Transcription factor NusA, C-terminal domains {Mycobacterium tuberculosis [TaxId: 1773]}
+thpnlvrklfslevpeiadgsveivavareaghrskiavrsnvaglnakgacigpmgqrv
+rnvmselsgekidiidydd
+>d2asba3 d.52.3.1 (A:263-329) Transcription factor NusA, C-terminal domains {Mycobacterium tuberculosis [TaxId: 1773]}
+dparfvanalspakvvsvsvidqtaraarvvvpdfqlslaigkegqnarlaarltgwrid
+irgdapp
+>d1hh2p2 d.52.3.1 (P:199-276) Transcription factor NusA, C-terminal domains {Thermotoga maritima [TaxId: 2336]}
+rvpefviglmkleipevengiveikaiarepgvrtkvavasndpnvdpigacigeggsri
+aailkelkgekldvlkws
+>d1hh2p3 d.52.3.1 (P:277-344) Transcription factor NusA, C-terminal domains {Thermotoga maritima [TaxId: 2336]}
+ddpkqlianalapatvieveildkenkaarvlvpptqlslaigkggqnarlaakltgwki
+dikpimnl
+>d1ib8a2 d.52.4.1 (A:1-90) Hypothetical protein SP14.3 (SP0552) {Pneumococcus (Streptococcus pneumoniae) [TaxId: 1313]}
+gsgvdaiativelvrevvepvieapfelvdieygkigsdmilsifvdkpegitlndtadl
+temispvldtikpdpfpeqyfleitspgle
+>d1v9ja_ d.52.6.1 (A:) BolA-like protein {Mouse (Mus musculus) [TaxId: 10090]}
+mkgsshhhhhhssgaslvprgsegaatmelsadylreklrqdleaehvevedttlnrcat
+sfrvlvvsakfegkpllqrhrlvneclaeelphihafeqktltpeqwtrqrre
+>d1ny8a_ d.52.6.1 (A:) Hypothetical protein YrbA {Escherichia coli [TaxId: 562]}
+miedpmenneiqsvlmnalslqevhvsgdgshfqviavgelfdgmsrvkkqqtvygplme
+yiadnrihavsikaytpaewardrklngflehhhhhh
+>d1kkga_ d.52.7.1 (A:) Ribosome-binding factor A, RbfA {Escherichia coli [TaxId: 562]}
+makefgrpqrvaqemqkeialilqreikdprlgmmttvsgvemsrdlayakvyvtflndk
+dedavkagikalqeasgfirsllgkamrlrivpeltffydnslvegmr
+>d1josa_ d.52.7.1 (A:) Ribosome-binding factor A, RbfA {Haemophilus influenzae [TaxId: 727]}
+rsdrvaqeiqkeiavilqrevkdprigmvtvsdvevssdlsyakifvtflfdhdemaieq
+gmkglekaspyirsllgkamrlrivpeirfiydqslvegm
+>d2e7ga1 d.52.7.1 (A:86-201) Ribosome-binding factor A, RbfA {Human (Homo sapiens) [TaxId: 9606]}
+rkedharlralngllykaltdllctpevsqelydlnvelskvsltpdfsacraywkttls
+aeqnahmeavlqrsaahmrhllmsqqtlrnvppivfvqdkgnaalaeldqllavad
+>d1pa4a_ d.52.7.1 (A:) Ribosome-binding factor A, RbfA {Mycoplasma pneumoniae [TaxId: 2104]}
+kerlendiirlinrtviheiynetvktghvthvklsddllhvtvyldcynreqidrvvga
+fnqakgvfsrvlahnlylakavqihfvkdkaidnam
+>d2dyja1 d.52.7.1 (A:4-94) Ribosome-binding factor A, RbfA {Thermus thermophilus [TaxId: 274]}
+gkahleaqlkralaeeiqaledprlflltveavrlskdgsvlsvyveafreeegalrals
+raerrlvaalarrvrmrrlprleflpwrasp
+>d2kzfa_ d.52.7.0 (A:) automated matches {Thermotoga maritima [TaxId: 2336]}
+gmnpayrkamleseiqkllmealqqlrdprlkkdfvtfsrvelskdkryadvyvsflgtp
+eerketveilnrakgffrtfiaknlrlyvapeirfyedkgieasvk
+>d1veha_ d.52.8.1 (A:) HIRA-interacting protein 5, HIRIP5 {Mouse (Mus musculus) [TaxId: 10090]}
+gssgssgseeddevvamikelldtrirptvqedggdviyrgfedgivrlklqgsctscps
+siitlksgiqnmlqfyipevegveqvsgpssg
+>d1xhja_ d.52.8.1 (A:) Nitrogen fixation protein NifU homolog SE0630 {Staphylococcus epidermidis [TaxId: 1282]}
+mptenptmfdqvaevierlrpfllrdggdctlvdvedgivklqlhgacgtcpsstitlka
+gieralheevpgvieveqvflehhhhhh
+>d1uwda_ d.52.8.2 (A:) Hypothetical protein TM0487 {Thermotoga maritima [TaxId: 2336]}
+mskkvtkedvlnalknvidfelgldvvslglvydiqiddqnnvkvlmtmttpmcplagmi
+lsdaeeaikkiegvnnveveltfdppwtpermspelrekfgv
+>d3cq1a_ d.52.8.2 (A:) automated matches {Thermus thermophilus HB8 [TaxId: 300852]}
+arnpleaqawalleavydpelgldvvnlgliydlvvepprayvrmtlttpgcplhdslge
+avrqalsrlpgveevevevtfeppwtlarlsekarrllg
+>d3lnoa_ d.52.8.0 (A:) automated matches {Anthrax bacillus (Bacillus anthracis) [TaxId: 1392]}
+namsqeafenklyanleavidpelgvdivnlglvydvtadennnavitmtmtsigcpmag
+qivsdvkkvlstnvpevneievnvvwnppwskermsrmakialgir
+>d2z51a1 d.52.8.0 (A:1-82) automated matches {Arabidopsis thaliana}
+mvplteenvesvldeirpylmsdggnvalheidgnvvrvklqgacgscpsstmtmkmgie
+rrlmekipeivavealpdeetg
+>d2z51a2 d.52.8.0 (A:83-154) automated matches {Arabidopsis thaliana}
+lelneeniekvleeirpyligtadgsldlveiedpivkiritgpaagvmtvrvavtqklr
+ekipsiaavqli
+>d2jnva_ d.52.8.0 (A:) automated matches {Rice (Oryza sativa) [TaxId: 4530]}
+mglpltagnvesvldqvrpyltadggdvalheiagnvvrlklqgacgscpsslitikrgi
+errlmekipdvaavepvtdketg
+>d3bypa1 d.52.9.1 (A:6-87) Putative Zinc transporter CzrB {Thermus thermophilus [TaxId: 274]}
+glppeeveriraflqerirgralevhdlktrragprsflefhlvvrgdtpveeahrlcde
+leralaqafpglqatihvepeg
+>d3h90a2 d.52.9.0 (A:209-290) automated matches {Escherichia coli K-12 [TaxId: 83333]}
+alpdeerqeiidivtswpgvsgahdlrtrqsgptrfiqihlemedslplvqahmvadqve
+qailrrfpgsdviihqdpcsvv
+>d2d28c1 d.52.10.1 (C:1-149) Type II secretion ATPase XpsE {Xanthomonas campestris [TaxId: 339]}
+meqrsaetriveallerrrlkdtdlvrarqlqaesgmgllallgrlglvserdhaetcae
+vlglplvdarqlgdtppemlpevqglslrflkqfhlcpvgerdgrldlwiadpyddyaid
+avrlatglplllhvglrseiddlierwyg

@@ -1,0 +1,65 @@
+>d1tkea2 d.67.1.1 (A:63-224) Threonyl-tRNA synthetase (ThrRS), second 'additional' domain {Escherichia coli [TaxId: 562]}
+kdeegleiirhscahllghaikqlwphtkmaigpvidngfyydvdldrtltqedvealek
+rmhelaeknydvikkkvswhearetfanrgesykvsildeniahddkpglyfheeyvdmc
+rgphvpnmrfchhfklmktagaywrgdsnnkmlqriygtawa
+>d1nyra3 d.67.1.1 (A:63-241) Threonyl-tRNA synthetase (ThrRS), second 'additional' domain {Staphylococcus aureus [TaxId: 1280]}
+tpgseealevlrhstahlmahaikrlygnvkfgvgpvieggfyydfdidqnissddfeqi
+ektmkqivnenmkierkvvsrdeakelfsndeyklelidaipedenvtlysqgdftdlcr
+gvhvpstakikefkllstagaywrgdsnnkmlqriygtaffdkkelkahlqmleerker
+>d2e1ba2 d.67.1.2 (A:88-216) AlaX-M trans-editing enzyme, C-terminal domain {Pyrococcus horikoshii [TaxId: 53953]}
+dwdyryklmrihtglhllehvlnevlgegnwqlvgsgmsvekgrydiaypenlnkykeqi
+islfnkyvdeggevkiwwegdrrytqirdfevipcggthvkdikeighikklkrssigrg
+kqrlemwle
+>d1v4pa_ d.67.1.2 (A:) Hypothetical protein PH0574 {Pyrococcus horikoshii [TaxId: 53953]}
+mysievrthsalhvvkgavvkvlgseakwtystyvkgnkgvlivkfdrkpsdeeireier
+lanekvkenapikiyelpreeaekmfgedmydlfpvpedvrilkvvviedwnvnacnkeh
+tkttgeigpikirkvrfrkskglleihfell
+>d3rfna_ d.67.1.2 (A:) automated matches {Pyrococcus horikoshii [TaxId: 70601]}
+ysievrthsalhvvkgavvkaagsaakwttstyvkgnkgvlivkaaleldkwawaameal
+anekvkenapikiyelpreeaekmfgedmydlfpvpedvrilkvvviedwnvnacnkeht
+kttgeigpikirkvrfrkskglleihfelle
+>d1f7ua3 d.67.2.1 (A:2-135) Arginyl-tRNA synthetase (ArgRS), N-terminal 'additional' domain {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+astanmisqlkklsiaepavakdshpdvnivdlmrnyisqelskisgvdsslifpalewt
+ntmergdllipiprlrikganpkdlavqwaekfpcgdflekveangpfiqfffnpqflak
+lvipdiltrkedyg
+>d1iq0a3 d.67.2.1 (A:1-96) Arginyl-tRNA synthetase (ArgRS), N-terminal 'additional' domain {Thermus thermophilus [TaxId: 274]}
+mlrraleeaiaqalkemgvpvrlkvarapkdkpgdygvplfalakelrkppqaiaqelkd
+rlplpefveeavpvggylnfrlrteallrealrpka
+>d1ge9a_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Aquifex aeolicus [TaxId: 63363]}
+mikeledifkeaekdmkkaveyykneiaglrtsrastalveeikveyygskvpikqlgti
+svpehnqiviqvwdqnavpaiekaireelnlnptvqgnvirvtlpplteerrrelvrllh
+kiteearvrvrnvrreakemieelegisedekkralerlqkltdkyideinklmeakeke
+imsv
+>d1ek8a_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Escherichia coli [TaxId: 562]}
+misdirkdaevrmdkcveafktqiskirtgraspslldgivveyygtptplrqlasvtve
+dsrtlkinvfdrsmspavekaimasdlglnpnsagsdirvplpplteerrkdltkivrge
+aeqarvavrnvrrdandkvkallkdkeisedddrrsqddvqkltdaaikkieaaladkea
+elmqf
+>d1dd5a_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Thermotoga maritima [TaxId: 2336]}
+vnpfikeakekmkrtlekiedelrkmrtgkpspaileeikvdyygvptpvnqlatisise
+ertlvikpwdksvlsliekainasdlglnpindgnvirlvfpsptteqrekwvkkakeiv
+eegkiairnirreilkkikedqkeglipeddakrleneiqkltdefiekldevfeikkee
+imef
+>d1eh1a_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Thermus thermophilus [TaxId: 274]}
+mtlkelyaetrshmqkslevlehnlaglrtgranpalllhlkveyygahvplnqiatvta
+pdprtlvvqswdqnalkaiekairdsdlglnpsnkgdalyinipplteerrkdlvravrq
+yaeegrvairnirrealdklkklakelhlsedetkraeaeiqkitdefiakadqlaekke
+qeilg
+>d1is1a_ d.67.3.1 (A:) Ribosome recycling factor, RRF {Vibrio parahaemolyticus [TaxId: 670]}
+mineikkdaqermdksvealknnlskvrtgrahpsllsgisveyygaatplnqvanvvae
+dartlaitvfdkeltqkvekaimmsdlglnpmsagtiirvplpplteerrkdlvkivrge
+aeggrvavrnirrdanndlkallkdkeisededrkaqeeiqkltdvavkkidevlaakek
+elmev
+>d1wqga_ d.67.3.1 (A:) automated matches {Mycobacterium tuberculosis [TaxId: 1773]}
+idealfdaeekmekavavarddlstirtgranpgmfsritidyygaatpitqlasinvpe
+arlvvikpyeanqlraietairnsdlgvnptndgalirvavpqlteerrrelvkqakhkg
+eeakvsvrnirrkameelhrirkegeagedevgraekdldktthqyvtqidelvkhkege
+llev
+>d4gfqa_ d.67.3.0 (A:) automated matches {Anthrax bacillus (Bacillus anthracis) [TaxId: 1392]}
+amgqqvlkfsnekmekavaaysrelatvragrasasvldkvqvdyygaptpvvqlanitv
+pearllviqpydktsigdiekailkadlglnpsndgtviriafpalteerrrdlvkvvkk
+yaeeakvavrnvrrdgnddlkklekageiteddlrgytediqketdkyiakvdeiaknke
+keimev
+>d1uv7a_ d.67.4.1 (A:) General secretion pathway protein M, EpsM {Vibrio cholerae [TaxId: 666]}
+qplnqvitnstrqfnielirvqprgemmqvwiqplpfsqlvswiaylqerqgvsvdaidi
+drgkvngvvevkrlqlkrgg

@@ -5,24 +5,48 @@ f.close()
 curr_class = ''
 cls=''
 f=open(cls+'.txt','w')
+f1=open('class_level_test.txt','w')
 text = ''
+count = 0
+count_t = 0
+test =''
 
 for line in data:
 	if line[0] =='>':
 		words = line.split(' ')
-		r = words[1].find('.'); cls = words[1][0:r+1];
+		r = words[1].find('.'); cls = words[1][0:r];
         	
 		if cls == curr_class:
+			count+=1
+			if count%10 == 0:
+				test+=line
+				count_t+=1
+			else:
+				text+=line
+
 			continue
 		else:
-			curr_class = cls
-			f.write(text)
+			print 'class ',curr_class,' has ',str(count),' members'
+			print 'class ',curr_class,' has ',str(count_t),' test members'
+			curr_class = cls[:]
+			f.writelines(text)
 			f.close()
-			text = ''
-			f=open(cls+'.txt','w')
+			#f1.writelines(test)
+			#f1.close()
+			text = line
+			#test = ''
+			count =1
+			count_t = 0
+			f=open(cls,'w')
+			#f1=open(cls+'_test.txt','w')
 	else:
-		text+=line.strip()
+		if count%10 == 0:
+			test+=line
+		else:
+			text+=line
 
 
-f.write(text)
+f.writelines(text)
 f.close()
+f1.writelines(test)
+f1.close()

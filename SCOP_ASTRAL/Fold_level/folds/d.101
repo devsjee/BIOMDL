@@ -1,0 +1,63 @@
+>d2je6b2 d.101.1.1 (B:156-241) Exosome complex exonuclease 1, ECX1 {Sulfolobus solfataricus [TaxId: 2287]}
+pmrdliagvavgkadgviildlneteamwgeadmpiammpslnqvtlfqlngsmtpdefr
+qafdlavkginiiynlerealkskyv
+>d2br2b2 d.101.1.1 (B:156-248) Exosome complex exonuclease 1, ECX1 {Sulfolobus solfataricus [TaxId: 2287]}
+pmrdliagvavgkadgviildlnetedmwgeadmpiammpslnqvtlfqlngsmtpdefr
+qafdlavkginiiynlerealkskyvefkeegv
+>d3m7ng2 d.101.1.1 (G:179-257) Exosome complex exonuclease 2, ECX2 {Archaeoglobus fulgidus [TaxId: 2234]}
+pvrdlpvsvtslivgnkylvdpsreemsvgdttltittdkddnvvamqksggylldeklf
+delldvsincarklrekfk
+>d2je6a2 d.101.1.1 (A:192-275) Exosome complex exonuclease 2, ECX2 {Sulfolobus solfataricus [TaxId: 2287]}
+plnypvvtisvakvdkylvvdpdldeesimdakisfsytpdlkivgiqksgkgsmslqdi
+dqaentarstavklleelkkhlgi
+>d2nn6f2 d.101.1.1 (F:176-270) Exosome complex exonuclease MTR3 {Human (Homo sapiens) [TaxId: 9606]}
+mydlvvgcglslapgpaptwlldptrleeeraaagltvalmpvlnqvagllgsgegglte
+swaeavrlglegcqrlypvlqqslvraarrrgaaa
+>d2nn6b2 d.101.1.1 (B:151-240) Exosome complex exonuclease RRP41 {Human (Homo sapiens) [TaxId: 9606]}
+pmrdfvcacsagfvdgtaladlshveeaaggpqlalallpasgqiallemdarlhedhle
+rvleaaaqaardvhtlldrvvrqhvreasi
+>d2nn6e2 d.101.1.1 (E:192-285) Exosome complex exonuclease RRP42 {Human (Homo sapiens) [TaxId: 9606]}
+lsvenvpcivtlckigyrhvvdatlqeeacslasllvsvtskgvvtcmrkvgkgsldpes
+ifemmetgkrvgkvlhaslqsvvhkeeslgpkrq
+>d2nn6c2 d.101.1.1 (C:188-276) Exosome complex exonuclease RRP43 {Human (Homo sapiens) [TaxId: 9606]}
+nirthpvatsfavfddtllivdptgeeehlatgtltivmdeegklcclhkpggsgltgak
+lqdcmsravtrhkevkklmdeviksmkpk
+>d2nn6a2 d.101.1.1 (A:185-302) Exosome complex exonuclease RRP45 {Human (Homo sapiens) [TaxId: 9606]}
+lsihhmpicvsfaffqqgtyllvdpnereervmdgllviamnkhreictiqssggimllk
+dqvlrcskiagvkvaeitelilkalendqkvrkeggkfgfaesianqritafkmekap
+>d1e3ha5 d.101.1.1 (A:152-262) Polynucleotide phosphorylase/guanosine pentaphosphate synthase (PNPase/GPSI), domains 2 and 5 {Streptomyces antibioticus [TaxId: 1890]}
+fsgpiggvrvalirgqwvafpthteledavfdmvvagrvledgdvaimmveaeatektiq
+lvkdgaeapteevvaagldaakpfikvlckaqadlaakaakptgefpvfld
+>d1e3ha6 d.101.1.1 (A:483-578) Polynucleotide phosphorylase/guanosine pentaphosphate synthase (PNPase/GPSI), domains 2 and 5 {Streptomyces antibioticus [TaxId: 1890]}
+apvagiamglisqeingethyvaltdilgaedafgdmdfkvagtkefvtalqldtkldgi
+pasvlaaalkqardarlhildvmmeaidtpdemspn
+>d1udsa2 d.101.1.1 (A:151-255) Ribonuclease PH, domain 2 {Aquifex aeolicus [TaxId: 63363]}
+eetpikdfvaavsvgivndrilldlnfeedsaaqvdmnvvgtgsgrlsevhtmgeeysft
+kdelikmldlaqkginelielqkklyviqdgkwerselkevsstt
+>d3dd6a2 d.101.1.1 (A:152-245) Ribonuclease PH, domain 2 {Bacillus anthracis}
+kipvkdylaatsvgiveeqgvvldlnyaedskadvdmnvimtgkgqfvevqgtgeeatfs
+raqlnelldaaeqgifqlidiqkealgdivshie
+>d1oysa2 d.101.1.1 (A:152-237) Ribonuclease PH, domain 2 {Bacillus subtilis [TaxId: 1423]}
+tnpitdflaaisvgidkeqgilldlnyeedssaevdmnvimtgsgrfvelqgtgeeatfs
+redlngllglaekgiqelidkqkevl
+>d1r6la2 d.101.1.1 (A:152-239) Ribonuclease PH, domain 2 {Pseudomonas aeruginosa [TaxId: 287]}
+kgnplkqmvaavsvgiyqgvpvldldyledsaaetdlnvvmtdaggfievqgtaegapfr
+paelnamlelaqqgmqelfelqraalae
+>d3m7nd2 d.101.1.1 (D:154-250) automated matches {Archaeoglobus fulgidus [TaxId: 2234]}
+pmkgmitsvavgkadgqlvldpmkeednfgeadmpfaflirngkiesiallqmdgrmtrd
+evkqaielakkgalqiyemqreailrryievgeemde
+>d2wp8b2 d.101.1.0 (B:153-239) automated matches {Baker's yeast (Saccharomyces cerevisiae) [TaxId: 4932]}
+smfdyisgisvglydttplldtnsleenamstvtlgvvgkseklslllvedkipldrlen
+vlaigiagahrvrdlmdeelrkhaqkr
+>d2wnra2 d.101.1.0 (A:188-269) automated matches {Methanothermobacter thermautotrophicus [TaxId: 145262]}
+pvnrkalmctfakigneivldpsleeediltarisigvteegsicamqkggegpltrddv
+lkavsiavekvpqlieyldksm
+>d3b4ta2 d.101.1.0 (A:152-247) automated matches {Mycobacterium tuberculosis [TaxId: 83332]}
+sdprplscaiaavsvgvvdgrirvdlpyeedsraevdmnvvatdtgtlveiqgtgegatf
+arstldklldmalgacdtlfaaqrdalalpypgvlp
+>d2po1a2 d.101.1.0 (A:154-244) automated matches {Pyrococcus abyssi [TaxId: 29292]}
+pmrdlvaacaagkiegeivldlnkeednygeadvpvaimplknditllqmdgyltkdefi
+eavklaikgakavyqkqrealkekylkiaqe
+>d2po1b2 d.101.1.0 (B:188-274) automated matches {Pyrococcus abyssi [TaxId: 29292]}
+pvekipvpvtfakignilvvdpsldeelvmdgkitittdetghisavqkseggafkleev
+myavetafkkaeeirklileavekakq

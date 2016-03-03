@@ -1,0 +1,86 @@
+>d1s28a_ d.198.1.1 (A:) AvrPphF ORF1, chaperone of AvrPphF ORF2 {Pseudomonas syringae pv. phaseolicola [TaxId: 319]}
+gamknsfdrlidglakdygmpgfpekkhehevycfefkevsiriyqdkfkwvyflsdigv
+idnldsnacqsllrlnefnlrtpfftvglnekkdgvvhtripllnldnvemrrvfealln
+lsgevkktfg
+>d1xkpb1 d.198.1.1 (B:2-122) Chaperone protein SycN {Yersinia pestis [TaxId: 632]}
+swiepiishfcqdlgvptssplspliqlemaqsgtlqleqhgatltlwlarslawhrced
+amvkaltltaaqksgalplragwlgesqlvlfvsldersltlpllhqafeqllrlqqevl
+a
+>d1xkpc1 d.198.1.1 (C:2-127) Chaperone protein YscB {Yersinia pestis [TaxId: 632]}
+qnllknlaaslgrkpfvadkqgvyrltidkhlvmlaphgselvlrtpidapmlregnnvn
+vtllrslmqqalawakrypqtlvlddcgqlvlearlrlqeldthglqevinkqlallehl
+ipqltp
+>d1ttwa_ d.198.1.1 (A:) Putative YopH chaperone SycH {Yersinia pestis [TaxId: 632]}
+tysslleefatelgleeietnelghgavtidkiwvvhlapinekelvafmragiltgqsq
+lydilrknlfsplsgvircaldkddhwllwsqlnindtsgtqlasvltslvdkavtls
+>d1k3ea_ d.198.1.1 (A:) Secretion chaperone CesT {Escherichia coli [TaxId: 562]}
+mssrselllekfaekigigsisfnenrlcsfaideiyyislsdandeymmiygvcgkfpt
+dnsnfaleilnanlwfaenggpylcyeagaqslllalrfplddatpekleneievvvksm
+enlylvlhnqgitlenehmkieeiss
+>d1k3sa_ d.198.1.1 (A:) Secretion chaperone SigE {Salmonella enterica [TaxId: 28901]}
+mesllnrlydalgldapedeplliiddgiqvyfnesdhtlemccpfmplpddiltlqhfl
+rlnytsavtigadadntalvalyrlpqtsteeealtgfelfisnvkqlkehya
+>d2fm8a1 d.198.1.1 (A:1-134) Surface presentation of antigens protein SpaK (Spa15) {Salmonella typhimurium [TaxId: 90371]}
+mqhldiaelvrsalevsgcdpsliggidshstivldlfalpsicisvkdddvwiwaqlga
+dsmvvlqqrayeilmtimegchfarggqlllgeqngeltlkalvhpdflsdgekfstaln
+gfynylevfsrslm
+>d1ry9a_ d.198.1.1 (A:) Surface presentation of antigens protein SpaK (Spa15) {Shigella flexneri [TaxId: 623]}
+msninlvqlvrdslftigcppsiitdldshsaitisldsmpainialvneqvmlwanfda
+psdvklqssaynilnlmlmnfsysinelvelhrsdeylqlrvvikddyvhdgivfaeilh
+efyqrmeilngvl
+>d1jyoa_ d.198.1.1 (A:) Virulence effector SptP secretion chaperone SicP {Salmonella typhimurium [TaxId: 90371]}
+lqahqdiianigeklglpltfddnnqclllldsdiftsieakddiwllngmiiplspvcg
+dsiwrqimvingelaannegtlayidaaetlllihaitdltntyhiisqlesfvnqqeal
+knilqeyakv
+>d1k6za_ d.198.1.1 (A:) YopE chaperone SycE {Yersinia pestis [TaxId: 632]}
+sfeqaitqlfqqlslsipdtiepvigvkvgefachitehpvgqilmftlpsldnndeket
+llshnifsqdilkpilswdevgghpvlwnrqplnsldnnslytqlemlvqgaerlqtssl
+ispprsfshh
+>d1l2wi_ d.198.1.1 (I:) YopE chaperone SycE {Yersinia pestis [TaxId: 632]}
+svgemsgrsvsqqtsdqyannlagrtespqgsslasriierlssvahsvigfiqrmf
+>d4gf3a_ d.198.1.1 (A:) automated matches {Yersinia pestis [TaxId: 632]}
+rtysslleefatelgleeietnelghgavtidkiwvvhlapinekelvafmragiltgqs
+qlydilrknlfsplsgvircaldkddhwllwsqlnindtsgtqlasvltslvdkavtlsc
+eptmkkeeddhrpsss
+>d2plga1 d.198.1.2 (A:3-154) Uncharacterized protein Tll0839 {Synechococcus elongatus [TaxId: 32046]}
+ltmvsevqpvspasldaplenaveiietvisslhqgdaplvgqtdsgkiwmfrygsaevf
+vqlsghteedfltiwspvlplpvadelalyrklltlnwlttfeahfaiaeeqvqvvasrt
+lggitageisrlitivatladdyddalraefk
+>d4jmfb_ d.198.1.0 (B:) automated matches {Pseudomonas aeruginosa [TaxId: 208964]}
+mnplyraaihqlflaldlptpndeesvlslqvgphlchlaehptdhllmftrlegqgdat
+aneqnlfsqdpckpilgrdpesgerllwnrqplqlldraqihhqleqlvaaaeelr
+>d3epua_ d.198.1.0 (A:) automated matches {Salmonella typhimurium [TaxId: 90371]}
+mysradrllrqfslklntdsivfdenrlcsfiidnryrilltstnseyimiygfcgkppd
+nnnlafeflnanlwfaenngphlcydnnsqslllalnfslnessvekleceievvirsme
+nlyhilqdkgitldtd
+>d1k8kd1 d.198.2.1 (D:1-120) ARPC2 (34 kDa subunit) {Cow (Bos taurus) [TaxId: 9913]}
+millevnnriieetlalkfenaaagnkpeavevtfadfdgvlyhisnpngdktkvmvsis
+lkfykelqahgadellkrvygsylvnpesgynvsllydlenlpaskdsivhqagmlkrnc
+>d1k8kd2 d.198.2.1 (D:121-284) ARPC2 (34 kDa subunit) {Cow (Bos taurus) [TaxId: 9913]}
+fasvfekyfqfqeegkegenravihyrddetmyveskkdrvtvvfstvfkddddvvigkv
+fmqefkegrrashtapqvlfshrepplelkdtdaavgdnigyitfvlfprhtnasardnt
+inlihtfrdylhyhikcskayihtrmraktsdflkvlnrarpda
+>d1k8kf_ d.198.2.1 (F:) ARPC4 (20 kDa subunit) {Cow (Bos taurus) [TaxId: 9913]}
+tatlrpylsavratlqaalclenfssqvverhnkpevevrsskelllqpvtisrnekekv
+liegsinsvrvsiavkqadeiekilchkfmrfmmmraenffilrrkpvegydisflitnf
+hteqmykhklvdfvihfmeeidkeisemklsvnararivaeeflknf
+>d2fkia1 d.198.3.1 (A:1-118) Hypothetical protein YjbR {Escherichia coli [TaxId: 562]}
+mtisellqycmakpgaeqsvhndwkatqikvedvlfamvkevenrpavslktspelaell
+rqqhsdvrpsrhlnkahwstvyldgslpdsqiyylvdasyqqavnllpeekrkllvql
+>d2i8da1 d.198.4.1 (A:2-122) Uncharacterized protein LSEI2283 {Lactobacillus casei [TaxId: 1582]}
+gslaewyqriptpddltrveslfanmqaqfpqlklefkwnqpmftdhgtfimgfnpskkh
+lavaiepqtmtrfipqidkagydhsqiirfpwhkpldeqlihdliaytidqkkdattfwq
+r
+>d2oc6a1 d.198.4.1 (A:1-123) Uncharacterized protein YdhG {Bacillus subtilis [TaxId: 1423]}
+mdvfseylagiadpfhrerteevltwiknkypnlhteikwnqpmftdhgtfiigfsvskk
+hlavapekvtiahveddivkagydyteqliripwngpvdytllekmiefnildkadcstf
+wrk
+>d2kl4a_ d.198.4.1 (A:) automated matches {Bacillus halodurans [TaxId: 86665]}
+gshmevfaeylkgidhpdhrdrteeilswvaatfpnlepqmkwntpmfsnqgtfiigfst
+skhhlsvspeeigisqfadaiaqagysatkglfripwndpvhyellkqmiefniqdke
+>d2g7ja1 d.198.5.1 (A:1-112) Putative cytoplasmic protein YgaC {Salmonella typhimurium [TaxId: 90371]}
+mylrpdevarvlekagftvdvvtnktygyrrgenyvyvnrearmgrtaliihprlkdrss
+sladpasdiktcdhyqnfplylggethehygiphgfssrialerylnglfgd
+>d2od0a1 d.198.5.2 (A:3-105) Hypothetical protein VP1028 {Vibrio parahaemolyticus [TaxId: 670]}
+kpilkdsmklfealgtiksrsmfggfglfadetmfalvvnnqlhiradqqtssdfetqgl
+kpyvykkrgfpvvtkyyaisselwessdrlievakkslenakl

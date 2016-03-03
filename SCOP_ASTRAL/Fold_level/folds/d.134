@@ -1,0 +1,55 @@
+>d3mm5a2 d.134.1.1 (A:167-238,A:305-417) Dissimilatory sulfite reductase subunit alpha, DsrA {Archaeoglobus fulgidus [TaxId: 2234]}
+sdlrtpsacmgpalcefacydtlelcydltmtyqdelhrpmwpykfkikcagcpndcvas
+karsdfaiigtwXrgatiliggkapfvegavigwvavpfvevekpydeikeileaiwdww
+deegkfrerigeliwrkgmreflkvigreadvrmvkaprnnpfmffekdelkpsayteel
+kkrgmw
+>d2v4ja3 d.134.1.1 (A:168-241,A:323-437) Dissimilatory sulfite reductase subunit alpha, DsrA {Desulfovibrio vulgaris [TaxId: 881]}
+gsnlrtpesclgksrcefacydsqaacyeltmeyqdelhrpafpykfkfkfdacpngcva
+siarsdfsvigtwkXrgasilcgakapildgaqmgsllvpfvaaeepfdeikevvekiwd
+wwmeegknrerlgetmkrlsfqkllevteiapvpqhvkeprtnpyiffkeeevpggwdrd
+iteyrkrhlr
+>d3mm5b2 d.134.1.1 (B:123-196,B:262-366) Dissimilatory sulfite reductase subunit beta, DsrB {Archaeoglobus fulgidus [TaxId: 2234]}
+kgeyglsnivhtqgwihchtpaidasgivkavmdelyeyftdhklpamcrislaccanmc
+gavhasdiaivgihXdgaaimvggklsearrmpelskvvvpwvpnepprwptlvkyvkqi
+leawaanankherliewvdrigwerffeltgleftqhliddyritpyfysefrastqfkw
+>d2v4jb3 d.134.1.1 (B:136-208,B:278-381) Dissimilatory sulfite reductase subunit beta, DsrB {Desulfovibrio vulgaris [TaxId: 881]}
+gagvsnivhtqgwvhchtpatdasgpvkaimdevfedfqsmrlpapvrislaccinmcga
+vhcsdigvvgihrXgdgvvimvggkvsnrismpkfskvvvayipnepprwpsltktikhi
+ievysanaykyerlgewaerigwerffsltglefshhliddfrdpayytwrqstqfkf
+>d2akja3 d.134.1.1 (A:431-556) Ferredoxin--nitrite reductase, NIR {Spinach (Spinacia oleracea) [TaxId: 3562]}
+ppilmkglvactgsqfcgqaiietkaralkvteevqrlvsvtrpvrmhwtgcpnscgqvq
+vadigfmgcmtrdengkpcegadvfvggrigsdshlgdiykkavpckdlvpvvaeilinq
+fgavpr
+>d2akja4 d.134.1.1 (A:175-345) Ferredoxin--nitrite reductase, NIR {Spinach (Spinacia oleracea) [TaxId: 3562]}
+mdnvrnpvgnplagidpheivdtrpftnlisqfvtansrgnlsitnlprkwnpcvigshd
+lyehphindlaympatkngkfgfnllvggffsikrceeaipldawvsaedvvpvckamle
+afrdlgfrgnrqkcrmmwlidelgmeafrgevekrmpeqvlerasseelvq
+>d1zj8a3 d.134.1.1 (A:407-555) Sulfite reductase NirA {Mycobacterium tuberculosis [TaxId: 1773]}
+pshwrrnlmacsgiefcklsfaetrvraqhlvpelerrledinsqldvpitvningcpns
+cariqiadigfkgqmiddghggsvegfqvhlgghlgldagfgrklrqhkvtsdelgdyid
+rvvrnfvkhrsegerfaqwviraeeddlr
+>d1zj8a4 d.134.1.1 (A:162-326) Sulfite reductase NirA {Mycobacterium tuberculosis [TaxId: 1773]}
+gdcprvvlgsplagesldevldptwaieeivrryigkpdfadlprkyktaisglqdvahe
+indvafigvnhpehgpgldlwvggglstnpmlaqrvgawvplgevpevwaavtsvfrdyg
+yrrlrakarlkflikdwgiakfrevleteylkrplidgpapepvk
+>d4g38a2 d.134.1.0 (A:146-345) automated matches {Escherichia coli K-12 [TaxId: 83333]}
+atawdmnrnvlctsnpyesqlhaeayewakkisehllprtrayaeiwldqekvattdeep
+ilgqtylprkfkttvvippqndidlhandmnfvaiaengklvgfnllvggglsiehgnkk
+tyartasefgylplehtlavaeavvttqrdwgnrtdrknaktkytlervgvetfkaever
+ragikfepirpyeftgrgdr
+>d3b0ga2 d.134.1.0 (A:175-345) automated matches {Tobacco (Nicotiana tabacum) [TaxId: 4097]}
+mdnvrnpvgnplagidpeeivdtrpytnllsqfitgnsrgnpavsnlprkwnpcvvgshd
+lyehphindlaympatkdgrfgfnllvggffsakrcdeaipldawvpaddvvpvcraile
+afrdlgfrgnrqkcrmmwlidelgvegfraevekrmpqqqleraspedlvq
+>d3b0ga4 d.134.1.0 (A:430-555) automated matches {Tobacco (Nicotiana tabacum) [TaxId: 4097]}
+ppilmkglvactgnqfcgqaiietkarslkiteevqrqvsltkpvrmhwtgcpntcaqvq
+vadigfmgcltrdkngktvegadvflggrigsdshlgevykkavpcddlvplvvdllvnn
+fgavpr
+>d3b0ha2 d.134.1.0 (A:175-345) automated matches {Tobacco (Nicotiana tabacum) [TaxId: 4097]}
+mdnvrnpvgnplagidpheivdtrpytnllsqyvtanfrgnpavtnlprkwnvcvigshd
+lyehpqindlaympatkdgrfgfnllvggffspkrcaeavpldawvpaddvvpvckaile
+ayrdlgtrgnrqktrmmwlvdelgvegfraevvkrmpqqkldrestedlvq
+>d3b0ha4 d.134.1.0 (A:431-555) automated matches {Tobacco (Nicotiana tabacum) [TaxId: 4097]}
+ppilmknlvactgnqfcgkaiietkarsmkiteevqllvsitqpvrmhwtgcpnscaqvq
+vadigfmgcltrkegktvegadvylggrigsdshlgdvykksvpcedlvpiivdllvdnf
+gavpr
