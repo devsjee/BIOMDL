@@ -203,7 +203,7 @@ for item in test_list[0:500]:
 	max_compression = -1000
 	label = []
 	total +=1
-	fout.write('\n\ntest case no.'+str(total)+'  '+test_case+'\t'+test+'\n')
+	fout.write('\n\n'+test_case+'\t'+test+'\n')
 	for family in FAM_NAMES:
 		
 		load_data(family,test)
@@ -220,7 +220,7 @@ for item in test_list[0:500]:
 			#f.write("[")
 			fout.write(output[i]+ ', ')
 			#f.write("] ")
-		fout.write('Class '+str(family)+'  compression '+str(compression))
+		fout.write('\t Compression '+str(compression))
 		print 'Class ',str(family),'  compression ',str(compression)
 		if compression > max_compression:
 			max_compression = compression

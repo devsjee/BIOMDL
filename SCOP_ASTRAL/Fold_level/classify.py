@@ -1,10 +1,11 @@
 import pickle
 import math
 import copy
+from sklearn.metrics import confusion_matrix
 
 FOLDER = './'
 TEST_FNAME ='fold_level_test.txt'
-FAM_NAMES = ['a.1','a.2','a.3','a.24','a.29','a.45','b.6','b.42','b.60','c.3','c.14','c.108','c.95','d.3','d.129','d.79','d.92','e.3','f.23','g.37']
+FAM_NAMES = ['a.1','a.2','a.3','a.4','a.24','a.29','a.39','a.45','a.60','a.118','b.6','b.29','b.36','b.40','b.42','b.60','b.82','b.121','c.2','c.3','c.14','c.108','d.3','d.79','d.92','d.129','e.3','f.23','g.39']
 
 
 DLG_stored = []
@@ -14,6 +15,8 @@ corpus = ''
 corpus_total = {}
 test = ''
 X = 0
+label_pred = []
+label_actual = []
 
 def load_freq():
 	global freq_total 
@@ -198,14 +201,14 @@ print len(test_list)
 correct = 0
 total = 0
 fout = open( FOLDER+'OUTPUTS/output.txt','a') 
-for item in test_list[0:5]:
+for item in test_list:
 	test_case = item[0]
 	test = item[1]
 	
 	max_compression = -1000
 	label = []
 	total +=1
-	fout.write('\n\n'+test_case+'\t'+test+'\n')
+	fout.write('\n\nActual Fold : '+test_case+'\t'+test+'\n')
 	for family in FAM_NAMES:
 		
 		load_data(family,test)
@@ -217,7 +220,7 @@ for item in test_list[0:5]:
 
 		output,compression = OpSeg(test)
 		#print output
-		fout.write('\n'+family+' gives following output\n')
+		fout.write('\nFold '+family+' gives following output\n')
 		for i in range(len(output)):
 			#f.write("[")
 			fout.write(output[i]+ ', ')
@@ -236,10 +239,15 @@ for item in test_list[0:5]:
 	print  test_case == label
 	if test_case == label:
 		correct+=1.0
+	label_pred.append(label)
+	label_actual.append(test_case)
 
 print 'Correct : ',str(correct),' Total: ',str(total),' Precision is ',str((correct/total)*100)
 
+print 
+print
 
+confusion_matrix(label_actual,label_pred,['a.1','a.2','a.3','a.4','a.24','a.29','a.39','a.45','a.60','a.118','b.6','b.29','b.36','b.40','b.42','b.60','b.82','b.121','c.2','c.3','c.14','c.108','d.3','d.79','d.92','d.129','e.3','f.23','g.39'])
 
 
 

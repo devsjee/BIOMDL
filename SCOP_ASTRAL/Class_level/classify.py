@@ -196,7 +196,7 @@ print len(test_list)
 correct = 0
 total = 0
 fout = open( FOLDER+'OUTPUTS/output.txt','a') 
-for item in test_list[0:500]:
+for item in test_list:
 	test_case = item[0]
 	test = item[1]
 	print test_case
