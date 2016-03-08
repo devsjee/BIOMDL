@@ -1,6 +1,6 @@
 No of folds : 28 (across all classes a to f)
 
-Total number of testcases :526
+Total number of testcases :526 
 
 Correct :  268.0  Total:  526  Precision is  50.9505703422
 
