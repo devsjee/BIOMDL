@@ -1,2 +1,4 @@
 # BIOMDL
-I am going to put the results of experiments of performing MDL on the protein dataset into this repository
+In this work, I have explored the use of an unsupervised text segmentation algorithm for the task of extracting “biological words” from protein sequences.
+
+For more details, please see https://aclanthology.org/W17-2330/.
